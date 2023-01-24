@@ -12,13 +12,8 @@ def extract_source(url):
 html_text=extract_source("https://sofifa.com/players?r=220069&set=true")
 soup = BeautifulSoup(html_text, 'html.parser')
 player_list=[]
-print(soup.prettify())
-
-#alll=soup.find('table',class_='table table-hover persist-area')
-#print(soup.prettify())
 player_data={}
 players=soup.find_all('tr')
-print(type(players))
 def controle(x):
     if x is not None:
         x=x.text
@@ -37,21 +32,32 @@ for player in players:
 
         player_team=player.find('figure',class_="avatar avatar-sm transparent").next_sibling.next_sibling
         player_team=controle(player_team)
-        print(player_team)
 
         player_value=player.find('td',class_='col-vl')
         player_value=controle(player_value)
 
         player_contract=player.find('div',class_='sub')
         player_contract=controle(player_contract)
+        player_contract=player_contract[1:]
+
+        player_post=[]
+        player_posts=player.find_all('span',class_='pos')
+        for i in player_posts:
+            i=i.text
+            player_post.append(i)
 
         player_data = {
             "name" : player_name,
             "age" :player_age,
             "team":player_team,
             "value":player_value,
-            "contract":player_contract
+            "contract":player_contract,
+            "Posts":player_post,
         }
         player_list.append(player_data)
 
-print(player_list)
+df = pd.DataFrame(player_list)
+print(df.head())
+df.to_csv('datadata.csv',index=False)
+
+#print(player_list)

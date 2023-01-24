@@ -1,0 +1,61 @@
+name,age,team,value,contract,Posts
+R. Lewandowski,32,FC Bayern München,€119.5M,2014 ~ 2023,['ST']
+L. Messi,34,Paris Saint Germain,€69.5M,2021 ~ 2023,"['RW', 'ST', 'CF']"
+K. Mbappé,22,Paris Saint Germain,€194M,2018 ~ 2025,"['ST', 'LW']"
+M. Salah,29,Liverpool,€129M,2017 ~ 2023,['RW']
+K. De Bruyne,30,Manchester City,€125.5M,2015 ~ 2025,"['CM', 'CAM']"
+K. Benzema,33,Real Madrid,€84M,2009 ~ 2023,"['CF', 'ST']"
+Cristiano Ronaldo,36,Manchester United,€45M,2021 ~ 2023,['ST']
+N. Kanté,30,Chelsea,€100M,2016 ~ 2023,"['CDM', 'CM']"
+V. van Dijk,29,Liverpool,€100M,2018 ~ 2025,['CB']
+Neymar Jr,29,Paris Saint Germain,€117.5M,2017 ~ 2025,"['LW', 'CAM']"
+M. Neuer,35,FC Bayern München,€13.5M,2011 ~ 2024,['GK']
+Alisson,28,Liverpool,€82M,2018 ~ 2027,['GK']
+J. Kimmich,26,FC Bayern München,€108M,2015 ~ 2025,"['CDM', 'RB']"
+Ederson,27,Manchester City,€94M,2017 ~ 2026,['GK']
+S. Mané,29,Liverpool,€101M,2016 ~ 2023,"['LW', 'CF']"
+H. Kane,27,Tottenham Hotspur,€112M,2010 ~ 2024,['ST']
+J. Oblak,28,Atlético Madrid,€88M,2014 ~ 2023,['GK']
+Casemiro,29,Real Madrid,€88M,2013 ~ 2025,['CDM']
+H. Son,28,Tottenham Hotspur,€104M,2015 ~ 2025,"['LW', 'LM', 'ST']"
+T. Courtois,29,Real Madrid,€79M,2018 ~ 2026,['GK']
+Rúben Dias,24,Manchester City,€111.5M,2020 ~ 2027,['CB']
+E. Haaland,20,Borussia Dortmund,€143.5M,2020 ~ 2024,['ST']
+G. Donnarumma,22,Paris Saint Germain,€106M,2021 ~ 2026,['GK']
+João Cancelo,27,Manchester City,€96M,2019 ~ 2027,"['LB', 'RB']"
+L. Goretzka,26,FC Bayern München,€107M,2018 ~ 2026,"['CM', 'CDM']"
+Marquinhos,27,Paris Saint Germain,€97.5M,2013 ~ 2024,['CB']
+K. Navas,34,Paris Saint Germain,€15.5M,2019 ~ 2024,['GK']
+M. ter Stegen,29,FC Barcelona,€70M,2014 ~ 2025,['GK']
+T. Kroos,31,Real Madrid,€75M,2014 ~ 2023,['CM']
+L. Modrić,35,Real Madrid,€36.5M,2012 ~ 2023,['CM']
+Rodri,25,Manchester City,€90M,2019 ~ 2027,['CDM']
+T. Alexander-Arnold,22,Liverpool,€102.5M,2015 ~ 2025,['RB']
+F. de Jong,24,FC Barcelona,€119.5M,2019 ~ 2026,['CM']
+Bernardo Silva,26,Manchester City,€94M,2017 ~ 2025,"['CAM', 'CM']"
+A. Robertson,27,Liverpool,€77M,2017 ~ 2026,['LB']
+Bruno Fernandes,26,Manchester United,€94M,2020 ~ 2026,"['CAM', 'CM']"
+P. Dybala,27,Juventus,€86.5M,2015 ~ 2022,"['CF', 'RW']"
+Fabinho,27,Liverpool,€81.5M,2018 ~ 2026,"['CDM', 'CB']"
+R. Sterling,26,Manchester City,€87M,2015 ~ 2023,"['LW', 'RW']"
+M. Verratti,28,Paris Saint Germain,€79.5M,2012 ~ 2024,"['CM', 'CAM']"
+De Gea,30,Manchester United,€53M,2011 ~ 2023,['GK']
+T. Müller,31,FC Bayern München,€66M,2008 ~ 2024,"['CAM', 'RM', 'CF']"
+H. Lloris,34,Tottenham Hotspur,€13.5M,2012 ~ 2024,['GK']
+É. Mendy,29,Chelsea,€52M,2020 ~ 2025,['GK']
+C. Nkunku,23,RB Leipzig,€93M,2019 ~ 2024,"['CAM', 'CF', 'ST']"
+M. Škriniar,26,Inter,€70M,2017 ~ 2023,['CB']
+L. Sané,25,FC Bayern München,€81M,2020 ~ 2025,"['LM', 'RM', 'CF']"
+A. Laporte,27,Manchester City,€72.5M,2018 ~ 2025,['CB']
+J. Vardy,34,Leicester City,€33M,2012 ~ 2023,['ST']
+Gerard Moreno,29,Villarreal,€68M,2018 ~ 2027,"['ST', 'RM']"
+A. Rüdiger,28,Chelsea,€64.5M,2017 ~ 2022,['CB']
+R. Mahrez,30,Manchester City,€65.5M,2018 ~ 2025,"['RW', 'RM']"
+K. Koulibaly,30,Napoli,€55.5M,2014 ~ 2023,['CB']
+P. Pogba,28,Manchester United,€68M,2016 ~ 2022,"['CM', 'LM', 'CDM']"
+R. Lukaku,28,Chelsea,€69.5M,2021 ~ 2026,['ST']
+C. Immobile,31,Lazio,€57.5M,2016 ~ 2025,['ST']
+Parejo,32,Villarreal,€53.5M,2020 ~ 2024,['CM']
+Thiago,30,Liverpool,€65M,2020 ~ 2024,"['CM', 'CDM']"
+W. Szczęsny,31,Juventus,€36M,2017 ~ 2024,['GK']
+L. Suárez,34,Atlético Madrid,€33M,2020 ~ 2022,['ST']
