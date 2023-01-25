@@ -19,7 +19,7 @@ def controle(x):
 df=pd.DataFrame()
 
 
-for i in range(5):
+for i in range(2):
     html_text=extract_source(f"https://sofifa.com/players?r=220069&offset={i*60}")
     soup = BeautifulSoup(html_text, 'html.parser')
     player_list=[]
@@ -41,6 +41,13 @@ for i in range(5):
             if player_team is not None:
                 player_team=player_team.next_sibling.next_sibling
             player_team=controle(player_team)
+
+            player_country=player.find('img',class_="flag").get('title')
+            print(player_country)
+            #if player_country is not None:
+             #   player_country=player_country.values()['title']
+            #player_country=controle(player_country)
+            
 
             player_rating=player.find('td',class_='col-oa')
             if player_rating is not None:
@@ -67,6 +74,7 @@ for i in range(5):
             player_data = {
                 "name" : player_name,
                 "age" :player_age,
+                "country":player_country,
                 "team":player_team,
                 "rating":player_rating,
                 "value":player_value,
@@ -78,7 +86,7 @@ for i in range(5):
     
 
     df=pd.concat([df,pd.DataFrame(player_list)])
-    df.to_csv('ayoubs.csv',index=False)
+    df.to_csv('test.csv',index=False)
 
 
 #print(player_list)
