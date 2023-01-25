@@ -1,0 +1,2941 @@
+name,age,team,value,wage,contract,Posts
+E. Haaland,21,Manchester City,€160M,€230K,2022 ~ 2027,['ST']
+Zubimendi,23,Real Sociedad,€35M,€32K,2018 ~ 2027,"['CM', 'CDM']"
+W. Weghorst,29,Beşiktaş,€17.5M,€59K,"May 31, 2023 On Loan",['ST']
+W. Saliba,21,Arsenal,€54M,€62K,2019 ~ 2024,['CB']
+J. Frimpong,21,Bayer 04 Leverkusen,€38.5M,€41K,2021 ~ 2025,"['RB', 'RWB', 'RM']"
+R. Lavia,18,Southampton,€2.1M,€4K,2022 ~ 2027,['CDM']
+Cristiano Ronaldo,37,Al Nassr,€31M,€86K,2023 ~ 2025,['ST']
+Gonçalo Inácio,20,Sporting CP,€36M,€11K,2019 ~ 2026,['CB']
+T. Livramento,19,Southampton,€11.5M,€22K,2021 ~ 2026,['RB']
+Moleiro,18,Las Palmas,€10M,€3K,2021 ~ 2026,"['LM', 'CM', 'CAM']"
+R. Gravenberch,20,FC Bayern München,€38.5M,€45K,2022 ~ 2027,['CM']
+R. Cherki,18,Olympique Lyonnais,€7M,€15K,2019 ~ 2023,"['CAM', 'LW', 'RW']"
+G. Rutter,20,TSG Hoffenheim,€12.5M,€25K,2021 ~ 2026,['ST']
+K. Koné,21,Borussia Mönchengladbach,€23.5M,€21K,2021 ~ 2025,['CM']
+M. Olise,20,Crystal Palace,€21M,€43K,2021 ~ 2026,"['RW', 'CAM', 'RM']"
+I. Ilić,21,Hellas Verona,€17M,€20K,2021 ~ 2026,"['CM', 'CF']"
+Yeremy Pino,19,Villarreal,€38M,€21K,2020 ~ 2027,"['RM', 'ST', 'LM']"
+R. Lewis,17,Manchester City,€2.2M,€1K,2022 ~ 2024,"['RB', 'RWB']"
+A. Vega,24,,€0,€0,Free,"['LW', 'ST', 'LM']"
+M. Edwards,23,Sporting CP,€27.5M,€16K,2022 ~ 2026,"['RW', 'LW', 'ST']"
+A. Varela,20,Boca Juniors,€15.5M,€11K,2020 ~ 2026,"['CDM', 'CM']"
+M. Baturina,19,Dinamo Zagreb,€4.1M,€500,2021 ~ 2027,"['CM', 'CAM']"
+G. Kuol,17,,€0,€0,Free,"['RM', 'RW']"
+O. Zinchenko,25,Arsenal,€21.5M,€73K,2022 ~ 2027,['LB']
+T. Baldanzi,19,Empoli,€3.8M,€4K,2021 ~ 2027,"['CAM', 'CF']"
+Bruno Guimarães,24,Newcastle United,€52M,€105K,2022 ~ 2026,"['CM', 'CDM']"
+Pedro Gonçalves,24,Sporting CP,€46M,€20K,2020 ~ 2026,"['LW', 'RW', 'CM']"
+J. Álvarez,22,Manchester City,€36M,€110K,2022 ~ 2027,"['ST', 'RW', 'LW']"
+D. Vlahović,22,Juventus,€86.5M,€140K,2022 ~ 2026,['ST']
+K. Thuram,21,Nice,€28.5M,€32K,2019 ~ 2025,"['CM', 'CDM']"
+K. Adeyemi,20,Borussia Dortmund,€12.5M,€31K,2022 ~ 2027,"['ST', 'RM']"
+Fábio Vieira,22,Arsenal,€23.5M,€62K,2022 ~ 2027,"['CAM', 'RM']"
+G. Scalvini,18,Atalanta,€3.5M,€6K,2021 ~ 2023,['CB']
+K. Mbappé,23,Paris Saint Germain,€190.5M,€230K,2018 ~ 2024,"['ST', 'LW']"
+C. Nkunku,24,RB Leipzig,€94M,€90K,2019 ~ 2024,"['CF', 'CAM', 'ST']"
+Pedri,19,FC Barcelona,€104.5M,€115K,2020 ~ 2026,['CM']
+C. Lukeba,19,Olympique Lyonnais,€15M,€25K,2021 ~ 2025,['CB']
+A. Lookman,24,Atalanta,€19M,€42K,2022 ~ 2026,"['LM', 'RM']"
+E. Smith Rowe,21,Arsenal,€43M,€65K,2017 ~ 2026,"['LM', 'CAM']"
+Rafael Leão,23,Milan,€66.5M,€90K,2019 ~ 2024,"['LW', 'LM']"
+M. Lacroix,22,VfL Wolfsburg,€15.5M,€31K,2020 ~ 2025,['CB']
+K. Mitoma,25,Brighton & Hove Albion,€7.5M,€51K,2021 ~ 2025,"['LM', 'LW', 'LWB']"
+D. Huseinbašić,20,FC Köln,€2.2M,€7K,2022 ~ 2025,"['CM', 'CDM']"
+G. Xhaka,29,Arsenal,€22M,€90K,2016 ~ 2024,"['CDM', 'CM']"
+L. Ajorque,28,Strasbourg,€18M,€36K,2018 ~ 2024,['ST']
+D. Rice,23,West Ham United,€52M,€83K,2015 ~ 2024,"['CDM', 'CM']"
+H. Elliott,19,Liverpool,€13.5M,€44K,2019 ~ 2027,"['CAM', 'CM', 'RW']"
+A. Bella Kotchap,20,Southampton,€8.5M,€28K,2022 ~ 2026,['CB']
+C. De Ketelaere,21,Milan,€32M,€49K,2022 ~ 2027,"['ST', 'LW']"
+D. Fofana,19,Chelsea,€2.9M,€21K,2023 ~ 2024,['ST']
+N. Mbamba,17,Club Brugge,€1.5M,€500,2021 ~ 2023,"['CB', 'CDM']"
+J. Reine-Adélaïde,24,Olympique Lyonnais,€9M,€43K,2019 ~ 2024,['CM']
+R. Kolo Muani,23,Eintracht Frankfurt,€39.5M,€37K,2022 ~ 2027,"['ST', 'RM']"
+C. Gallagher,22,Chelsea,€28.5M,€81K,2017 ~ 2025,['CM']
+S. Tonali,22,Milan,€62.5M,€75K,2021 ~ 2027,"['CDM', 'CM']"
+João Félix,22,Chelsea,€59M,€71K,"Jun 30, 2023 On Loan","['CF', 'ST']"
+P. Hincapié,20,Bayer 04 Leverkusen,€26.5M,€33K,2021 ~ 2026,"['LB', 'CB']"
+R. James,22,Chelsea,€57M,€120K,2017 ~ 2025,"['RWB', 'RB']"
+Vinícius Jr.,21,Real Madrid,€109M,€200K,2018 ~ 2025,['LW']
+M. Guéhi,21,Crystal Palace,€29.5M,€36K,2021 ~ 2026,['CB']
+V. Osimhen,23,Napoli,€58M,€72K,2020 ~ 2025,['ST']
+R. James,22,Chelsea,€57M,€120K,2017 ~ 2025,"['RWB', 'RB']"
+Vinícius Jr.,21,Real Madrid,€109M,€200K,2018 ~ 2025,['LW']
+M. Guéhi,21,Crystal Palace,€29.5M,€36K,2021 ~ 2026,['CB']
+D. Frattesi,22,Sassuolo,€31.5M,€30K,2017 ~ 2026,"['CM', 'CDM']"
+G. Bazunu,20,Southampton,€4M,€15K,2022 ~ 2027,['GK']
+T. Almada,21,Atlanta United,€17M,€7K,2022 ~ 2025,"['CAM', 'CM', 'CF']"
+B. Johnson,21,Nottingham Forest,€12.5M,€43K,2019 ~ 2026,"['RW', 'ST']"
+Nuno Mendes,20,Paris Saint Germain,€44M,€54K,2021 ~ 2026,"['LB', 'LWB']"
+Ansu Fati,19,FC Barcelona,€38M,€84K,2018 ~ 2027,['LW']
+P. Kalulu,22,Milan,€26.5M,€47K,2020 ~ 2027,"['CB', 'RB']"
+E. Zeballos,20,Boca Juniors,€5.5M,€10K,2020 ~ 2026,"['RW', 'LW']"
+Pablo Torre,19,FC Barcelona,€3.6M,€27K,2022 ~ 2026,"['CAM', 'CM', 'LM']"
+L. Messi,35,Paris Saint Germain,€54M,€195K,2021 ~ 2023,['RW']
+D. Zakaria,25,Chelsea,€34.5M,€95K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+N. Schlotterbeck,22,Borussia Dortmund,€37.5M,€43K,2022 ~ 2027,['CB']
+Vitinha,22,Paris Saint Germain,€39.5M,€68K,2022 ~ 2027,"['CM', 'CAM']"
+Antony,22,Manchester United,€49M,€130K,2022 ~ 2027,"['RW', 'RM']"
+Gonçalo Ramos,21,Benfica,€32M,€13K,2019 ~ 2025,['ST']
+J. Ward-Prowse,27,Southampton,€27.5M,€69K,2011 ~ 2026,['CM']
+C. Gakpo,23,Liverpool,€55M,€130K,2023 ~ 2028,['LW']
+João Pedro,20,Watford,€5.5M,€25K,2020 ~ 2025,"['ST', 'LM']"
+E. Ferguson,17,Brighton & Hove Albion,€1.2M,€2K,2021 ~ 2026,"['ST', 'CF']"
+S. Hamulic,21,Stal Mielec,€2.3M,€1K,2022 ~ 2024,"['ST', 'LM']"
+E. Skhiri,27,FC Köln,€18M,€31K,2019 ~ 2023,"['CDM', 'CM']"
+T. Tomiyasu,23,Arsenal,€24.5M,€65K,2021 ~ 2026,['RB']
+A. Davies,21,FC Bayern München,€60.5M,€59K,2019 ~ 2025,"['LB', 'LM']"
+F. Chiesa,24,Juventus,€57.5M,€140K,2022 ~ 2025,['LW']
+F. Valverde,23,Real Madrid,€81M,€190K,2016 ~ 2027,"['CM', 'RW']"
+L. Martínez,24,Manchester United,€41.5M,€105K,2022 ~ 2027,['CB']
+B. Badiashile,21,Chelsea,€22M,€57K,2023 ~ 2030,['CB']
+M. Kudus,21,Ajax,€23.5M,€13K,2020 ~ 2025,"['CAM', 'CM', 'CF']"
+R. Araujo,23,FC Barcelona,€52M,€135K,2018 ~ 2026,"['CB', 'RB']"
+C. Chukwuemeka,18,Chelsea,€1.6M,€7K,2022 ~ 2028,"['CM', 'CAM', 'CF']"
+B. Dieng,22,Olympique Marseille,€8.5M,€30K,2021 ~ 2024,['ST']
+L. Pellegrini,26,Roma,€55M,€95K,2017 ~ 2026,"['CAM', 'CM']"
+Gabriel Jesus,25,Arsenal,€53.5M,€130K,2022 ~ 2027,"['ST', 'RW']"
+M. Diaby,22,Bayer 04 Leverkusen,€61.5M,€70K,2019 ~ 2025,"['RM', 'LM', 'LW']"
+B. Brobbey,20,Ajax,€23.5M,€14K,2022 ~ 2027,['ST']
+P. Pogba,29,Juventus,€52.5M,€165K,2022 ~ 2026,"['CM', 'CDM', 'LM']"
+A. Saint-Maximin,25,Newcastle United,€32.5M,€95K,2019 ~ 2026,"['LM', 'LW']"
+M. Thuram,24,Borussia Mönchengladbach,€30.5M,€34K,2019 ~ 2023,"['ST', 'LM']"
+T. Abraham,24,Roma,€44M,€77K,2021 ~ 2026,['ST']
+T. Hernández,24,Milan,€76M,€82K,2019 ~ 2026,['LB']
+P. Foden,22,Manchester City,€109.5M,€180K,2016 ~ 2027,"['LW', 'CF', 'CAM']"
+O. Kökçü,21,Feyenoord,€33.5M,€12K,2017 ~ 2025,"['CM', 'CAM']"
+J. Durán,18,Chicago Fire,€575K,€600,2022 ~ 2024,['ST']
+M. Cancellieri,19,Lazio,€7M,€14K,"Jun 30, 2023 On Loan","['RW', 'CF']"
+Gabriel,24,Arsenal,€35M,€74K,2020 ~ 2027,['CB']
+M. de Ligt,22,FC Bayern München,€71M,€77K,2022 ~ 2027,['CB']
+K. Havertz,23,Chelsea,€84.5M,€130K,2020 ~ 2025,"['CAM', 'CF', 'ST']"
+L. Geertruida,21,Feyenoord,€22.5M,€8K,2017 ~ 2024,"['RB', 'CB', 'CM']"
+C. Bassey,22,Ajax,€12M,€12K,2022 ~ 2027,"['CB', 'LB']"
+A. Sambi Lokonga,22,Arsenal,€10.5M,€49K,2021 ~ 2026,"['CDM', 'CM']"
+Tetê,22,Olympique Lyonnais,€23.5M,€1K,"Jun 30, 2023 On Loan","['RW', 'RM']"
+J. Branthwaite,20,PSV,€3M,€10K,"Jun 30, 2023 On Loan",['CB']
+S. Dest,21,Milan,€22.5M,€71K,"Jun 30, 2023 On Loan","['RB', 'RM', 'LB']"
+F. Díaz,19,Liverpool,€5M,€500,2019 ~ 2023,"['CM', 'CDM']"
+F. Farías,19,Colón,€12M,€9K,2020 ~ 2023,"['ST', 'CF', 'LM']"
+F. Parisi,21,Empoli,€9M,€7K,2020 ~ 2025,['LB']
+Y. Sommer,33,Borussia Mönchengladbach,€22M,€43K,2014 ~ 2023,['GK']
+L. Acosta,28,Cincinnati,€7.5M,€10K,2021 ~ 2023,['CAM']
+S. Milinković-Savić,27,Lazio,€77.5M,€90K,2015 ~ 2024,['CM']
+Gabriel,24,Arsenal,€35M,€74K,2020 ~ 2027,['CB']
+T. Partey,29,Arsenal,€36M,€115K,2020 ~ 2024,"['CDM', 'CM']"
+P. Dybala,28,Roma,€69.5M,€130K,2022 ~ 2025,"['CF', 'CAM']"
+M. Škriniar,27,Inter,€68.5M,€105K,2017 ~ 2023,['CB']
+F. Tomori,24,Milan,€60.5M,€75K,2021 ~ 2027,['CB']
+N. Lang,23,Club Brugge,€21M,€25K,2021 ~ 2025,"['LW', 'RW', 'ST']"
+J. Koundé,23,FC Barcelona,€57.5M,€150K,2022 ~ 2027,"['CB', 'RB']"
+M. Jenz,23,Celtic,€2M,€7K,"Jun 30, 2023 On Loan",['CB']
+J. Gelhardt,20,Leeds United,€5M,€22K,2020 ~ 2027,"['ST', 'CF']"
+S. Chukwueze,23,Villarreal,€27.5M,€32K,2018 ~ 2024,"['RM', 'RW']"
+Emerson Royal,23,Tottenham Hotspur,€13.5M,€59K,2021 ~ 2026,"['RWB', 'RB']"
+A. Ounahi,22,Angers SCO,€7M,€17K,2021 ~ 2026,['CM']
+A. Broja,20,Chelsea,€12.5M,€64K,2020 ~ 2026,['ST']
+L. Romero,17,Lazio,€2.5M,€3K,2021 ~ 2023,['RW']
+A. Fatawu Issahaku,18,Sporting CP,€2.6M,€2K,2022 ~ 2027,"['CAM', 'RW']"
+G. Kobel,24,Borussia Dortmund,€61M,€48K,2021 ~ 2026,['GK']
+A. Bastoni,23,Inter,€60.5M,€75K,2017 ~ 2024,['CB']
+Sergio Gómez,21,Manchester City,€9M,€53K,2022 ~ 2026,['LB']
+Fran García,22,Rayo Vallecano,€12M,€15K,2021 ~ 2025,"['LB', 'LM']"
+A. Velasco,19,Dallas,€12M,€5K,2022 ~ 2025,"['LM', 'LW', 'CAM']"
+J. Veerman,23,PSV,€21M,€18K,2022 ~ 2026,"['CM', 'CDM', 'CAM']"
+A. Elanga,20,Manchester United,€6.5M,€58K,2020 ~ 2026,"['RW', 'LW', 'RM']"
+L. Sučić,19,Salzburg,€9M,€14K,2019 ~ 2025,"['CAM', 'CM']"
+D. Rensch,19,Ajax,€8.5M,€7K,2019 ~ 2025,"['RB', 'LB']"
+Gabriel Veron,19,Porto,€12M,€7K,2022 ~ 2027,"['RM', 'LM']"
+N. Fagioli,21,Juventus,€7M,€42K,2019 ~ 2026,"['CDM', 'CM', 'CAM']"
+N. Zalewski,20,Roma,€13.5M,€37K,2020 ~ 2025,['LM']
+H. Matriciani,22,Schalke 04,€2.3M,€8K,2021 ~ 2024,"['RB', 'CB']"
+L. Hall,17,Chelsea,€875K,€2K,2021 ~ 2025,"['CM', 'LWB', 'LB']"
+F. Buonanotte,17,Brighton & Hove Albion,€2.8M,€3K,2023 ~ 2026,"['CAM', 'RM', 'CM']"
+S. Gnabry,26,FC Bayern München,€46M,€90K,2017 ~ 2026,"['RM', 'LM']"
+João Cancelo,28,Manchester City,€82.5M,€250K,2019 ~ 2027,"['LB', 'RB']"
+Rúben Neves,25,Wolverhampton Wanderers,€50.5M,€105K,2017 ~ 2024,"['CDM', 'CM']"
+A. Rossi,26,Boca Juniors,€19M,€16K,2017 ~ 2023,['GK']
+K. Walker-Peters,25,Southampton,€19M,€48K,2020 ~ 2025,"['RB', 'LB']"
+S. Tigges,23,FC Köln,€1.8M,€10K,2022 ~ 2026,['ST']
+G. Reyna,19,Borussia Dortmund,€23M,€24K,2019 ~ 2025,"['LM', 'CAM', 'RM']"
+J. Doku,20,Rennes,€12.5M,€32K,2020 ~ 2025,"['RW', 'RM']"
+M. Kerkez,18,AZ,€5M,€2K,2022 ~ 2026,['LB']
+A. Scott,18,Bristol City,€2.8M,€5K,2021 ~ 2025,"['CM', 'CAM', 'RM']"
+L. Colwill,19,Brighton & Hove Albion,€3.5M,€22K,"Jun 30, 2023 On Loan",['CB']
+22 F. Thauvin,28,Tigres UANL,€17.5M,€56K,2021 ~ 2025,['RM']
+M. Oršić,29,Southampton,€14M,€63K,2023 ~ 2027,"['LW', 'LM', 'ST']"
+C. Pulisic,23,Chelsea,€48M,€120K,2019 ~ 2024,"['LW', 'RW', 'LM']"
+M. Mount,23,Chelsea,€49.5M,€120K,2016 ~ 2024,"['CAM', 'RW', 'CM']"
+A. Ramsdale,24,Arsenal,€34.5M,€62K,2021 ~ 2025,['GK']
+Diogo Costa,22,Porto,€33.5M,€12K,2016 ~ 2026,['GK']
+I. Sangaré,24,PSV,€35.5M,€20K,2020 ~ 2027,"['CDM', 'CM']"
+A. Hakimi,23,Paris Saint Germain,€53.5M,€90K,2021 ~ 2026,"['RB', 'RWB']"
+Cucurella,23,Chelsea,€34.5M,€90K,2022 ~ 2028,"['LB', 'CB', 'LWB']"
+A. Tchouaméni,22,Real Madrid,€53.5M,€145K,2022 ~ 2028,"['CDM', 'CM']"
+J. Ramsey,21,Aston Villa,€12.5M,€47K,2017 ~ 2027,"['CM', 'CAM', 'RW']"
+G. Raspadori,22,Napoli,€36M,€37K,"Jun 30, 2023 On Loan","['CF', 'CAM', 'ST']"
+N. Rovella,20,Monza,€23M,€62K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+João Victor,23,Benfica,€11.5M,€10K,2022 ~ 2027,['CB']
+M. Hilgers,21,FC Twente,€3.9M,€6K,2020 ~ 2023,"['CB', 'RB']"
+L. Morgalla,17,1860 München,€1.4M,€500,2021 ~ 2026,"['CB', 'RB']"
+W. Zaha,29,Crystal Palace,€30M,€85K,2015 ~ 2023,"['LW', 'CF']"
+22 F. Thauvin,28,Tigres UANL,€17.5M,€56K,2021 ~ 2025,['RM']
+R. Guerreiro,28,Borussia Dortmund,€27.5M,€57K,2016 ~ 2023,"['LB', 'LM']"
+David Raya,26,Brentford,€10M,€35K,2019 ~ 2024,['GK']
+G. Scamacca,23,West Ham United,€33.5M,€73K,2022 ~ 2027,['ST']
+L. Nmecha,23,VfL Wolfsburg,€21.5M,€44K,2021 ~ 2025,['ST']
+D. Malen,23,Borussia Dortmund,€21.5M,€42K,2021 ~ 2026,"['ST', 'LM']"
+R. Nelson,22,Arsenal,€6M,€51K,2016 ~ 2023,"['RW', 'LW']"
+C. Romero,24,Tottenham Hotspur,€49.5M,€95K,2022 ~ 2027,['CB']
+Cucurella,23,Chelsea,€34.5M,€90K,2022 ~ 2028,"['LB', 'CB', 'LWB']"
+Pau Torres,25,Villarreal,€50.5M,€43K,2016 ~ 2024,['CB']
+W. Fofana,21,Chelsea,€33M,€67K,2022 ~ 2028,['CB']
+T. Krauß,21,Schalke 04,€7M,€26K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+S. Botman,22,Newcastle United,€37.5M,€79K,2022 ~ 2027,['CB']
+K. Taylor,20,Ajax,€12.5M,€11K,2018 ~ 2027,"['CM', 'CDM']"
+H. Ekitike,20,Paris Saint Germain,€16.5M,€19K,"Jun 30, 2023 On Loan",['ST']
+A. Knauff,20,Eintracht Frankfurt,€12.5M,€27K,"Jun 30, 2023 On Loan","['RM', 'LM']"
+T. Werner,26,RB Leipzig,€38M,€73K,2022 ~ 2026,"['ST', 'LW']"
+T. Bakayoko,27,Milan,€6M,€71K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+T. Alexander-Arnold,23,Liverpool,€86M,€140K,2015 ~ 2025,['RB']
+J. Sancho,22,Manchester United,€53M,€140K,2021 ~ 2026,"['LW', 'RW', 'LM']"
+Lucas Paquetá,24,West Ham United,€46M,€77K,2022 ~ 2027,"['CAM', 'CM']"
+E. Ndicka,22,Eintracht Frankfurt,€29.5M,€28K,2018 ~ 2023,['CB']
+R. Aït Nouri,21,Wolverhampton Wanderers,€16M,€43K,2021 ~ 2026,"['LB', 'LWB']"
+M. Vandevoordt,20,Genk,€4.9M,€6K,2018 ~ 2023,['GK']
+Eric García,21,FC Barcelona,€14M,€67K,2021 ~ 2026,['CB']
+D. Kulusevski,22,Tottenham Hotspur,€39.5M,€105K,"Jun 30, 2023 On Loan",['RW']
+Nuno Tavares,22,Olympique Marseille,€14.5M,€52K,"Jun 30, 2023 On Loan","['LB', 'LM']"
+Renan Lodi,24,Nottingham Forest,€29.5M,€46K,"Jun 30, 2023 On Loan","['LWB', 'LB', 'LM']"
+L. Vázquez,21,Boca Juniors,€5.5M,€10K,2021 ~ 2026,['ST']
+Matheus Nunes,23,Wolverhampton Wanderers,€35M,€73K,2022 ~ 2027,['CM']
+K. Sulemana,20,Rennes,€9.5M,€27K,2021 ~ 2026,"['LM', 'ST', 'LW']"
+Fábio Carvalho,19,Liverpool,€10M,€41K,2022 ~ 2028,"['CAM', 'CM', 'LM']"
+L. Netz,19,Borussia Mönchengladbach,€6.5M,€11K,2021 ~ 2026,"['LB', 'LM']"
+N. Patterson,20,Everton,€3.2M,€12K,2022 ~ 2027,"['RB', 'RWB']"
+N. Ahamada,20,VfB Stuttgart,€3.5M,€10K,2021 ~ 2026,['CM']
+Jesús Vázquez,19,Valencia,€3.9M,€10K,2020 ~ 2025,"['LB', 'LWB', 'LM']"
+C. Patino,18,Blackpool,€1.8M,€6K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+E. Wahi,19,Montpellier,€12M,€15K,2020 ~ 2025,"['ST', 'LM']"
+R. Bardghji,16,København,€2.2M,€1K,2021 ~ 2025,['RW']
+Stefan Bajcetic,17,Liverpool,€1.1M,€700,2021 ~ 2024,"['CDM', 'CB']"
+Diogo Dalot,23,Manchester United,€31M,€90K,2018 ~ 2024,['RB']
+M. Guendouzi,23,Olympique Marseille,€33M,€41K,2022 ~ 2025,"['CM', 'CDM']"
+B. Kamara,22,Aston Villa,€31M,€69K,2022 ~ 2027,"['CDM', 'CM']"
+T. Malacia,22,Manchester United,€25M,€86K,2022 ~ 2026,['LB']
+S. van den Berg,20,Schalke 04,€3.8M,€34K,"Jun 30, 2023 On Loan",['CB']
+Rodrygo,21,Real Madrid,€52.5M,€130K,2019 ~ 2028,"['RW', 'LW', 'ST']"
+Sancet,22,Athletic Club,€23.5M,€23K,2017 ~ 2024,"['CM', 'CAM', 'ST']"
+J. Lindstrøm,22,Eintracht Frankfurt,€21.5M,€25K,2021 ~ 2026,"['CAM', 'CF', 'RM']"
+O. Kossounou,21,Bayer 04 Leverkusen,€12M,€27K,2021 ~ 2026,"['CB', 'RB']"
+I. Maatsen,20,Burnley,€6.5M,€43K,"Jun 30, 2023 On Loan","['LB', 'LWB']"
+Q. Timber,21,Feyenoord,€9.5M,€8K,2022 ~ 2026,"['CM', 'CDM', 'CAM']"
+A. Vranckx,19,Milan,€6.5M,€18K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+A. Adli,22,Bayer 04 Leverkusen,€9.5M,€37K,2021 ~ 2026,"['ST', 'LM']"
+M. Tillman,20,Rangers,€3.7M,€17K,"Jun 30, 2023 On Loan","['CAM', 'ST']"
+C. Palmer,20,Manchester City,€2.2M,€20K,2018 ~ 2026,"['CAM', 'RW', 'CF']"
+S. Mara,19,Southampton,€3M,€15K,2022 ~ 2026,['ST']
+M. Kjaergaard,19,Salzburg,€3.1M,€6K,2019 ~ 2026,['CM']
+D. Scarlett,18,Portsmouth,€1.5M,€7K,"Jun 30, 2023 On Loan",['ST']
+M. Lazetić,18,Milan,€2M,€6K,2022 ~ 2026,['ST']
+Thiago Silva,37,Chelsea,€12M,€115K,2020 ~ 2023,['CB']
+L. Suárez,35,Nacional,€18M,€1K,2022 ~ 2022,['ST']
+I. Gueye,32,Everton,€20.5M,€53K,2022 ~ 2024,"['CDM', 'CM']"
+H. Son,29,Tottenham Hotspur,€89.5M,€230K,2015 ~ 2025,"['LW', 'LM', 'ST']"
+H. Kane,28,Tottenham Hotspur,€105.5M,€240K,2010 ~ 2024,['ST']
+Grimaldo,26,Benfica,€39M,€21K,2016 ~ 2023,"['LB', 'LWB', 'LM']"
+Anderson Talisca,28,Al Nassr,€31M,€64K,2021 ~ 2024,"['CF', 'ST', 'CAM']"
+M. Maignan,26,Milan,€80M,€90K,2021 ~ 2026,['GK']
+N. Kanté,31,Chelsea,€64M,€210K,2016 ~ 2023,"['CDM', 'CM']"
+Marcos Llorente,27,Atlético Madrid,€48M,€81K,2019 ~ 2027,"['CM', 'RM', 'RB']"
+G. Lo Celso,26,Villarreal,€33.5M,€100K,"Jun 30, 2023 On Loan","['CAM', 'LM', 'ST']"
+I. Bennacer,24,Milan,€40M,€63K,2019 ~ 2024,"['CDM', 'CM']"
+F. Kessié,25,FC Barcelona,€47.5M,€165K,2022 ~ 2026,"['CDM', 'CM', 'CAM']"
+Brahim,22,Milan,€31.5M,€110K,"Jun 30, 2023 On Loan",['CAM']
+A. Lafont,23,Nantes,€25.5M,€21K,2021 ~ 2024,['GK']
+A. Afif,25,,€0,€0,Free,"['LW', 'CF', 'CAM']"
+Diogo Dalot,23,Manchester United,€31M,€90K,2018 ~ 2024,['RB']
+E. Choupo-Moting,33,FC Bayern München,€9M,€60K,2020 ~ 2023,"['ST', 'CAM']"
+M. Depay,28,FC Barcelona,€55M,€230K,2021 ~ 2023,"['CF', 'LW', 'ST']"
+E. Martínez,29,Aston Villa,€37M,€105K,2020 ~ 2027,['GK']
+J. Maddison,25,Leicester City,€50.5M,€115K,2018 ~ 2024,"['RM', 'CAM']"
+L. Sané,26,FC Bayern München,€46M,€90K,2020 ~ 2025,"['LM', 'RM', 'CF']"
+Joelinton,25,Newcastle United,€14M,€72K,2019 ~ 2024,"['CM', 'LW']"
+K. Laimer,25,RB Leipzig,€38.5M,€64K,2017 ~ 2023,"['CDM', 'CM']"
+F. de Jong,25,FC Barcelona,€116.5M,€230K,2019 ~ 2026,['CM']
+André Silva,26,RB Leipzig,€36.5M,€73K,2021 ~ 2026,['ST']
+Richarlison,25,Tottenham Hotspur,€34.5M,€105K,2022 ~ 2027,"['ST', 'LW']"
+R. Sessegnon,22,Tottenham Hotspur,€16M,€55K,2019 ~ 2025,"['LWB', 'LB']"
+N. Mazraoui,24,FC Bayern München,€38.5M,€59K,2022 ~ 2026,['RB']
+Kim Min Jae,25,Napoli,€22M,€49K,2022 ~ 2025,['CB']
+N. González,24,Fiorentina,€32M,€58K,2021 ~ 2026,"['RW', 'LW']"
+C. Hudson-Odoi,21,Bayer 04 Leverkusen,€22.5M,€69K,"Jun 30, 2023 On Loan","['LM', 'CAM', 'RM']"
+Ferran Torres,22,FC Barcelona,€49M,€150K,2022 ~ 2027,"['LW', 'ST']"
+Mauro Júnior,23,PSV,€11M,€14K,2017 ~ 2025,"['RB', 'LB', 'CAM']"
+C. Jones,21,Liverpool,€17M,€60K,2018 ~ 2025,['CM']
+L. Maina,23,FC Köln,€7M,€19K,2022 ~ 2025,"['LM', 'RM', 'ST']"
+M. van Ewijk,21,SC Heerenveen,€6.5M,€5K,2021 ~ 2025,['RWB']
+Fábio Silva,19,Anderlecht,€5M,€31K,"Jun 30, 2023 On Loan",['ST']
+S. Ricci,20,Torino,€8.5M,€23K,2022 ~ 2026,"['CDM', 'CM']"
+Morato,21,Benfica,€9M,€8K,2019 ~ 2027,['CB']
+Rodri,22,Real Betis,€12.5M,€19K,2019 ~ 2026,"['RM', 'LM', 'CM']"
+Francisco Conceição,19,Ajax,€7M,€9K,2022 ~ 2027,['RW']
+Vanderson,21,Monaco,€16M,€29K,2022 ~ 2027,"['RB', 'RM']"
+Mateus Fernandes,17,Sporting CP,€2.1M,€500,2020 ~ 2027,"['CM', 'CAM']"
+D. Raum,24,RB Leipzig,€28M,€46K,2022 ~ 2027,"['LB', 'LWB', 'LM']"
+I. Konaté,23,Liverpool,€48M,€90K,2021 ~ 2026,['CB']
+R. Baku,24,VfL Wolfsburg,€23.5M,€40K,2020 ~ 2025,"['RB', 'RM']"
+E. Elmas,22,Napoli,€28.5M,€44K,2019 ~ 2025,"['CAM', 'CM', 'LW']"
+G. Busio,20,Venezia,€6.5M,€4K,2021 ~ 2025,"['CM', 'CDM']"
+I. Meslier,22,Leeds United,€18.5M,€25K,2020 ~ 2026,['GK']
+J. Scally,19,Borussia Mönchengladbach,€6.5M,€11K,2021 ~ 2023,"['RB', 'LB']"
+B. Sosa,24,VfB Stuttgart,€23.5M,€24K,2018 ~ 2025,"['LB', 'LM', 'LWB']"
+D. Spence,21,Tottenham Hotspur,€12M,€44K,2022 ~ 2027,"['RWB', 'RB']"
+V. Tsygankov,24,Dynamo Kyiv,€29M,€1K,2015 ~ 2023,['RM']
+E. Le Fée,22,Lorient,€15M,€17K,2018 ~ 2024,"['CM', 'CAM', 'RM']"
+M. Caqueret,22,Olympique Lyonnais,€22.5M,€52K,2018 ~ 2026,"['CM', 'CDM']"
+G. Plata,21,Real Valladolid,€23.5M,€18K,2022 ~ 2027,"['RM', 'RW']"
+L. Stergiou,20,St. Gallen,€2.5M,€3K,2019 ~ 2024,['CB']
+M. Ugarte,21,Sporting CP,€28.5M,€12K,2021 ~ 2026,"['CM', 'CDM']"
+L. Hjelde,18,Leeds United,€1.7M,€2K,2021 ~ 2025,"['LB', 'CB']"
+Neymar Jr,30,Paris Saint Germain,€99.5M,€200K,2017 ~ 2025,['LW']
+A. Griezmann,31,Atlético Madrid,€35.5M,€88K,2022 ~ 2026,"['ST', 'CF']"
+Deulofeu,28,Udinese,€26.5M,€28K,2021 ~ 2024,"['CF', 'ST']"
+R. Mahrez,31,Manchester City,€44.5M,€200K,2018 ~ 2025,"['RW', 'RM']"
+Y. Poulsen,28,RB Leipzig,€11M,€53K,2013 ~ 2024,['ST']
+N. Maupay,25,Everton,€9.5M,€39K,2022 ~ 2025,['ST']
+I. Toney,26,Brentford,€22M,€61K,2020 ~ 2025,['ST']
+L. Chávez,26,,€0,€0,Free,"['CM', 'CDM']"
+K. Tierney,25,Arsenal,€33M,€82K,2019 ~ 2024,['LB']
+F. Mendy,27,Real Madrid,€38M,€170K,2019 ~ 2025,['LB']
+Oyarzabal,25,Real Sociedad,€53M,€57K,2014 ~ 2024,"['LW', 'RW']"
+O. Dembélé,25,FC Barcelona,€48M,€180K,2017 ~ 2024,"['RW', 'LW']"
+Florentino,22,Benfica,€27M,€12K,2017 ~ 2027,"['CDM', 'CM']"
+H. Aouar,24,Olympique Lyonnais,€21M,€52K,2016 ~ 2023,"['CAM', 'LM', 'CM']"
+S. Özcan,24,Borussia Dortmund,€21.5M,€38K,2022 ~ 2026,"['CDM', 'CM']"
+D. Raum,24,RB Leipzig,€28M,€46K,2022 ~ 2027,"['LB', 'LWB', 'LM']"
+G. Buffon,44,Parma,€1.6M,€3K,2021 ~ 2024,['GK']
+Z. Ibrahimović,40,Milan,€0,€63K,2020 ~ 2023,['ST']
+R. Sterling,27,Chelsea,€57.5M,€180K,2022 ~ 2027,"['LW', 'RW', 'ST']"
+Bruno Fernandes,27,Manchester United,€72.5M,€190K,2020 ~ 2026,"['CAM', 'CM']"
+J. Kimmich,27,FC Bayern München,€105.5M,€130K,2015 ~ 2025,"['CDM', 'RB', 'CM']"
+N. Fekir,28,Real Betis,€54.5M,€48K,2019 ~ 2026,['CAM']
+A. Nübel,25,Monaco,€16.5M,€39K,"Jun 30, 2023 On Loan",['GK']
+N. Barella,25,Inter,€89.5M,€110K,2020 ~ 2026,['CM']
+A. Meret,25,Napoli,€18M,€39K,2019 ~ 2024,['GK']
+R. Doan,24,SC Freiburg,€20M,€27K,2022 ~ 2024,"['RM', 'CAM']"
+T. Adams,23,Leeds United,€18.5M,€34K,2022 ~ 2027,"['CDM', 'CM']"
+A. Isak,22,Newcastle United,€33M,€90K,2022 ~ 2028,['ST']
+Jota,23,Celtic,€15M,€46K,2021 ~ 2027,"['LW', 'RW']"
+M. Terrier,25,Rennes,€34M,€61K,2020 ~ 2025,"['LW', 'LM', 'ST']"
+J. Willock,22,Newcastle United,€15M,€61K,2021 ~ 2026,['CM']
+A. Gomes,21,Lille,€9.5M,€20K,2020 ~ 2025,"['CM', 'CF', 'CDM']"
+J. Ferreira,21,Dallas,€12.5M,€7K,2016 ~ 2025,"['ST', 'CAM']"
+O. Solet,22,Salzburg,€12M,€20K,2020 ~ 2025,['CB']
+P. De la Vega,21,Lanús,€7M,€11K,2018 ~ 2025,"['RM', 'RW', 'LW']"
+Hugo Guillamón,22,Valencia,€12M,€23K,2018 ~ 2026,"['CDM', 'CB', 'CM']"
+A. Král,24,Schalke 04,€8M,€18K,2019 ~ 2024,"['CDM', 'CM']"
+E. Tapsoba,23,Bayer 04 Leverkusen,€29M,€46K,2020 ~ 2026,['CB']
+T. Nianzou,20,Sevilla,€6M,€13K,2022 ~ 2027,['CB']
+P. Reyna,20,Melgar,€3.9M,€500,2019 ~ 2022,"['LB', 'LM']"
+M. Cho,18,Real Sociedad,€5.5M,€9K,2022 ~ 2027,['ST']
+I. Zabarnyi,19,Dynamo Kyiv,€6M,€500,2019 ~ 2025,['CB']
+L. Delap,19,Stoke City,€2.2M,€17K,"Jun 30, 2023 On Loan",['ST']
+M. Vitík,19,Sparta Praha,€4.7M,€500,2019 ~ 2024,"['CB', 'RB']"
+S. Coulibaly,18,Borussia Dortmund,€1.4M,€2K,2021 ~ 2025,['CB']
+B. Meijer,19,Club Brugge,€4.3M,€8K,2022 ~ 2026,"['LB', 'LM', 'LWB']"
+A. Devine,17,Tottenham Hotspur,€1M,€2K,2021 ~ 2024,"['CAM', 'LW']"
+Iker Bravo,17,Real Madrid,€1.8M,€2K,"Jun 30, 2023 On Loan","['ST', 'RM']"
+M. Soulé,19,Juventus,€3.8M,€28K,2021 ~ 2026,['RW']
+A. Fontanarosa,19,Inter,€2.5M,€8K,2022 ~ 2025,"['CB', 'LB']"
+R. Wilson,16,Aston Villa,€900K,€2K,2022 ~ 2026,['ST']
+J. Šutalo,22,Dinamo Zagreb,€20M,€900,2018 ~ 2028,['CB']
+T. Pembélé,19,Paris Saint Germain,€3.3M,€16K,2020 ~ 2024,"['RB', 'RWB', 'CB']"
+A. Németh,19,Genk,€1.7M,€3K,2019 ~ 2023,['ST']
+O. Bukari,23,,€0,€0,Free,"['RM', 'ST']"
+A. Phillips,17,Blackburn Rovers,€725K,€500,2021 ~ 2025,['CB']
+S. Kumbedi,17,Olympique Lyonnais,€1.4M,€500,2022 ~ 2025,"['RB', 'LB']"
+Vinícius Tobías,18,Real Madrid,€1.7M,€500,"Jun 30, 2023 On Loan","['RB', 'RM']"
+E. Nuamah,18,Nordsjælland,€1M,€1K,2022 ~ 2024,"['LW', 'ST']"
+P. Aning,18,Borussia Dortmund II,€1.1M,€500,2022 ~ 2026,"['LB', 'LM']"
+E. Cavani,35,Valencia,€11M,€37K,2022 ~ 2024,['ST']
+P. Aubameyang,33,Chelsea,€27M,€165K,2022 ~ 2024,['ST']
+L. Goretzka,27,FC Bayern München,€91M,€115K,2018 ~ 2026,"['CM', 'CDM']"
+A. Martial,26,Manchester United,€25M,€125K,2015 ~ 2024,"['ST', 'LM']"
+R. De Paul,28,Atlético Madrid,€42M,€85K,2021 ~ 2026,"['CM', 'RM']"
+A. Iwobi,26,Everton,€9M,€37K,2019 ~ 2024,"['CAM', 'CM', 'RM']"
+Iñaki Williams,28,Athletic Club,€26.5M,€40K,2012 ~ 2028,['ST']
+Y. Tielemans,25,Leicester City,€52.5M,€115K,2019 ~ 2023,"['CM', 'CDM']"
+T. Adarabioyo,24,Fulham,€11M,€40K,2020 ~ 2023,['CB']
+T. Cantwell,24,Norwich City,€4.2M,€29K,2016 ~ 2023,"['LM', 'CM']"
+C. Larin,27,Club Brugge,€2.7M,€19K,2022 ~ 2025,['ST']
+E. Ávila,28,Osasuna,€21.5M,€40K,2019 ~ 2026,"['ST', 'RM']"
+M. Svanberg,23,VfL Wolfsburg,€8.5M,€33K,2022 ~ 2027,"['CM', 'CDM']"
+B. Chilwell,25,Chelsea,€37M,€110K,2020 ~ 2025,"['LWB', 'LB']"
+Renato Sanches,24,Paris Saint Germain,€31.5M,€72K,2022 ~ 2027,"['CM', 'RM']"
+D. Kamada,25,Eintracht Frankfurt,€43.5M,€43K,2017 ~ 2023,"['CAM', 'CF', 'CM']"
+L. Sinisterra,23,Leeds United,€32M,€43K,2022 ~ 2027,"['LM', 'RM']"
+Odriozola,26,Real Madrid,€15M,€115K,2018 ~ 2024,['RB']
+P. Schick,26,Bayer 04 Leverkusen,€53M,€88K,2020 ~ 2027,['ST']
+E. Eze,24,Crystal Palace,€16M,€45K,2020 ~ 2025,"['CAM', 'CM', 'LM']"
+T. Kubo,21,Real Sociedad,€9.5M,€19K,2022 ~ 2027,"['RM', 'ST', 'CAM']"
+A. Gouiri,22,Rennes,€36M,€49K,2022 ~ 2027,"['ST', 'LM']"
+O. Skipp,21,Tottenham Hotspur,€15.5M,€49K,2018 ~ 2024,"['CDM', 'CM']"
+D. Livaković,27,Dinamo Zagreb,€25.5M,€1K,2015 ~ 2024,['GK']
+Riqui Puig,22,LA Galaxy,€12.5M,€8K,2022 ~ 2025,['CM']
+L. Openda,22,Lens,€12.5M,€28K,2022 ~ 2027,['ST']
+M. Shaparenko,23,Dynamo Kyiv,€21M,€1K,2015 ~ 2025,"['CM', 'CAM']"
+B. Omeragic,20,Zürich,€2.7M,€5K,2018 ~ 2023,"['CB', 'RB']"
+A. Bah,24,Benfica,€20M,€12K,2022 ~ 2027,"['RB', 'RM']"
+L. Traoré,21,Shakhtar Donetsk,€9.5M,€750,2021 ~ 2026,['ST']
+A. Pitu,20,SSC Farul,€2.2M,€4K,2021 ~ 2023,"['LW', 'RW']"
+T. Pobega,22,Milan,€17M,€45K,2019 ~ 2027,['CM']
+J. Kamiński,20,VfL Wolfsburg,€9.5M,€26K,2022 ~ 2027,"['LM', 'LW']"
+Adrián Bernabé,21,Parma,€3.4M,€2K,2021 ~ 2024,"['CM', 'CAM']"
+Y. Musah,19,Valencia,€9M,€16K,2019 ~ 2026,"['RM', 'CM', 'CDM']"
+Talles Magno,20,New York City,€5.5M,€5K,2021 ~ 2026,"['LM', 'CF']"
+A. Diallo,19,Sunderland,€4.4M,€31K,"Jun 30, 2023 On Loan","['RM', 'RW']"
+E. Atuesta,25,,€0,€0,Free,"['CDM', 'CM']"
+Douglas Luiz,24,Aston Villa,€18.5M,€59K,2019 ~ 2026,"['CDM', 'CM']"
+R. Koch,25,Leeds United,€9.5M,€33K,2020 ~ 2024,"['CB', 'CDM']"
+J. Kluivert,23,Valencia,€11.5M,€45K,"Jun 30, 2023 On Loan","['LM', 'RM']"
+D. Lainez,22,Sporting Braga,€9.5M,€17K,"Jun 30, 2023 On Loan","['RM', 'CM', 'CAM']"
+N. Casale,24,Lazio,€15.5M,€33K,2022 ~ 2027,['CB']
+N. Raskin,21,Standard Liège,€5M,€9K,2019 ~ 2023,"['CM', 'CDM']"
+Matheus Cunha,23,Wolverhampton Wanderers,€32M,€56K,"Jun 30, 2023 On Loan","['ST', 'CAM', 'LM']"
+H. Traorè,22,Sassuolo,€21.5M,€29K,2021 ~ 2024,"['LM', 'LW', 'CAM']"
+N. Williams,21,Nottingham Forest,€5M,€25K,2022 ~ 2026,"['RB', 'RWB']"
+A. Lunin,23,Real Madrid,€11M,€63K,2018 ~ 2024,['GK']
+S. Esposito,19,Anderlecht,€3M,€16K,"Jun 30, 2023 On Loan","['ST', 'CAM']"
+A. Hickey,20,Brentford,€10.5M,€28K,2022 ~ 2026,"['RB', 'LB', 'RWB']"
+T. Coulibaly,21,VfB Stuttgart,€3.1M,€9K,2019 ~ 2023,"['RM', 'LM', 'CF']"
+Nico González,20,Valencia,€11M,€72K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+M. Thiaw,20,Milan,€4.8M,€24K,2022 ~ 2027,['CB']
+N. Collins,18,Borussia Dortmund,€850K,€2K,2021 ~ 2023,['CB']
+N. Seiwald,21,Salzburg,€12.5M,€19K,2020 ~ 2026,"['CM', 'CDM']"
+V. Kristiansen,19,København,€3.9M,€7K,2020 ~ 2025,['LB']
+Kaio Jorge,20,Juventus,€4.1M,€41K,2021 ~ 2026,['ST']
+J. Bakayoko,19,PSV,€3.1M,€5K,2019 ~ 2025,['RW']
+P. Wanner,16,FC Bayern München,€1.2M,€1K,2022 ~ 2027,"['CAM', 'LM', 'RM']"
+E. Nuamah,18,Nordsjælland,€1M,€1K,2022 ~ 2024,"['LW', 'ST']"
+K. Trippier,31,Newcastle United,€30.5M,€120K,2022 ~ 2024,"['RB', 'RM']"
+R. Lewandowski,33,FC Barcelona,€84M,€420K,2022 ~ 2025,['ST']
+S. de Vrij,30,Inter,€34.5M,€88K,2018 ~ 2023,['CB']
+Héctor Bellerín,27,FC Barcelona,€18.5M,€115K,2022 ~ 2023,['RB']
+T. Vaclík,33,,€0,€0,Free,['GK']
+Marquinhos,28,Paris Saint Germain,€92M,€170K,2013 ~ 2024,['CB']
+K. Coman,26,FC Bayern München,€80M,€105K,2015 ~ 2027,"['RM', 'LM']"
+Bernardo Silva,27,Manchester City,€97.5M,€260K,2017 ~ 2025,"['CAM', 'CM']"
+Angeliño,25,TSG Hoffenheim,€35M,€59K,"Jun 30, 2023 On Loan","['LWB', 'LM']"
+Marco Asensio,26,Real Madrid,€43M,€200K,2015 ~ 2023,"['RW', 'LW']"
+S. Amrabat,25,Fiorentina,€9M,€40K,2020 ~ 2024,"['CDM', 'CM']"
+B. Godfrey,24,Everton,€19.5M,€31K,2020 ~ 2025,"['CB', 'LB']"
+B. Pavard,26,FC Bayern München,€29.5M,€63K,2019 ~ 2024,"['RB', 'CB']"
+R. Bentancur,25,Tottenham Hotspur,€35.5M,€95K,2022 ~ 2026,['CM']
+Robert Sánchez,24,Brighton & Hove Albion,€16M,€39K,2015 ~ 2025,['GK']
+M. Akanji,26,Manchester City,€26.5M,€120K,2022 ~ 2027,['CB']
+A. Wan-Bissaka,24,Manchester United,€22M,€86K,2019 ~ 2024,['RB']
+L. Martínez,24,Inter,€98.5M,€110K,2018 ~ 2026,['ST']
+Rodri,26,Manchester City,€88.5M,€200K,2019 ~ 2027,['CDM']
+J. Bijlow,24,Feyenoord,€24M,€8K,2015 ~ 2025,['GK']
+D. Dumfries,26,Inter,€34.5M,€73K,2021 ~ 2025,"['RWB', 'RM']"
+X. Schlager,24,RB Leipzig,€32M,€49K,2022 ~ 2026,"['CDM', 'CM']"
+S. Villa,26,Boca Juniors,€16.5M,€21K,2018 ~ 2024,"['LW', 'RW']"
+Dodô,23,Fiorentina,€14.5M,€36K,2022 ~ 2027,['RB']
+Carlos Soler,25,Paris Saint Germain,€47.5M,€100K,2022 ~ 2027,"['CM', 'RM', 'CDM']"
+Reinildo,28,Atlético Madrid,€19M,€56K,2022 ~ 2025,"['LB', 'CB']"
+E. Atuesta,25,,€0,€0,Free,"['CDM', 'CM']"
+M. Cash,24,Aston Villa,€22M,€65K,2020 ~ 2027,"['RB', 'RWB']"
+G. Donnarumma,23,Paris Saint Germain,€103.5M,€110K,2021 ~ 2026,['GK']
+H. Ito,23,VfB Stuttgart,€4.2M,€16K,2022 ~ 2025,"['CB', 'CDM']"
+E. Ampadu,21,Spezia,€6M,€43K,"Jun 30, 2023 On Loan","['CDM', 'CM', 'CB']"
+E. Álvarez,24,Ajax,€27.5M,€17K,2019 ~ 2025,"['CDM', 'CM']"
+J. Tanganga,23,Tottenham Hotspur,€6M,€49K,2017 ~ 2025,"['RWB', 'CB']"
+David Neres,25,Benfica,€28M,€17K,2022 ~ 2027,"['RM', 'RW', 'CAM']"
+U. Antuna,24,,€0,€0,Free,"['RM', 'LM', 'RW']"
+Rúben Dias,25,Manchester City,€107.5M,€230K,2020 ~ 2027,['CB']
+D. Man,23,Parma,€3M,€3K,2021 ~ 2025,"['RM', 'LM', 'RW']"
+D. McNeil,22,Everton,€11.5M,€33K,2022 ~ 2027,"['LM', 'RM']"
+J. Burkardt,21,FSV Mainz 05,€12.5M,€21K,2018 ~ 2024,"['ST', 'CF', 'RW']"
+Trincão,22,Sporting CP,€15M,€95K,"Jun 30, 2023 On Loan","['RW', 'RM']"
+Y. Fofana,23,Monaco,€27.5M,€46K,2020 ~ 2024,"['CDM', 'CM']"
+B. Gilmour,21,Brighton & Hove Albion,€5M,€30K,2022 ~ 2026,"['CM', 'CDM']"
+Bryan Gil,21,Tottenham Hotspur,€15M,€52K,2021 ~ 2026,"['LM', 'RM']"
+F. Nmecha,21,VfL Wolfsburg,€5.5M,€21K,2021 ~ 2024,"['CAM', 'CM', 'LM']"
+F. Balogun,20,Reims,€4.1M,€35K,"Jun 30, 2023 On Loan",['ST']
+J. Stanišić,22,FC Bayern München,€6.5M,€31K,2021 ~ 2026,"['RB', 'CB']"
+R. Zalazar,22,Schalke 04,€6M,€17K,2022 ~ 2026,"['CM', 'CAM']"
+W. Singo,21,Torino,€16M,€26K,2019 ~ 2023,"['RWB', 'RM']"
+F. Pellistri,20,Manchester United,€3.5M,€35K,2020 ~ 2025,['RM']
+E. Anderson,19,Newcastle United,€2.6M,€13K,2019 ~ 2027,"['CM', 'LW']"
+L. Gourna,18,Salzburg,€4.6M,€5K,2022 ~ 2027,"['CDM', 'CM']"
+João Mário,22,Porto,€12M,€10K,2018 ~ 2027,['RB']
+J. Lepenant,19,Olympique Lyonnais,€4.8M,€18K,2022 ~ 2027,"['CDM', 'CM']"
+O. Popescu,19,FCSB,€4.4M,€7K,2020 ~ 2024,"['LW', 'CAM']"
+K. Gordon,17,Liverpool,€1.2M,€3K,2021 ~ 2023,"['RW', 'LW']"
+Kaio Jorge,20,Juventus,€4.1M,€41K,2021 ~ 2026,['ST']
+C. Okoli,20,Atalanta,€4.8M,€20K,2021 ~ 2026,['CB']
+E. Fernández,19,Boca Juniors,€4.2M,€5K,2021 ~ 2023,"['CDM', 'CM']"
+S. Raebiger,17,SpVgg Greuther Fürth,€1.2M,€500,2022 ~ 2025,"['CM', 'CAM']"
+V. Gómez,19,Vélez Sarsfield,€3.5M,€4K,2022 ~ 2024,"['CB', 'LB']"
+Sergio Ramos,36,Paris Saint Germain,€7.5M,€75K,2021 ~ 2023,['CB']
+M. Neuer,36,FC Bayern München,€11.5M,€69K,2011 ~ 2024,['GK']
+M. Hummels,33,Borussia Dortmund,€20M,€66K,2019 ~ 2023,['CB']
+A. Sánchez,33,Olympique Marseille,€11M,€48K,2022 ~ 2023,['ST']
+Coutinho,30,Aston Villa,€25M,€95K,2022 ~ 2026,"['CAM', 'LW', 'CM']"
+T. Müller,32,FC Bayern München,€54M,€105K,2008 ~ 2024,"['CAM', 'CF']"
+Casemiro,30,Manchester United,€86M,€240K,2022 ~ 2026,['CDM']
+K. Koulibaly,31,Chelsea,€46.5M,€165K,2022 ~ 2026,['CB']
+G. Kondogbia,29,Atlético Madrid,€29.5M,€71K,2020 ~ 2024,"['CM', 'CDM', 'CB']"
+C. Musonda,25,Levante,€2.8M,€9K,2022 ~ 2024,"['RM', 'LM']"
+J. Grealish,26,Manchester City,€46M,€185K,2021 ~ 2027,"['LW', 'LM']"
+Kepa,27,Chelsea,€25.5M,€86K,2018 ~ 2025,['GK']
+H. Ziyech,29,Chelsea,€35.5M,€155K,2020 ~ 2025,"['RW', 'CAM']"
+M. Salah,30,Liverpool,€115.5M,€270K,2017 ~ 2023,['RW']
+A. Rabiot,27,Juventus,€27.5M,€110K,2019 ~ 2023,"['CM', 'LM']"
+R. Gagliardini,28,Inter,€6.5M,€50K,2017 ~ 2023,"['CDM', 'CM']"
+T. Lemar,26,Atlético Madrid,€42.5M,€74K,2018 ~ 2023,"['CM', 'LM', 'RM']"
+Adama Traoré,26,Wolverhampton Wanderers,€12.5M,€77K,2018 ~ 2023,"['RW', 'LW', 'ST']"
+A. Robertson,28,Liverpool,€72M,€185K,2017 ~ 2026,['LB']
+G. Di Lorenzo,28,Napoli,€27.5M,€66K,2019 ~ 2026,['RB']
+C. Lenglet,27,Tottenham Hotspur,€15M,€105K,"Jun 30, 2023 On Loan",['CB']
+Pablo Maffeo,24,Mallorca,€20M,€23K,2022 ~ 2026,"['RWB', 'RB']"
+D. Calvert-Lewin,25,Everton,€23.5M,€49K,2016 ~ 2025,['ST']
+M. Locatelli,24,Juventus,€40M,€37K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+R. Bensebaini,27,Borussia Mönchengladbach,€22M,€33K,2019 ~ 2023,"['LB', 'CB']"
+M. Cash,24,Aston Villa,€22M,€65K,2020 ~ 2027,"['RB', 'RWB']"
+G. Donnarumma,23,Paris Saint Germain,€103.5M,€110K,2021 ~ 2026,['GK']
+H. Ito,23,VfB Stuttgart,€4.2M,€16K,2022 ~ 2025,"['CB', 'CDM']"
+E. Ampadu,21,Spezia,€6M,€43K,"Jun 30, 2023 On Loan","['CDM', 'CM', 'CB']"
+N. Okafor,22,Salzburg,€15.5M,€26K,2020 ~ 2024,"['ST', 'CAM', 'LM']"
+J. Carbonero,22,Racing Club,€5.5M,€13K,2022 ~ 2026,"['LW', 'RW']"
+B. Mbeumo,22,Brentford,€8M,€40K,2019 ~ 2026,"['RW', 'ST', 'LW']"
+N. Pérez,22,Udinese,€10.5M,€13K,2022 ~ 2027,['CB']
+T. Parrott,20,Preston North End,€2.1M,€17K,"Jun 30, 2023 On Loan","['ST', 'RM']"
+H. White,20,Tottenham Hotspur,€1.3M,€11K,2018 ~ 2024,"['CDM', 'CM']"
+M. Solomon,22,Fulham,€15M,€900,"Jun 30, 2023 On Loan","['LM', 'RM', 'CAM']"
+Edgar,25,Real Betis,€17.5M,€23K,2018 ~ 2025,"['CB', 'CDM']"
+S. Boey,21,Galatasaray,€8M,€32K,2021 ~ 2025,['RB']
+N. Collins,21,Wolverhampton Wanderers,€14M,€43K,2022 ~ 2027,"['CB', 'RB']"
+David Carmo,22,Porto,€22M,€11K,2022 ~ 2027,['CB']
+Beto,24,Udinese,€29M,€22K,2022 ~ 2026,['ST']
+C. Summerville,20,Leeds United,€4.1M,€18K,2020 ~ 2026,"['RM', 'LM']"
+K. Kozłowski,18,Vitesse,€3.1M,€8K,"Jun 30, 2023 On Loan","['CAM', 'CM']"
+J. Doig,20,Hellas Verona,€3.9M,€11K,2022 ~ 2026,"['LWB', 'LM', 'LB']"
+S. Simón,20,River Plate,€9.5M,€11K,2021 ~ 2024,"['RM', 'CM']"
+O. Marmoush,23,VfL Wolfsburg,€6.5M,€34K,2020 ~ 2023,"['ST', 'RM', 'LM']"
+M. Dárdai,20,Hertha BSC,€3.8M,€12K,2020 ~ 2025,['CB']
+A. Karabec,18,Sparta Praha,€4.4M,€500,2020 ~ 2023,"['CAM', 'RM', 'LM']"
+Tiago Tomás,20,VfB Stuttgart,€9.5M,€10K,"Jun 30, 2023 On Loan","['ST', 'RW']"
+L. Ugochukwu,18,Rennes,€3.2M,€7K,2020 ~ 2025,"['CM', 'CDM']"
+Álex Baena,20,Villarreal,€11M,€21K,2019 ~ 2025,"['RM', 'ST', 'CM']"
+C. Cîrjan,19,Arsenal,€950K,€7K,2019 ~ 2025,"['CM', 'RM']"
+C. Medina,20,Boca Juniors,€4.1M,€8K,2020 ~ 2026,['CM']
+Hugo Bueno,19,Wolverhampton Wanderers,€1.9M,€9K,2021 ~ 2026,"['LB', 'LWB']"
+Kayky,19,Paços de Ferreira,€2.4M,€17K,"Jun 30, 2023 On Loan",['RW']
+K. Fitz-Jim,18,Ajax,€2M,€2K,2019 ~ 2024,"['CM', 'CDM']"
+S. Biuk,19,Los Angeles FC,€3.8M,€3K,2023 ~ 2026,"['LW', 'LM']"
+22 F. Fofana,18,PSV,€1.5M,€2K,2021 ~ 2025,['ST']
+A. Vermeeren,17,Antwerp,€1.5M,€500,2022 ~ 2024,"['CDM', 'CM']"
+F. Terracciano,19,Hellas Verona,€2.4M,€5K,2022 ~ 2026,"['RM', 'RB', 'CM']"
+M. Özil,33,İstanbul Başakşehir,€6.5M,€37K,2022 ~ 2023,"['CAM', 'RM']"
+L. Modrić,36,Real Madrid,€29M,€230K,2012 ~ 2023,['CM']
+Á. Di María,34,Juventus,€20M,€160K,2022 ~ 2023,['RW']
+K. Navas,35,Paris Saint Germain,€10M,€85K,2019 ~ 2024,['GK']
+D. Alaba,30,Real Madrid,€55.5M,€220K,2021 ~ 2026,"['CB', 'LB']"
+Isco,30,Sevilla,€29.5M,€39K,2022 ~ 2024,"['CAM', 'LW', 'CM']"
+D. Bentley,28,Bristol City,€2.6M,€22K,2019 ~ 2023,['GK']
+Pablo Sarabia,30,Paris Saint Germain,€25M,€95K,2019 ~ 2024,"['RW', 'CAM', 'LW']"
+Lucas Moura,29,Tottenham Hotspur,€17M,€100K,2018 ~ 2024,['RW']
+V. van Dijk,30,Liverpool,€84.5M,€220K,2018 ~ 2025,['CB']
+Jorginho,30,Chelsea,€40.5M,€150K,2018 ~ 2023,"['CM', 'CDM']"
+S. Haller,28,Borussia Dortmund,€31M,€68K,2022 ~ 2026,['ST']
+H. Çalhanoğlu,28,Inter,€42M,€100K,2021 ~ 2024,['CM']
+S. Mané,30,FC Bayern München,€101M,€155K,2022 ~ 2025,"['CF', 'LM']"
+N. Aké,27,Manchester City,€18.5M,€105K,2020 ~ 2025,"['CB', 'LB']"
+Gayà,27,Valencia,€32M,€44K,2012 ~ 2027,"['LB', 'LWB']"
+A. Christensen,26,FC Barcelona,€37.5M,€145K,2022 ~ 2026,['CB']
+R. Loftus-Cheek,26,Chelsea,€13M,€87K,2013 ~ 2024,"['CM', 'CDM', 'RM']"
+A. Mitrović,27,Fulham,€19M,€70K,2018 ~ 2024,['ST']
+M. Cornet,25,West Ham United,€17M,€63K,2022 ~ 2027,"['LM', 'CF']"
+Merino,26,Real Sociedad,€47M,€49K,2018 ~ 2025,"['CM', 'LM', 'RM']"
+W. Ndidi,25,Leicester City,€41M,€95K,2017 ~ 2024,"['CDM', 'CM', 'CB']"
+S. Berge,24,Sheffield United,€8M,€22K,2020 ~ 2024,"['CDM', 'CM']"
+D. Upamecano,23,FC Bayern München,€47M,€64K,2021 ~ 2026,['CB']
+Unai Simón,25,Athletic Club,€37M,€30K,2015 ~ 2025,['GK']
+T. Chalobah,22,Chelsea,€10.5M,€64K,2016 ~ 2026,"['CB', 'CDM', 'CM']"
+M. Almirón,28,Newcastle United,€21M,€105K,2019 ~ 2024,"['RW', 'RM']"
+L. Kelly,23,AFC Bournemouth,€5.5M,€28K,2019 ~ 2024,['CB']
+Rafa Mir,25,Sevilla,€24.5M,€33K,2021 ~ 2027,['ST']
+A. Harit,25,Olympique Marseille,€14M,€36K,2022 ~ 2027,"['LM', 'CAM']"
+L. Jović,24,Fiorentina,€25.5M,€55K,2022 ~ 2024,['ST']
+K. Itakura,25,Borussia Mönchengladbach,€9.5M,€23K,2022 ~ 2026,"['CB', 'CDM']"
+R. Le Normand,25,Real Sociedad,€34M,€36K,2016 ~ 2026,['CB']
+B. Brereton Díaz,23,Blackburn Rovers,€11.5M,€38K,2019 ~ 2023,"['ST', 'LW']"
+J. Brekalo,24,VfL Wolfsburg,€24.5M,€48K,2021 ~ 2023,"['CF', 'LM']"
+F. Kadioglu,22,Fenerbahçe,€6.5M,€39K,2018 ~ 2026,"['LB', 'RB', 'LM']"
+I. Sarr,24,Watford,€16.5M,€39K,2019 ~ 2024,"['RM', 'RW']"
+C. Rodríguez,25,,€0,€0,Free,"['CAM', 'CM']"
+J. Foyth,24,Villarreal,€24.5M,€29K,2021 ~ 2026,"['RB', 'CB', 'CDM']"
+N. Cozza,23,Montpellier,€8M,€16K,2017 ~ 2023,"['CB', 'LB']"
+D. Loader,21,Porto,€3.6M,€6K,2020 ~ 2025,"['ST', 'CAM']"
+Rúben Dias,25,Manchester City,€107.5M,€230K,2020 ~ 2027,['CB']
+Éder Militão,24,Real Madrid,€57.5M,€160K,2019 ~ 2025,['CB']
+L. Díaz,25,Liverpool,€50.5M,€155K,2022 ~ 2027,"['LW', 'LM']"
+M. Barrow,23,Bologna,€17M,€31K,2021 ~ 2024,"['CF', 'ST', 'LW']"
+T. Lamptey,21,Brighton & Hove Albion,€12M,€35K,2020 ~ 2025,"['RWB', 'RB']"
+M. Aydin,20,Schalke 04,€2.3M,€6K,2021 ~ 2025,"['RB', 'RM']"
+Q. Merlin,20,Nantes,€3.7M,€9K,2020 ~ 2026,"['LB', 'LWB', 'LM']"
+G. Mamardashvili,21,Valencia,€18.5M,€17K,2022 ~ 2027,['GK']
+A. Kamara,17,Borussia Dortmund,€775K,€800,2021 ~ 2024,"['CM', 'CDM']"
+Rodrigo Muniz,21,Middlesbrough,€3.6M,€23K,"Jun 30, 2023 On Loan",['ST']
+D. Ouattara,20,Lorient,€2.3M,€6K,2021 ~ 2024,"['ST', 'LW', 'RM']"
+M. Olesen,21,FC Köln,€500K,€3K,2021 ~ 2024,"['CM', 'CAM']"
+Simo,17,Espanyol,€1.7M,€500,2022 ~ 2026,['CB']
+Sávio,18,PSV,€4M,€5K,"Jun 30, 2023 On Loan",['RW']
+F. Chaïbi,19,Toulouse,€3.8M,€7K,2022 ~ 2025,"['LW', 'RW', 'ST']"
+L. Ulrich,17,VfB Stuttgart,€1M,€550,2022 ~ 2026,"['CM', 'CAM', 'LM']"
+S. Sané,19,Schalke 04,€850K,€2K,2022 ~ 2024,['RM']
+I. Sulemana Kakari,19,Hellas Verona,€2.3M,€4K,2022 ~ 2025,"['CDM', 'CM', 'CB']"
+João Neves,17,Benfica,€1.8M,€500,2022 ~ 2028,['CM']
+A. Laporte,28,Manchester City,€64.5M,€195K,2018 ~ 2025,['CB']
+P. Højbjerg,26,Tottenham Hotspur,€47M,€120K,2020 ~ 2025,"['CDM', 'CM']"
+M. Brozović,29,Inter,€58M,€110K,2016 ~ 2026,"['CDM', 'CM']"
+Rafa,29,Benfica,€36.5M,€26K,2016 ~ 2024,"['CF', 'RM', 'RW']"
+D. Machado,28,Lens,€2.1M,€21K,2021 ~ 2024,"['LWB', 'LB']"
+L. Klostermann,26,RB Leipzig,€23M,€53K,2014 ~ 2024,"['CB', 'RB']"
+Dani Ceballos,25,Real Madrid,€14M,€110K,2017 ~ 2023,"['CM', 'CDM']"
+M. Pašalić,27,Atalanta,€27.5M,€60K,2020 ~ 2025,"['CAM', 'CF', 'CM']"
+K. Ajer,24,Brentford,€11.5M,€33K,2021 ~ 2026,"['CB', 'RB']"
+J. Boga,25,Atalanta,€12.5M,€47K,2022 ~ 2026,"['LW', 'CF', 'LM']"
+Diogo Jota,25,Liverpool,€72M,€170K,2020 ~ 2025,"['CF', 'LW']"
+R. Oxford,23,FC Augsburg,€10M,€21K,2019 ~ 2023,"['CB', 'CDM', 'RB']"
+A. Onana,26,Inter,€30.5M,€59K,2022 ~ 2027,['GK']
+Nuno Santos,27,Sporting CP,€22.5M,€20K,2020 ~ 2025,"['LW', 'LWB', 'RW']"
+B. Henrichs,25,RB Leipzig,€13M,€41K,2021 ~ 2025,"['RB', 'RM', 'CM']"
+D. Calabria,25,Milan,€25.5M,€60K,2015 ~ 2025,['RB']
+L. Bailey,24,Aston Villa,€29M,€84K,2021 ~ 2025,"['RW', 'CF', 'LM']"
+Matheus Reis,27,Sporting CP,€20M,€16K,2021 ~ 2026,"['CB', 'LB', 'LWB']"
+E. Palacios,23,Bayer 04 Leverkusen,€26.5M,€48K,2020 ~ 2025,"['CM', 'CDM', 'CAM']"
+F. Neuhaus,25,Borussia Mönchengladbach,€29M,€34K,2017 ~ 2024,['CM']
+T. Ndombele,25,Napoli,€23M,€85K,"Jun 30, 2023 On Loan","['CM', 'CDM', 'CAM']"
+C. Kouamé,24,Fiorentina,€8.5M,€42K,2020 ~ 2024,"['ST', 'RW']"
+M. Kean,22,Juventus,€32M,€41K,"Jun 30, 2023 On Loan","['ST', 'LW']"
+D. Zagadou,23,VfB Stuttgart,€11M,€19K,2022 ~ 2026,['CB']
+Pedro Neto,22,Wolverhampton Wanderers,€21.5M,€72K,2019 ~ 2027,"['LW', 'RW', 'ST']"
+M. Bakker,22,Bayer 04 Leverkusen,€6.5M,€30K,2021 ~ 2025,['LB']
+J. Moder,23,Brighton & Hove Albion,€9.5M,€43K,2020 ~ 2025,"['CM', 'CDM', 'LM']"
+O. Kabak,22,TSG Hoffenheim,€8M,€24K,2022 ~ 2026,['CB']
+T. Koopmeiners,24,Atalanta,€30M,€49K,2021 ~ 2025,"['CM', 'CDM']"
+M. O'Riley,21,Celtic,€7M,€29K,2022 ~ 2026,"['CM', 'CDM']"
+Y. Atal,26,Nice,€9M,€35K,2018 ~ 2023,"['RB', 'RM', 'RWB']"
+Unai Núñez,25,Celta de Vigo,€22M,€28K,"Jun 30, 2023 On Loan",['CB']
+M. Damsgaard,21,Brentford,€17M,€37K,2022 ~ 2027,"['LW', 'LM', 'CAM']"
+Y. Bisseck,21,AGF,€3.7M,€6K,2021 ~ 2026,['CB']
+C. Baumgartner,22,TSG Hoffenheim,€22.5M,€32K,2018 ~ 2025,"['CAM', 'CM', 'ST']"
+Hugo Duro,22,Valencia,€12M,€30K,2022 ~ 2026,"['ST', 'LM']"
+M. Hjulmand,23,Lecce,€12M,€13K,2021 ~ 2024,"['CDM', 'CM']"
+M. Salisu,23,Southampton,€14.5M,€41K,2020 ~ 2024,['CB']
+J. Teze,22,PSV,€20M,€15K,2016 ~ 2025,"['CB', 'RB']"
+D. Alemdar,19,Rennes,€4.4M,€9K,2021 ~ 2026,['GK']
+Silas,23,VfB Stuttgart,€9M,€20K,2019 ~ 2026,"['RM', 'LM', 'RW']"
+M. Camara,22,Monaco,€22.5M,€37K,2022 ~ 2027,"['CDM', 'CM']"
+D. Hancko,24,Feyenoord,€26M,€11K,2022 ~ 2026,"['CB', 'LB']"
+Ibañez,23,Roma,€27M,€54K,2021 ~ 2025,['CB']
+G. Isaksen,21,Midtjylland,€5.5M,€16K,2019 ~ 2024,"['RW', 'LW']"
+J. Zirkzee,21,Bologna,€7M,€21K,2022 ~ 2026,"['ST', 'CAM']"
+E. Simms,21,Everton,€2.7M,€12K,2019 ~ 2024,['ST']
+B. Fink,19,Basel,€1.4M,€3K,2022 ~ 2026,['ST']
+L. Krejčí,23,Sparta Praha,€15.5M,€900,2019 ~ 2025,"['CDM', 'CB', 'CM']"
+E. Millot,19,VfB Stuttgart,€2.4M,€5K,2021 ~ 2025,"['CAM', 'CM']"
+J. Leweling,21,FC Union Berlin,€5.5M,€17K,2022 ~ 2024,"['ST', 'RW']"
+A. Aouchiche,19,Lorient,€3.6M,€7K,2022 ~ 2026,"['LM', 'CAM', 'CM']"
+Z. Debast,18,Anderlecht,€2.6M,€2K,2019 ~ 2025,['CB']
+Francés,19,Real Zaragoza,€6M,€5K,2019 ~ 2025,['CB']
+K. Saito,20,Sparta Rotterdam,€2.3M,€3K,2021 ~ 2025,"['ST', 'LM']"
+F. Pereira,22,Liverpool,€4.9M,€600,2019 ~ 2022,"['CB', 'RB']"
+Evanilson,22,Porto,€29M,€15K,2020 ~ 2027,['ST']
+E. Martel,20,FC Köln,€3.2M,€8K,2022 ~ 2026,"['CDM', 'CB']"
+M. Flores,18,Real Oviedo,€1.5M,€5K,"Jun 30, 2023 On Loan","['LM', 'ST', 'RM']"
+P. Sarr,19,Tottenham Hotspur,€4M,€25K,2021 ~ 2026,['CM']
+H. Lloris,35,Tottenham Hotspur,€7.5M,€74K,2012 ~ 2024,['GK']
+I. Perišić,33,Tottenham Hotspur,€16M,€100K,2022 ~ 2024,"['LWB', 'LM']"
+T. Kroos,32,Real Madrid,€72M,€310K,2014 ~ 2023,['CM']
+R. Lukaku,29,Inter,€54M,€185K,"Jun 30, 2023 On Loan",['ST']
+Marcos Alonso,31,FC Barcelona,€12.5M,€115K,2022 ~ 2023,"['LB', 'CB']"
+K. De Bruyne,31,Manchester City,€107.5M,€350K,2015 ~ 2025,"['CM', 'CAM']"
+Pablo Sarabia,30,Paris Saint Germain,€25M,€95K,2019 ~ 2024,"['RW', 'CAM', 'LW']"
+R. Varane,29,Manchester United,€45M,€170K,2021 ~ 2025,['CB']
+C. Coady,29,Everton,€14.5M,€80K,"Jun 30, 2023 On Loan",['CB']
+H. Maguire,29,Manchester United,€17.5M,€110K,2019 ~ 2024,['CB']
+M. Sabitzer,28,FC Bayern München,€25.5M,€72K,2021 ~ 2025,"['CM', 'CDM', 'CAM']"
+M. Kovačić,28,Chelsea,€42M,€155K,2019 ~ 2024,['CM']
+F. Kostić,29,Juventus,€53M,€165K,2022 ~ 2026,"['LM', 'LW', 'LWB']"
+N. Aké,27,Manchester City,€18.5M,€105K,2020 ~ 2025,"['CB', 'LB']"
+D. Alli,26,Beşiktaş,€10M,€37K,"May 31, 2023 On Loan","['CAM', 'CM']"
+Junior Messias,31,Milan,€11.5M,€65K,2022 ~ 2024,"['RW', 'RM']"
+W. Geubbels,20,Monaco,€2.7M,€14K,2018 ~ 2023,"['ST', 'LW']"
+T. Weah,22,Lille,€8.5M,€23K,2019 ~ 2024,"['RM', 'LM', 'ST']"
+J. Wind,23,VfL Wolfsburg,€11.5M,€38K,2022 ~ 2026,"['ST', 'CF']"
+H. Morita,27,Sporting CP,€16M,€16K,2022 ~ 2026,"['CM', 'CDM']"
+A. Dovbyk,25,,€0,€0,Free,['ST']
+C. Doucouré,22,Crystal Palace,€20M,€43K,2022 ~ 2026,"['CDM', 'CM']"
+J. Garner,21,Everton,€5M,€18K,2022 ~ 2026,"['CDM', 'CM']"
+S. Giménez,21,Feyenoord,€12.5M,€9K,2022 ~ 2026,['ST']
+M. Kilman,25,Wolverhampton Wanderers,€10.5M,€58K,2018 ~ 2026,['CB']
+B. Dia,25,Salernitana,€23.5M,€39K,"Jun 30, 2023 On Loan","['ST', 'RW']"
+Í. Jóhannesson,19,København,€2.4M,€5K,2021 ~ 2026,"['CM', 'RW']"
+Um Won Sang,23,Ulsan,€3.7M,€9K,2022 ~ 2025,"['RW', 'ST', 'RM']"
+R. Bellanova,22,Inter,€9M,€4K,"Jun 30, 2023 On Loan","['RWB', 'RM']"
+B. Aaronson,21,Leeds United,€12.5M,€26K,2022 ~ 2027,"['CAM', 'RM', 'CM']"
+A. Trubin,20,Shakhtar Donetsk,€4.4M,€500,2018 ~ 2024,['GK']
+L. Krejčí,23,Sparta Praha,€15.5M,€900,2019 ~ 2025,"['CDM', 'CB', 'CM']"
+R. Yılmaz,21,Rangers,€6.5M,€26K,2022 ~ 2027,['LB']
+L. Morales,22,Lanús,€4.6M,€8K,2019 ~ 2024,['GK']
+R. Jones,19,Peterborough United,€1.1M,€2K,2019 ~ 2025,"['LW', 'ST']"
+M. Arezo,19,Granada,€2.9M,€3K,2022 ~ 2026,"['ST', 'CAM']"
+A. Kuol,20,VfB Stuttgart,€550K,€3K,2021 ~ 2025,['ST']
+B. El Khannouss,18,Genk,€2.6M,€2K,2020 ~ 2026,"['CAM', 'CM']"
+J. Juranović,26,Celtic,€6M,€42K,2021 ~ 2026,"['RB', 'LB']"
+K. Fujimoto,23,Gil Vicente,€9.5M,€10K,2020 ~ 2025,"['CM', 'RW', 'CAM']"
+C. Tengstedt,22,Rosenborg,€2.7M,€3K,2022 ~ 2026,"['ST', 'LM']"
+J. Aude,19,Lanús,€2.3M,€3K,2020 ~ 2024,"['LB', 'CDM']"
+E. Matazo,20,Monaco,€6.5M,€23K,2019 ~ 2026,"['CDM', 'CM']"
+Jeong Sang Bin,20,Grasshopper,€1.5M,€13K,"Jun 30, 2023 On Loan",['ST']
+K. Schade,20,Brentford,€3.8M,€11K,"Jun 30, 2023 On Loan","['RM', 'ST']"
+I. Ndiaye,22,Sheffield United,€4.2M,€16K,2019 ~ 2024,"['CAM', 'ST']"
+É. Michut,19,Sunderland,€2.2M,€10K,"Jun 30, 2023 On Loan",['CM']
+A. Omobamidele,20,Norwich City,€4.2M,€17K,2019 ~ 2026,['CB']
+P. Lervik,17,Molde,€475K,€500,2021 ~ 2024,['GK']
+Z. Sertdemir,17,Bayer 04 Leverkusen,€1.2M,€1K,2021 ~ 2024,"['CM', 'CAM']"
+L. Abada,20,Celtic,€9.5M,€35K,2021 ~ 2026,['RW']
+M. Viti,20,Nice,€4.8M,€18K,2022 ~ 2025,['CB']
+L. Gechter,18,Eintracht Braunschweig,€2.6M,€3K,"Jun 30, 2023 On Loan",['CB']
+C. Volpato,18,Roma,€2.2M,€5K,2021 ~ 2024,['CAM']
+B. Doak,16,Liverpool,€1M,€3K,2022 ~ 2027,['RW']
+A. Sylla,19,Club Brugge,€3.1M,€6K,2021 ~ 2026,['CB']
+L. Littbarski,19,SpVgg Greuther Fürth,€525K,€1K,2022 ~ 2025,['RW']
+Samuel Soares,20,Benfica,€2M,€2K,2021 ~ 2027,['GK']
+L. Langoni,19,Boca Juniors,€3.3M,€5K,2022 ~ 2026,"['RW', 'ST']"
+M. Zanotti,19,Inter,€1.9M,€7K,2022 ~ 2025,"['RB', 'RM', 'RWB']"
+Ł. Fabiański,37,West Ham United,€2.9M,€39K,2018 ~ 2023,['GK']
+D. Mertens,35,Galatasaray,€17.5M,€77K,2022 ~ 2023,"['CAM', 'CF']"
+E. Hazard,31,Real Madrid,€35M,€220K,2019 ~ 2024,['LW']
+M. Balotelli,31,Sion,€9M,€30K,2022 ~ 2024,['ST']
+Jordi Alba,33,FC Barcelona,€28M,€190K,2012 ~ 2024,['LB']
+Pedro,34,Lazio,€8M,€57K,2021 ~ 2023,"['LW', 'RW']"
+P. Groß,31,Brighton & Hove Albion,€11.5M,€64K,2017 ~ 2024,"['CM', 'CF']"
+T. Courtois,30,Real Madrid,€90M,€250K,2018 ~ 2026,['GK']
+L. Dunk,30,Brighton & Hove Albion,€14.5M,€65K,2010 ~ 2025,['CB']
+Nacho Fernández,32,Real Madrid,€20M,€155K,2010 ~ 2023,"['CB', 'LB']"
+J. Tarkowski,29,Everton,€17.5M,€48K,2022 ~ 2026,['CB']
+A. Schwolow,30,Schalke 04,€2.8M,€19K,"Jun 30, 2023 On Loan",['GK']
+N. Füllkrug,29,Werder Bremen,€14M,€31K,2019 ~ 2025,['ST']
+A. Rüdiger,29,Real Madrid,€73.5M,€250K,2022 ~ 2026,['CB']
+L. Paredes,28,Juventus,€21M,€86K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+Gerard Moreno,30,Villarreal,€53M,€64K,2018 ~ 2027,['ST']
+M. Frey,27,Antwerp,€4.6M,€21K,2021 ~ 2024,['ST']
+B. Cristante,27,Roma,€23M,€63K,2019 ~ 2024,"['CDM', 'CM']"
+E. Can,28,Borussia Dortmund,€21M,€54K,2020 ~ 2024,"['CM', 'CB', 'CDM']"
+E. Forsberg,30,RB Leipzig,€20.5M,€58K,2015 ~ 2025,"['CAM', 'CF']"
+J. Vardy,35,Leicester City,€15.5M,€90K,2012 ~ 2024,['ST']
+V. Grifo,29,SC Freiburg,€30M,€43K,2019 ~ 2026,"['LM', 'CF', 'CAM']"
+P. Max,28,PSV,€9.5M,€18K,2020 ~ 2024,['LB']
+R. Andrich,27,Bayer 04 Leverkusen,€26.5M,€57K,2021 ~ 2026,"['CDM', 'CM']"
+D. Origi,27,Milan,€9M,€56K,2022 ~ 2026,"['ST', 'LW']"
+Á. Correa,27,Atlético Madrid,€42.5M,€80K,2014 ~ 2026,"['ST', 'RM', 'CF']"
+J. Correa,27,Inter,€23M,€75K,2022 ~ 2025,"['CF', 'ST']"
+D. Zapata,31,Atalanta,€30.5M,€77K,2020 ~ 2024,['ST']
+H. Lozano,26,Napoli,€28M,€69K,2019 ~ 2024,['RW']
+E. Ünal,25,Getafe,€24.5M,€35K,2020 ~ 2025,['ST']
+F. Diédhiou,29,Alanyaspor,€1.4M,€12K,2021 ~ 2025,['ST']
+H. Martín,29,,€0,€0,Free,['ST']
+M. Acuña,30,Sevilla,€46.5M,€46K,2020 ~ 2024,"['LB', 'LM']"
+J. Larsson,25,Schalke 04,€5.5M,€21K,2022 ~ 2025,"['RM', 'ST', 'LM']"
+J. Gallardo,27,,€0,€0,Free,"['LB', 'LM', 'LW']"
+N. Pépé,27,Nice,€18.5M,€83K,"Jun 30, 2023 On Loan","['RM', 'LM', 'LW']"
+N. Mukiele,24,Paris Saint Germain,€23.5M,€61K,2022 ~ 2027,"['RWB', 'CB']"
+Nélson Semedo,28,Wolverhampton Wanderers,€12.5M,€72K,2020 ~ 2023,"['RB', 'RWB']"
+D. Calabria,25,Milan,€25.5M,€60K,2015 ~ 2025,['RB']
+S. Amallah,25,Standard Liège,€4M,€13K,2019 ~ 2023,"['CAM', 'CM', 'LW']"
+T. Davies,24,Everton,€7.5M,€31K,2015 ~ 2023,"['CM', 'CDM']"
+A. Tuanzebe,24,Manchester United,€3.9M,€55K,2015 ~ 2023,['CB']
+J. Karlsson,23,AZ,€21M,€13K,2020 ~ 2026,['LW']
+A. Murić,23,Burnley,€6M,€21K,2022 ~ 2026,['GK']
+Raphinha,25,FC Barcelona,€43.5M,€180K,2022 ~ 2027,"['RW', 'RM']"
+É. Mendy,30,Chelsea,€51M,€130K,2020 ~ 2025,['GK']
+C. Ünder,24,Olympique Marseille,€19M,€38K,2022 ~ 2025,"['RW', 'RM']"
+Luiz Felipe,25,Real Betis,€22M,€25K,2022 ~ 2027,['CB']
+J. Mateta,25,Crystal Palace,€10M,€51K,2022 ~ 2026,['ST']
+M. Senesi,25,AFC Bournemouth,€13M,€41K,2022 ~ 2026,['CB']
+S. McTominay,25,Manchester United,€25M,€100K,2013 ~ 2025,"['CDM', 'CM']"
+N. Tella,22,Burnley,€4.8M,€30K,"Jun 30, 2023 On Loan","['LM', 'ST']"
+M. Tavernier,23,AFC Bournemouth,€3.7M,€28K,2022 ~ 2027,"['CAM', 'CM', 'RM']"
+P. Estupiñán,24,Brighton & Hove Albion,€23.5M,€55K,2022 ~ 2027,"['LB', 'LWB']"
+Bremer,25,Juventus,€45.5M,€115K,2022 ~ 2027,['CB']
+O. Kabak,22,TSG Hoffenheim,€8M,€24K,2022 ~ 2026,['CB']
+J. Fazzini,19,Empoli,€1.2M,€1K,2020 ~ 2027,['CM']
+Henrique Araújo,20,Benfica,€4.5M,€7K,2020 ~ 2027,['ST']
+S. Ngoma,16,New York RB,€650K,€500,2022 ~ 2025,"['RW', 'ST']"
+L. Lucca,21,Ajax,€4.2M,€3K,"Jun 30, 2023 On Loan",['ST']
+T. Souček,27,West Ham United,€26.5M,€75K,2020 ~ 2024,"['CDM', 'CM']"
+G. Gudmundsson,23,Lille,€9M,€21K,2021 ~ 2026,"['LB', 'LM']"
+S. Longstaff,24,Newcastle United,€10.5M,€61K,2015 ~ 2025,['CM']
+H. Abe,23,FC Barcelona,€1.1M,€20K,2019 ~ 2023,"['LW', 'RW']"
+R. Brewster,22,Sheffield United,€3.2M,€13K,2020 ~ 2025,['ST']
+L. Østigård,22,Napoli,€6.5M,€28K,2022 ~ 2026,['CB']
+Pepê,25,Porto,€23M,€16K,2021 ~ 2027,"['LM', 'RB']"
+P. Struijk,22,Leeds United,€11M,€29K,2018 ~ 2027,"['CB', 'CDM', 'LB']"
+R. Schmid,22,Werder Bremen,€4.9M,€17K,2019 ~ 2024,"['CAM', 'CM']"
+M. Cuisance,22,Venezia,€5M,€4K,2022 ~ 2025,"['CM', 'CAM']"
+M. Aarons,22,Norwich City,€6M,€29K,2017 ~ 2024,['RB']
+C. Kelleher,23,Liverpool,€5M,€40K,2017 ~ 2026,['GK']
+J. Wind,23,VfL Wolfsburg,€11.5M,€38K,2022 ~ 2026,"['ST', 'CF']"
+V. Gyökeres,24,Coventry City,€4.7M,€18K,2021 ~ 2024,['ST']
+F. Gattoni,23,San Lorenzo,€2.3M,€7K,2017 ~ 2023,['CB']
+K. Mavropanos,24,VfB Stuttgart,€19M,€22K,2022 ~ 2025,"['CB', 'RB']"
+R. Faivre,23,Olympique Lyonnais,€16.5M,€49K,2022 ~ 2026,"['RM', 'CM', 'CAM']"
+A. Saelemaekers,23,Milan,€20M,€57K,2020 ~ 2026,"['RW', 'RM']"
+L. Romo,27,,€0,€0,Free,"['CM', 'CDM']"
+B. Williams,21,Manchester United,€4.4M,€46K,2018 ~ 2024,['LB']
+J. Anthony,22,AFC Bournemouth,€4.8M,€30K,2018 ~ 2023,"['LW', 'LM']"
+L. Majer,24,Rennes,€31.5M,€47K,2021 ~ 2027,['CM']
+Luís Maximiano,23,Lazio,€18M,€29K,2022 ~ 2026,['GK']
+V. Mykolenko,23,Everton,€10.5M,€29K,2022 ~ 2026,"['LB', 'LWB']"
+22 Tomás Tavares,20,Basel,€6.5M,€7K,"Jun 30, 2022 On Loan","['RB', 'LB']"
+Reguilón,25,Atlético Madrid,€25.5M,€82K,"Jun 30, 2023 On Loan","['LWB', 'LB']"
+J. Todibo,22,Nice,€24.5M,€37K,2021 ~ 2027,['CB']
+Iñaki Peña,23,FC Barcelona,€4.5M,€44K,2018 ~ 2023,['GK']
+22 M. Greenwood,19,Manchester United,€38M,€62K,2018 ~ 2025,"['RM', 'ST']"
+André Almeida,22,Valencia,€9.5M,€24K,2022 ~ 2028,['CM']
+Thierry Correia,23,Valencia,€11M,€25K,2019 ~ 2026,"['RB', 'RWB', 'RM']"
+Oh Hyun Gyu,21,Suwon Bluewings,€2.7M,€2K,2019 ~ 2023,"['ST', 'RW']"
+C. Richards,22,Crystal Palace,€9M,€34K,2022 ~ 2027,['CB']
+R. Pepi,19,FC Groningen,€3.3M,€8K,"Jun 30, 2023 On Loan",['ST']
+Samuel Lino,22,Valencia,€12.5M,€36K,"Jun 30, 2023 On Loan","['LM', 'LW']"
+Daniel Bragança,23,Sporting CP,€11M,€11K,2018 ~ 2025,['CM']
+M. Carnesecchi,22,Cremonese,€11M,€24K,"Jun 30, 2023 On Loan",['GK']
+Tiago Djaló,22,Lille,€10.5M,€23K,2019 ~ 2024,"['CB', 'LB', 'RB']"
+A. Rouault,21,Toulouse,€6.5M,€10K,2019 ~ 2024,['CB']
+N. Mbuku,20,Reims,€5M,€14K,2018 ~ 2023,"['CF', 'RM', 'CAM']"
+E. Caprile,20,Bari 1908,€3.4M,€2K,2022 ~ 2025,['GK']
+M. Diomande,20,Nordsjælland,€2.4M,€3K,2020 ~ 2024,"['CM', 'CAM']"
+L. Colombo,20,Lecce,€3.1M,€20K,"Jun 30, 2023 On Loan",['ST']
+C. Tzolis,20,FC Twente,€5M,€25K,"Jun 30, 2023 On Loan","['LW', 'RW']"
+A. Stach,23,FSV Mainz 05,€12M,€23K,2021 ~ 2024,"['CM', 'CDM']"
+D. Neil,20,Sunderland,€2.8M,€5K,2019 ~ 2025,"['CDM', 'CM']"
+J. van Hecke,22,Brighton & Hove Albion,€3.5M,€28K,2020 ~ 2023,['CB']
+I. Moriba,19,Valencia,€6.5M,€20K,"Jun 30, 2023 On Loan",['CM']
+G. Konstantelias,19,PAOK,€2.4M,€500,2019 ~ 2026,"['CAM', 'RW']"
+A. Zaroury,21,Burnley,€5.5M,€22K,2022 ~ 2026,"['LM', 'ST']"
+K. Sildillia,20,SC Freiburg,€3.9M,€11K,2021 ~ 2026,"['RB', 'CB', 'RM']"
+R. Enrique,21,Banfield,€4.6M,€9K,2021 ~ 2023,"['ST', 'LW']"
+Kang Seong Jin,19,Seoul,€1.2M,€1K,2021 ~ 2026,"['RW', 'RM']"
+N. Kasanwirjo,20,FC Groningen,€2.9M,€3K,2021 ~ 2024,"['RB', 'CB', 'CDM']"
+Vinicius Souza,23,Espanyol,€20M,€16K,2020 ~ 2025,"['CDM', 'CM']"
+Gonçalo Esteves,18,Sporting CP,€3.1M,€2K,2021 ~ 2024,['RB']
+Y. Regeer,18,Ajax,€1.7M,€1K,2021 ~ 2025,"['RB', 'CM']"
+F. Fagúndez,21,Nacional,€3.6M,€500,2020 ~ 2022,"['CAM', 'ST', 'CF']"
+Z. Iqbal,19,Manchester United,€1M,€9K,2021 ~ 2025,"['CM', 'CAM']"
+A. Ibrahimovic,16,FC Bayern München,€700K,€1K,2022 ~ 2024,"['CAM', 'LM']"
+Parejo,33,Villarreal,€42M,€64K,2020 ~ 2024,"['CM', 'CDM']"
+C. Smalling,32,Roma,€20M,€73K,2020 ~ 2023,['CB']
+C. Eriksen,30,Manchester United,€34.5M,€145K,2022 ~ 2025,"['CM', 'CDM']"
+Alex Sandro,31,Juventus,€15.5M,€95K,2015 ~ 2023,['LB']
+Iago Aspas,34,Celta de Vigo,€26M,€50K,2015 ~ 2025,['ST']
+A. Lacazette,31,Olympique Lyonnais,€25.5M,€88K,2022 ~ 2025,['ST']
+P. Jones,30,Manchester United,€1.9M,€57K,2011 ~ 2023,['CB']
+K. Kampl,31,RB Leipzig,€14.5M,€55K,2017 ~ 2023,"['CM', 'CDM']"
+L. Insigne,31,Toronto,€35M,€19K,2022 ~ 2026,"['LW', 'CF', 'LM']"
+A. Oxlade-Chamberlain,28,Liverpool,€10.5M,€90K,2017 ~ 2023,['CM']
+M. Icardi,29,Galatasaray,€14M,€80K,"Jun 30, 2023 On Loan",['ST']
+Suso,28,Sevilla,€17.5M,€36K,2020 ~ 2025,['RW']
+J. Butland,29,Manchester United,€1.6M,€27K,"Jun 30, 2023 On Loan",['GK']
+M. Elyounoussi,27,Southampton,€6M,€46K,2018 ~ 2023,"['LM', 'RM']"
+F. Vázquez,33,Parma,€4.7M,€6K,2021 ~ 2023,"['CAM', 'CM']"
+J. Martínez,29,Atlanta United,€14M,€12K,2017 ~ 2023,['ST']
+Andreas Pereira,26,Fulham,€9M,€51K,2022 ~ 2026,"['CAM', 'CM', 'RM']"
+N. Tagliafico,29,Olympique Lyonnais,€22.5M,€72K,2022 ~ 2025,['LB']
+R. Bazoer,25,AZ,€10M,€11K,2022 ~ 2025,"['CM', 'CDM', 'CB']"
+P. Onuachu,28,Genk,€14.5M,€22K,2019 ~ 2024,['ST']
+Alisson,29,Liverpool,€79M,€190K,2018 ~ 2027,['GK']
+S. Azmoun,27,Bayer 04 Leverkusen,€19M,€60K,2022 ~ 2027,"['ST', 'CAM']"
+J. Gbamin,26,Trabzonspor,€5.5M,€33K,"May 31, 2023 On Loan","['CDM', 'CM']"
+Ayoze Pérez,28,Leicester City,€7.5M,€69K,2019 ~ 2023,"['RM', 'RW']"
+Morales,34,Villarreal,€10.5M,€42K,2022 ~ 2024,"['ST', 'LM']"
+S. Benrahma,26,West Ham United,€15.5M,€66K,2021 ~ 2026,"['LM', 'CAM']"
+D. Sánchez,26,Tottenham Hotspur,€18M,€81K,2017 ~ 2024,['CB']
+L. Hernández,26,FC Bayern München,€43.5M,€82K,2019 ~ 2024,"['CB', 'LB']"
+B. Embolo,25,Monaco,€19M,€52K,2022 ~ 2026,['ST']
+H. Winks,26,Sampdoria,€9M,€71K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+R. Gosens,27,Inter,€29.5M,€59K,"Jun 30, 2023 On Loan","['LWB', 'LM']"
+M. Lopez,24,Sassuolo,€19M,€30K,2020 ~ 2025,"['CM', 'CDM']"
+M. Schwäbe,27,FC Köln,€14M,€23K,2021 ~ 2024,['GK']
+R. Henry,24,Brentford,€7M,€33K,2016 ~ 2026,"['LB', 'LWB']"
+O. Aina,25,Torino,€4.9M,€30K,2019 ~ 2023,"['LWB', 'LM', 'RM']"
+I. Provedel,28,Lazio,€11M,€38K,2022 ~ 2027,['GK']
+J. Gomez,25,Liverpool,€34M,€100K,2015 ~ 2027,"['CB', 'RB']"
+D. Ćaleta-Car,25,Southampton,€17.5M,€48K,2022 ~ 2026,['CB']
+K. Nisbet,25,Hibernian,€1.8M,€5K,2020 ~ 2024,['ST']
+E. Bailly,28,Olympique Marseille,€10M,€89K,"Jun 30, 2023 On Loan",['CB']
+O. Boscagli,24,PSV,€14.5M,€15K,2019 ~ 2025,"['CB', 'LB', 'CDM']"
+S. Bergwijn,24,Ajax,€35M,€22K,2022 ~ 2027,"['LW', 'RW']"
+J. Bacuna,24,Birmingham City,€2.4M,€16K,2022 ~ 2025,"['CM', 'CAM']"
+F. Grillitsch,26,Ajax,€15.5M,€17K,2022 ~ 2023,"['CDM', 'CB', 'CM']"
+T. Ouwejan,25,Schalke 04,€5M,€19K,2022 ~ 2024,['LB']
+Mario Hermoso,27,Atlético Madrid,€22.5M,€53K,2019 ~ 2024,"['CB', 'LB']"
+Lyanco,25,Southampton,€4.2M,€34K,2021 ~ 2025,['CB']
+R. Malinovskyi,29,Olympique Marseille,€25.5M,€68K,"Jun 30, 2023 On Loan","['CF', 'CAM']"
+J. Harrison,25,Leeds United,€12.5M,€38K,2021 ~ 2024,"['LM', 'RM']"
+D. James,24,Fulham,€7.5M,€31K,"Jun 30, 2023 On Loan","['RM', 'ST', 'LM']"
+N. Molina,24,Atlético Madrid,€26.5M,€48K,2022 ~ 2027,"['RM', 'RWB', 'RB']"
+R. Kristensen,24,Leeds United,€15M,€31K,2022 ~ 2027,['RB']
+R. Gumny,24,FC Augsburg,€3.1M,€15K,2020 ~ 2025,"['RB', 'CB', 'RM']"
+Rúben Vinagre,23,Everton,€4.5M,€9K,"Jun 30, 2023 On Loan","['LWB', 'LB']"
+Domingos Quina,22,Elche,€2.7M,€14K,"Jun 30, 2023 On Loan","['LM', 'CM', 'CAM']"
+R. Marin,26,Empoli,€7M,€6K,"Jun 30, 2023 On Loan",['CM']
+E. Barco,23,River Plate,€12M,€8K,"Dec 31, 2023 On Loan","['LM', 'ST', 'LW']"
+Y. Bissouma,25,Tottenham Hotspur,€26.5M,€82K,2022 ~ 2026,"['CDM', 'CM']"
+O. Wijndal,22,Ajax,€19M,€15K,2022 ~ 2027,['LB']
+F. Ugrinic,23,Young Boys,€8.5M,€18K,2022 ~ 2026,"['CM', 'CDM', 'CAM']"
+G. Chiellini,37,Los Angeles FC,€7.5M,€11K,2022 ~ 2023,['CB']
+W. Szczęsny,32,Juventus,€33.5M,€125K,2017 ~ 2024,['GK']
+Oscar,30,Shanghai SIPG,€25M,€28K,2017 ~ 2024,"['CAM', 'CM', 'LW']"
+M. Reus,33,Borussia Dortmund,€33.5M,€78K,2012 ~ 2023,"['CAM', 'CF', 'RM']"
+Thiago,31,Liverpool,€55.5M,€180K,2020 ~ 2024,['CM']
+Parejo,33,Villarreal,€42M,€64K,2020 ~ 2024,"['CM', 'CDM']"
+A. Moreno,23,Racing Club,€10.5M,€14K,2021 ~ 2025,"['CDM', 'CM']"
+G. Tsitaishvili,21,Lech Poznań,€4.2M,€500,"Jun 30, 2023 On Loan","['RM', 'LM']"
+M. Sadílek,23,FC Twente,€8M,€11K,2022 ~ 2024,"['CDM', 'CM', 'LB']"
+Adrià Pedrosa,24,Espanyol,€15M,€16K,2017 ~ 2023,['LB']
+E. Laird,20,Queens Park Rangers,€4.3M,€36K,"Jun 30, 2023 On Loan","['RB', 'RWB']"
+Arthur Cabral,24,Fiorentina,€17M,€47K,2022 ~ 2026,['ST']
+T. Buchanan,23,Club Brugge,€4.8M,€17K,2021 ~ 2025,"['RM', 'LM']"
+T. Čvančara,21,Sparta Praha,€6M,€800,2022 ~ 2025,['ST']
+G. Slonina,18,Chicago Fire,€1.7M,€2K,"Dec 31, 2022 On Loan",['GK']
+T. Anjorin,20,Huddersfield Town,€2.1M,€17K,"Jun 30, 2023 On Loan","['CAM', 'RW', 'CM']"
+Mateu Morey,22,Borussia Dortmund,€4.5M,€22K,2019 ~ 2024,"['RB', 'RM']"
+L. Greiml,20,Schalke 04,€2.3M,€6K,2022 ~ 2025,['CB']
+R. Carstensen,21,Genk,€4M,€7K,2022 ~ 2026,['RB']
+Iago,25,FC Augsburg,€9M,€23K,2019 ~ 2024,"['LB', 'LM']"
+L. Chevalier,20,Lille,€4M,€9K,2018 ~ 2024,['GK']
+J. Tolkin,19,New York RB,€3.2M,€2K,2020 ~ 2027,"['LB', 'LWB', 'CDM']"
+Y. Demir,19,Galatasaray,€4M,€23K,2022 ~ 2026,"['RW', 'CAM', 'RM']"
+S. Esposito,21,Spezia,€2.7M,€1K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+T. Harwood-Bellis,20,Burnley,€6M,€49K,"Jun 30, 2023 On Loan",['CB']
+I. Kaboré,21,Olympique Marseille,€5M,€43K,"Jun 30, 2023 On Loan","['RWB', 'RB']"
+S. Greenwood,20,Leeds United,€2.6M,€11K,2020 ~ 2026,"['CAM', 'CF', 'CM']"
+Reinier,20,Girona,€3.5M,€44K,"Jun 30, 2023 On Loan","['RM', 'LM', 'CAM']"
+J. Thielmann,20,FC Köln,€6.5M,€16K,2019 ~ 2024,"['RM', 'ST', 'LM']"
+S. Pavlović,21,Salzburg,€4.9M,€13K,2022 ~ 2027,['CB']
+A. Mighten,20,Nottingham Forest,€1.9M,€13K,2018 ~ 2025,"['LW', 'LM']"
+O. Dorley,23,Slavia Praha,€8.5M,€1K,2019 ~ 2025,"['LB', 'LM', 'CM']"
+S. Hezze,20,Huracán,€4.8M,€7K,2020 ~ 2024,"['CDM', 'CM']"
+L. Samardžić,20,Udinese,€3.5M,€7K,2021 ~ 2026,"['CM', 'CAM']"
+F. Torres,22,Orlando City,€7M,€7K,2022 ~ 2025,"['RM', 'LM']"
+D. Cirkin,20,Sunderland,€2M,€4K,2021 ~ 2024,"['LB', 'CB']"
+A. Dedić,19,Salzburg,€2.5M,€5K,2020 ~ 2024,"['RB', 'LB']"
+B. Soppy,20,Atalanta,€3.9M,€17K,2022 ~ 2026,"['RWB', 'RM']"
+Obrador,18,Real Madrid,€1.4M,€7K,2021 ~ 2024,['LB']
+David Costa,21,Lens,€7M,€20K,2020 ~ 2024,"['LW', 'CAM', 'CM']"
+Rodrigo Gomes,18,Sporting Braga,€3.1M,€2K,2020 ~ 2026,['LM']
+C. Clark,19,RB Leipzig,€2M,€7K,2021 ~ 2025,"['CAM', 'CM', 'LW']"
+H. Siquet,19,SC Freiburg,€3.3M,€7K,2022 ~ 2026,"['RB', 'RWB']"
+J. Braaf,19,Borussia Dortmund II,€1.4M,€750,2022 ~ 2025,"['LM', 'RM', 'ST']"
+M. Rogers,19,Blackpool,€2M,€17K,"Jun 30, 2023 On Loan","['LW', 'RW']"
+S. Shoretire,18,Manchester United,€1.5M,€9K,2021 ~ 2024,"['LW', 'CAM', 'RW']"
+A. Forson,19,Salzburg,€1.7M,€4K,2021 ~ 2025,"['RM', 'ST', 'LWB']"
+M. Ljubičić,20,LASK Linz,€3.1M,€11K,2023 ~ 2027,['ST']
+I. Bamba,20,Vitória SC,€2.7M,€3K,2020 ~ 2026,"['CB', 'CDM']"
+Vitinha,22,Sporting Braga,€17M,€14K,2020 ~ 2027,['ST']
+Antony,20,Arouca,€2.1M,€2K,2021 ~ 2024,"['LW', 'RW', 'CF']"
+S. Edozie,19,Southampton,€1.2M,€6K,2022 ~ 2027,['LM']
+F. Chiarodia,17,Werder Bremen,€975K,€500,2021 ~ 2025,['CB']
+Julen Jon,18,Real Madrid,€1M,€7K,2021 ~ 2024,"['CAM', 'CM', 'ST']"
+Ilias,18,FC Barcelona,€2.6M,€15K,2021 ~ 2023,['RW']
+C. Çanak,17,Standard Liège,€1M,€500,2021 ~ 2024,"['LM', 'RM']"
+T. Iroegbunam,19,Queens Park Rangers,€1.8M,€8K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+F. Baschirotto,25,Lecce,€1.6M,€7K,2022 ~ 2025,"['RB', 'CB']"
+L. Yoro,16,Lille,€1M,€500,2022 ~ 2025,['CB']
+D. Coppola,18,Hellas Verona,€3M,€3K,2021 ~ 2027,['CB']
+L. Shaw,26,Manchester United,€27.5M,€115K,2014 ~ 2024,['LB']
+K. Ayhan,27,Sassuolo,€2.4M,€20K,2020 ~ 2024,['CB']
+Fabinho,28,Liverpool,€59.5M,€170K,2018 ~ 2026,['CDM']
+André Ramalho,30,PSV,€4.6M,€15K,2021 ~ 2024,['CB']
+Ederson,28,Manchester City,€88M,€210K,2017 ~ 2026,['GK']
+21 J. Córdoba,27,Hertha BSC,€11.5M,€47K,2020 ~ 2024,['ST']
+S. Al Dawsari,30,Al Hilal,€13.5M,€45K,2011 ~ 2025,"['LW', 'RW']"
+K. Mbabu,27,Fulham,€7M,€47K,2022 ~ 2025,['RB']
+Emerson,27,West Ham United,€10M,€56K,2022 ~ 2026,['LB']
+M. Sanson,27,Aston Villa,€8M,€66K,2021 ~ 2025,['CM']
+S. Boufal,28,Angers SCO,€7.5M,€26K,2020 ~ 2024,"['CF', 'LM', 'ST']"
+P. Gollini,27,Fiorentina,€10.5M,€33K,"Jun 30, 2023 On Loan",['GK']
+K. Demirbay,28,Bayer 04 Leverkusen,€25.5M,€65K,2019 ~ 2024,"['CM', 'CDM', 'CAM']"
+R. Živković,25,FC Emmen,€1M,€3K,2022 ~ 2023,['ST']
+G. Rulli,30,Ajax,€20.5M,€18K,2023 ~ 2026,['GK']
+S. Lobotka,27,Napoli,€27.5M,€64K,2020 ~ 2025,"['CM', 'CDM']"
+H. Traoré,30,Rennes,€18M,€50K,2017 ~ 2023,['RB']
+Y. Mina,27,Everton,€11M,€37K,2018 ~ 2023,['CB']
+J. Bednarek,26,Aston Villa,€7.5M,€44K,"Jun 30, 2023 On Loan",['CB']
+N. Elvedi,25,Borussia Mönchengladbach,€16.5M,€27K,2015 ~ 2024,['CB']
+R. Karsdorp,27,Roma,€22M,€63K,2017 ~ 2025,"['RWB', 'RM', 'RB']"
+O. Burke,25,Werder Bremen,€1.8M,€10K,2022 ~ 2023,"['ST', 'RM', 'RW']"
+G. Rodríguez,27,Real Betis,€31M,€32K,2020 ~ 2024,['CDM']
+A. Maitland-Niles,24,Southampton,€3.6M,€42K,"Jun 30, 2023 On Loan","['RWB', 'CM', 'RB']"
+Léo Jardim,27,Lille,€3.2M,€18K,2019 ~ 2024,['GK']
+T. Kehrer,25,West Ham United,€9M,€50K,2022 ~ 2026,"['CB', 'RB']"
+F. Dimarco,24,Inter,€24.5M,€51K,2018 ~ 2026,"['LWB', 'LM', 'CB']"
+A. Disasi,24,Monaco,€19M,€39K,2020 ~ 2025,['CB']
+C. Montes,25,Espanyol,€18.5M,€19K,2023 ~ 2028,['CB']
+Arthur,25,Liverpool,€26.5M,€100K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+Pepelu,23,Levante,€9M,€11K,2014 ~ 2032,"['CM', 'CDM']"
+R. Perraud,24,Southampton,€7.5M,€36K,2021 ~ 2025,['LB']
+J. Dasilva,23,Brentford,€4.6M,€31K,2018 ~ 2024,"['CM', 'CAM']"
+U. Sadiq,25,Real Sociedad,€15.5M,€33K,2022 ~ 2025,['ST']
+Toni Lato,24,Valencia,€4.3M,€20K,2015 ~ 2023,"['LB', 'LWB', 'LM']"
+Caio Henrique,24,Monaco,€18.5M,€39K,2020 ~ 2027,"['LB', 'LWB']"
+D. Vásquez,24,Milan,€4.5M,€23K,2023 ~ 2026,['GK']
+D. Henderson,25,Nottingham Forest,€18M,€76K,"Jun 30, 2023 On Loan",['GK']
+T. Chong,22,Birmingham City,€2.6M,€16K,2022 ~ 2026,"['LM', 'CAM', 'RW']"
+H. Barnes,24,Leicester City,€29M,€77K,2016 ~ 2025,['LM']
+L. Robertone,25,Almería,€10.5M,€24K,2020 ~ 2028,"['CAM', 'CM', 'CDM']"
+Y. En-Nesyri,25,Sevilla,€29.5M,€35K,2020 ~ 2025,['ST']
+A. Ahmedhodžić,23,Sheffield United,€4.9M,€16K,2022 ~ 2026,['CB']
+L. O'Brien,23,Nottingham Forest,€6M,€38K,2022 ~ 2026,"['CM', 'CDM', 'LM']"
+Cucho Hernández,23,Columbus Crew,€8.5M,€9K,2022 ~ 2025,"['ST', 'RM', 'LM']"
+K. Diatta,23,Monaco,€9M,€36K,2021 ~ 2025,"['RM', 'RW']"
+A. Haidara,24,RB Leipzig,€20M,€43K,2019 ~ 2025,"['CM', 'CDM', 'RM']"
+J. Larsen,22,Celta de Vigo,€7M,€18K,2022 ~ 2028,['ST']
+Jeong Woo Yeong,22,SC Freiburg,€3.6M,€17K,2019 ~ 2025,"['CAM', 'CF']"
+M. Gómez,25,Trabzonspor,€18M,€40K,2022 ~ 2025,['ST']
+G. Vicario,25,Empoli,€19M,€11K,2022 ~ 2024,['GK']
+M. Gabbia,22,Milan,€4.9M,€29K,2017 ~ 2026,['CB']
+C. Cásseres Jr,22,New York RB,€6.5M,€6K,2018 ~ 2023,"['CDM', 'CM', 'RM']"
+L. Ramazani,21,Almería,€7M,€15K,2020 ~ 2025,"['RM', 'LM', 'ST']"
+Y. Adli,21,Milan,€11.5M,€37K,2021 ~ 2026,"['CM', 'CAM']"
+Lee Kang In,21,Mallorca,€15M,€19K,2021 ~ 2025,"['LM', 'ST', 'CAM']"
+M. Longstaff,22,Newcastle United,€1M,€16K,2018 ~ 2023,['CM']
+W. Burger,21,Basel,€3.4M,€7K,2021 ~ 2025,"['CDM', 'CB', 'CM']"
+Fernando,23,Salzburg,€7M,€21K,2022 ~ 2027,"['ST', 'CAM']"
+A. Moreno,23,Racing Club,€10.5M,€14K,2021 ~ 2025,"['CDM', 'CM']"
+16 A. Arshavin,34,Kuban' Krasnodar,€2.1M,€25K,2015 ~ 2016,"['LW', 'RW']"
+David Silva,36,Real Sociedad,€12M,€37K,2020 ~ 2023,"['CAM', 'CM']"
+A. Begović,35,Everton,€625K,€17K,2021 ~ 2023,['GK']
+G. Bale,32,Los Angeles FC,€20.5M,€14K,2022 ~ 2023,"['RW', 'RM']"
+Adán,35,Sporting CP,€2.9M,€9K,2020 ~ 2024,['GK']
+O. Giroud,35,Milan,€13M,€66K,2021 ~ 2023,['ST']
+Diego Costa,33,Wolverhampton Wanderers,€4.8M,€72K,2022 ~ 2023,['ST']
+E. Džeko,36,Inter,€14.5M,€80K,2021 ~ 2023,['ST']
+T. Alderweireld,33,Antwerp,€14.5M,€30K,2022 ~ 2025,['CB']
+Azpilicueta,32,Chelsea,€20M,€115K,2012 ~ 2024,"['CB', 'RWB', 'RB']"
+K. Walker,32,Manchester City,€37.5M,€170K,2017 ~ 2024,['RB']
+Sergio Busquets,33,FC Barcelona,€26.5M,€190K,2008 ~ 2023,['CDM']
+M. Götze,30,Eintracht Frankfurt,€29.5M,€41K,2022 ~ 2025,"['CAM', 'CM', 'LM']"
+M. ter Stegen,30,FC Barcelona,€68.5M,€210K,2014 ~ 2025,['GK']
+S. Aurier,29,Nottingham Forest,€12.5M,€59K,2022 ~ 2023,"['RB', 'RWB']"
+22 J. Rodríguez,29,Everton,€25.5M,€105K,2020 ~ 2022,"['RW', 'CAM', 'CM']"
+L. Muriel,31,Atalanta,€25.5M,€70K,2019 ~ 2023,['ST']
+R. Barkley,28,Nice,€4.2M,€35K,2022 ~ 2023,"['CAM', 'CM']"
+W. Ben Yedder,31,Monaco,€35.5M,€88K,2019 ~ 2024,['ST']
+M. Verratti,29,Paris Saint Germain,€77.5M,€155K,2012 ~ 2024,"['CM', 'CAM']"
+T. Horn,29,FC Köln,€4.7M,€20K,2011 ~ 2023,['GK']
+A. Mandi,30,Villarreal,€6M,€27K,2021 ~ 2025,"['CB', 'RB']"
+Morata,29,Atlético Madrid,€30.5M,€77K,2020 ~ 2024,['ST']
+C. Biraghi,29,Fiorentina,€18.5M,€58K,2018 ~ 2024,['LB']
+Felipe Anderson,29,Lazio,€17M,€60K,2021 ~ 2024,"['RW', 'ST']"
+J. Draxler,28,Benfica,€17.5M,€88K,"Jun 30, 2023 On Loan","['LW', 'CAM']"
+E. Dier,28,Tottenham Hotspur,€20M,€90K,2014 ~ 2024,['CB']
+J. Lascelles,28,Newcastle United,€4.8M,€64K,2014 ~ 2024,['CB']
+L. Karius,29,Newcastle United,€1.6M,€40K,2022 ~ 2023,['GK']
+J. Blaswich,31,RB Leipzig,€2.2M,€29K,2022 ~ 2025,['GK']
+Carvajal,30,Real Madrid,€36.5M,€185K,2013 ~ 2025,['RB']
+A. Milik,28,Juventus,€21.5M,€53K,"Jun 30, 2023 On Loan",['ST']
+S. Umtiti,28,Lecce,€15M,€125K,"Jun 30, 2023 On Loan",['CB']
+L. Shaw,26,Manchester United,€27.5M,€115K,2014 ~ 2024,['LB']
+L. Stassin,17,Anderlecht,€1.2M,€1K,2021 ~ 2024,['ST']
+N. Atubolu,20,SC Freiburg,€1.8M,€4K,2021 ~ 2026,['GK']
+J. Sarmiento,20,Brighton & Hove Albion,€2.1M,€12K,2021 ~ 2026,"['RM', 'LM']"
+Andrew,21,Gil Vicente,€4.6M,€4K,2021 ~ 2024,['GK']
+O. Vargas,16,Seattle Sounders,€1.5M,€500,2021 ~ 2025,"['CM', 'CDM', 'RM']"
+M. Satriano,21,Empoli,€5.5M,€31K,"Jun 30, 2023 On Loan",['ST']
+M. Abline,19,Auxerre,€3.3M,€13K,"Jun 30, 2023 On Loan",['ST']
+Noel,19,Real Madrid,€1.5M,€16K,2022 ~ 2026,['ST']
+K. Asllani,20,Inter,€7M,€7K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+S. Vignato,18,Monza,€1.8M,€5K,2021 ~ 2025,"['CF', 'ST']"
+C. Riquelme,18,Everton,€600K,€500,2021 ~ 2024,"['LB', 'LM']"
+K. De Winter,20,Empoli,€1.3M,€2K,2021 ~ 2024,"['CB', 'RB']"
+Jutglà,23,Club Brugge,€9M,€22K,2022 ~ 2026,"['ST', 'LW']"
+T. Iroegbunam,19,Queens Park Rangers,€1.8M,€8K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+D. Kasius,19,Bologna,€900K,€3K,2022 ~ 2025,"['RWB', 'RM']"
+J. Fernández,18,Vélez Sarsfield,€2.8M,€3K,2022 ~ 2025,"['RW', 'LW']"
+A. Zanoli,21,Sampdoria,€3M,€14K,"Jun 30, 2023 On Loan",['RB']
+Rodrigo Ribeiro,17,Sporting CP,€2.1M,€850,2022 ~ 2025,['ST']
+Y. Attiat-Allah,27,,€0,€0,Free,['LB']
+Álvaro Fernández,19,Preston North End,€2.1M,€12K,"Jun 30, 2023 On Loan","['LWB', 'LB']"
+W. Amey,16,Bologna,€850K,€500,2021 ~ 2024,['CB']
+M. El Arouch,18,Olympique Lyonnais,€2.2M,€5K,2022 ~ 2025,['CAM']
+M. Biereth,19,RKC Waalwijk,€1M,€1K,2021 ~ 2023,['ST']
+K. Peersman,18,PSV,€700K,€500,2020 ~ 2026,['GK']
+L. Harris,17,Fulham,€1M,€1K,2022 ~ 2025,['CAM']
+Igor Paixão,22,Feyenoord,€5.5M,€8K,2022 ~ 2027,"['LW', 'RW']"
+E. Shomurodov,27,Roma,€6.5M,€54K,2021 ~ 2026,"['ST', 'CF']"
+A. Skov Olsen,22,Club Brugge,€15M,€21K,2022 ~ 2026,"['RM', 'CAM', 'RW']"
+L. Reis,22,Hamburger SV,€4.9M,€11K,2021 ~ 2026,"['CM', 'CDM']"
+N. De la Cruz,25,River Plate,€16.5M,€19K,2017 ~ 2025,"['CM', 'LM', 'CAM']"
+C. Coventry,22,West Ham United,€1.9M,€14K,2017 ~ 2023,"['CM', 'CDM']"
+D. Ljubičić,24,FC Köln,€10M,€23K,2021 ~ 2025,"['RM', 'CDM', 'CM']"
+T. Mitchell,22,Crystal Palace,€11.5M,€38K,2017 ~ 2025,['LB']
+N. Vlašić,24,Torino,€19.5M,€63K,"Jun 30, 2023 On Loan","['CF', 'LM', 'CAM']"
+P. Daka,23,Leicester City,€15.5M,€68K,2021 ~ 2026,['ST']
+M. Taremi,29,Porto,€30.5M,€24K,2020 ~ 2024,"['ST', 'CF']"
+J. Sargent,22,Norwich City,€2.4M,€20K,2021 ~ 2025,"['RM', 'ST', 'LM']"
+Ferro,25,Vitesse,€2.9M,€9K,"Jun 30, 2023 On Loan",['CB']
+Stephen Eustáquio,25,Porto,€14M,€13K,2022 ~ 2027,"['CDM', 'CM']"
+S. Bornauw,23,VfL Wolfsburg,€7.5M,€30K,2021 ~ 2026,['CB']
+J. Clarke,21,Sunderland,€3.9M,€8K,2022 ~ 2026,"['LM', 'LWB']"
+B. Mumba,20,Plymouth Argyle,€2.5M,€11K,"Jun 30, 2023 On Loan","['LWB', 'RWB']"
+T. Mohr,26,Schalke 04,€3.3M,€20K,2022 ~ 2025,"['LM', 'LB']"
+A. Rrahmani,28,Napoli,€18M,€57K,2020 ~ 2024,['CB']
+J. Vásquez,23,Cremonese,€4.9M,€3K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+Vitinho,22,Burnley,€3.6M,€21K,2022 ~ 2026,"['RB', 'RWB', 'LB']"
+N. Aguerd,26,West Ham United,€24.5M,€70K,2022 ~ 2027,['CB']
+Y. Benrahou,23,Nîmes,€7M,€6K,2020 ~ 2023,"['RM', 'CM', 'ST']"
+S. Diop,22,Nice,€22.5M,€38K,2022 ~ 2027,"['LM', 'RM', 'CF']"
+D. Popov,23,Dynamo Kyiv,€6.5M,€650,2017 ~ 2025,['CB']
+E. Destanoğlu,21,Beşiktaş,€7M,€21K,2018 ~ 2023,['GK']
+S. Koita,22,Salzburg,€5.5M,€19K,2019 ~ 2024,['ST']
+M. Ihattaren,20,Ajax,€3.5M,€42K,"Dec 31, 2022 On Loan","['CAM', 'RW']"
+A. Bernabei,21,Celtic,€3.4M,€18K,2022 ~ 2027,['LB']
+Fran Navarro,24,Gil Vicente,€8.5M,€12K,2021 ~ 2024,['ST']
+Tuta,22,Eintracht Frankfurt,€14.5M,€23K,2019 ~ 2026,['CB']
+Marcos Antonio,22,Lazio,€7M,€30K,2022 ~ 2027,"['CM', 'CDM']"
+R. Williams,21,Blackpool,€1.7M,€13K,"Jun 30, 2023 On Loan",['CB']
+J. Ngakia,21,Watford,€3.4M,€15K,2020 ~ 2024,"['RB', 'RWB']"
+D. Simeu,20,Morecambe,€1.1M,€7K,"Jun 30, 2023 On Loan",['CB']
+T. Anjorin,20,Huddersfield Town,€2.1M,€17K,"Jun 30, 2023 On Loan","['CAM', 'RW', 'CM']"
+V. Bondar,23,Shakhtar Donetsk,€3.3M,€500,2017 ~ 2024,['CB']
+I. Jakobs,22,Monaco,€5M,€25K,2021 ~ 2026,"['LB', 'LM']"
+C. McCann,20,Rangers,€625K,€5K,2021 ~ 2024,"['CDM', 'CAM', 'CM']"
+M. Trésor,23,Genk,€11.5M,€14K,2021 ~ 2025,"['LM', 'CAM']"
+B. Ocampo,23,Cádiz,€5M,€18K,2022 ~ 2026,"['LM', 'RM']"
+C. Cresswell,19,Millwall,€2.7M,€7K,"Jun 30, 2023 On Loan",['CB']
+N. Nkounkou,21,Cardiff City,€2.2M,€8K,"Jun 30, 2023 On Loan","['LB', 'LWB']"
+M. Núñez,22,Norwich City,€5M,€26K,2022 ~ 2026,"['CM', 'CDM']"
+A. Sarr,21,SC Heerenveen,€2.7M,€3K,2022 ~ 2025,['ST']
+A. Molinas,21,Boca Juniors,€7M,€10K,2018 ~ 2025,"['CAM', 'CM']"
+P. Solari,21,River Plate,€9.5M,€11K,2022 ~ 2026,"['RM', 'ST', 'RW']"
+Hugo Novoa,19,Basel,€2.9M,€11K,"Jun 30, 2024 On Loan","['ST', 'CF', 'RM']"
+R. Edwards,19,Peterborough United,€2.7M,€3K,2020 ~ 2025,['CB']
+H. Mejbri,19,Birmingham City,€1.6M,€11K,"Jun 30, 2023 On Loan","['CAM', 'CM']"
+F. Jörgensen,20,Villarreal,€2.1M,€5K,2020 ~ 2025,['GK']
+T. Corbeanu,20,Wolverhampton Wanderers,€2.1M,€16K,2018 ~ 2023,"['RW', 'LW']"
+E. Rodríguez,21,Inter Miami,€1.2M,€2K,2022 ~ 2025,"['LM', 'RM']"
+Mingueza,23,Celta de Vigo,€6.5M,€14K,2022 ~ 2026,"['CB', 'RB']"
+O. Hutchinson,18,Chelsea,€1.5M,€7K,2022 ~ 2025,"['CAM', 'RM']"
+S. Adingra,20,Union Saint-Gilloise,€4.1M,€26K,"Jun 30, 2023 On Loan","['LM', 'ST', 'LW']"
+K. Mier,22,Atlético Nacional,€6M,€3K,2019 ~ 2025,['GK']
+L. Mbete,18,Huddersfield Town,€1.1M,€5K,"Jun 30, 2023 On Loan",['CB']
+M. Sankoh,18,Vitesse,€1M,€2K,"Jun 30, 2023 On Loan",['ST']
+W. Mikelbrencis,18,Hamburger SV,€1.6M,€1K,2022 ~ 2026,"['RB', 'RWB']"
+H. Haraldsson,19,København,€2.9M,€6K,2021 ~ 2026,"['RW', 'CAM']"
+C. Brunner,28,Schalke 04,€3.8M,€21K,2022 ~ 2024,"['RB', 'CB']"
+A. Kramarić,31,TSG Hoffenheim,€22M,€50K,2015 ~ 2025,"['CF', 'CAM']"
+A. Sørloth,26,Real Sociedad,€9M,€48K,"Jun 30, 2023 On Loan",['ST']
+Álex Moreno,29,Real Betis,€18.5M,€29K,2019 ~ 2025,['LB']
+M. Dahoud,26,Borussia Dortmund,€24.5M,€52K,2017 ~ 2023,"['CM', 'CDM']"
+Diego Carlos,29,Aston Villa,€30.5M,€105K,2022 ~ 2026,['CB']
+H. Kamara,28,Watford,€5M,€16K,"Jun 30, 2023 On Loan","['LB', 'LM']"
+M. Zaccagni,27,Lazio,€18.5M,€57K,2021 ~ 2025,['LW']
+R. Tapia,26,Celta de Vigo,€19.5M,€26K,2020 ~ 2024,"['CDM', 'CM']"
+H. Wilson,25,Fulham,€10M,€49K,2021 ~ 2026,"['RM', 'RW', 'CAM']"
+R. Thomas,27,,€0,€0,Free,"['CM', 'CAM', 'CDM']"
+V. Lindelöf,27,Manchester United,€17.5M,€100K,2017 ~ 2024,['CB']
+U. Çiftçi,30,Sivasspor,€1M,€7K,2018 ~ 2023,['LB']
+Sergi Canós,25,Brentford,€2.9M,€33K,2017 ~ 2023,"['LW', 'RWB', 'LWB']"
+L. Cook,25,AFC Bournemouth,€6M,€37K,2016 ~ 2025,"['CM', 'CDM']"
+Z. Çelik,25,Roma,€9M,€45K,2022 ~ 2026,"['RWB', 'RM', 'RB']"
+M. Holgate,25,Everton,€6.5M,€31K,2015 ~ 2025,"['CB', 'RB']"
+N. Kreuzer,29,Hallescher FC,€900K,€2K,2021 ~ 2023,"['RWB', 'RM']"
+Fabián Ruiz,26,Paris Saint Germain,€44.5M,€105K,2022 ~ 2027,"['CM', 'CDM']"
+Hwang Hee Chan,26,Wolverhampton Wanderers,€12.5M,€77K,2022 ~ 2026,"['LW', 'ST']"
+J. St. Juste,25,Sporting CP,€9.5M,€12K,2022 ~ 2026,"['CB', 'RB']"
+A. Zambo Anguissa,26,Napoli,€28.5M,€58K,2022 ~ 2027,"['CDM', 'CM']"
+M. Mittelstädt,25,Hertha BSC,€3.7M,€21K,2015 ~ 2023,"['LB', 'LM']"
+Yeray,27,Athletic Club,€22.5M,€31K,2014 ~ 2026,['CB']
+R. Holding,26,Arsenal,€11M,€65K,2016 ~ 2024,['CB']
+K. Dolberg,24,TSG Hoffenheim,€15.5M,€39K,"Jun 30, 2023 On Loan",['ST']
+V. Pavlidis,23,AZ,€12M,€11K,2021 ~ 2025,['ST']
+A. Robinson,24,Fulham,€6.5M,€38K,2020 ~ 2024,"['LB', 'LWB']"
+G. Mancini,26,Roma,€28M,€68K,2020 ~ 2027,['CB']
+D. Sow,25,Eintracht Frankfurt,€26.5M,€34K,2019 ~ 2024,"['CM', 'CDM']"
+Córdoba,25,Fortuna Sittard,€2.4M,€10K,2022 ~ 2024,"['LM', 'RM', 'CAM']"
+H. Souttar,23,Stoke City,€3M,€16K,2016 ~ 2025,['CB']
+Rosival Jailson,22,Corinthians,€27M,€31K,2022 ~ 2025,"['CDM', 'CM', 'CAM']"
+J. Makengo,24,Udinese,€4.8M,€12K,2020 ~ 2025,"['CM', 'CDM']"
+M. Svilar,22,Roma,€3.1M,€17K,2022 ~ 2027,['GK']
+C. Ogbene,25,Rotherham United,€2.1M,€9K,2019 ~ 2023,"['CF', 'RWB']"
+F. Aursnes,26,Benfica,€16.5M,€16K,2022 ~ 2027,"['CM', 'CDM']"
+M. Arambarri,26,Getafe,€25M,€32K,2018 ~ 2023,"['CDM', 'CM']"
+Zubeldia,25,Real Sociedad,€17.5M,€29K,2015 ~ 2024,['CB']
+O. Edouard,24,Crystal Palace,€11M,€46K,2021 ~ 2025,"['ST', 'LW']"
+O. Mangala,24,Nottingham Forest,€8.5M,€45K,2022 ~ 2024,"['CM', 'CDM']"
+J. Eggestein,24,St. Pauli,€2.5M,€10K,2022 ~ 2025,"['ST', 'RW']"
+M. Sørensen,23,Brentford,€2M,€16K,2017 ~ 2023,"['CB', 'LB']"
+J. Ikoné,24,Fiorentina,€15M,€47K,2022 ~ 2026,"['RW', 'RM']"
+M. Lazzari,28,Lazio,€16M,€51K,2019 ~ 2027,['RB']
+S. Szymański,23,Feyenoord,€16.5M,€10K,2019 ~ 2026,"['CAM', 'LW']"
+Fran Beltrán,23,Celta de Vigo,€24.5M,€22K,2018 ~ 2026,"['CDM', 'CM']"
+M. Gibbs-White,22,Nottingham Forest,€12.5M,€45K,2022 ~ 2027,"['CAM', 'ST', 'RM']"
+Melendo,24,Granada,€10M,€11K,2022 ~ 2023,"['CAM', 'RM', 'CM']"
+S. Lukić,25,Torino,€14M,€40K,2016 ~ 2023,['CM']
+O. Christensen,23,Hertha BSC,€5M,€16K,2021 ~ 2026,['GK']
+R. Cannon,24,Boavista,€3.4M,€9K,2020 ~ 2025,"['CB', 'RWB', 'RB']"
+P. Cutrone,24,Como,€3.6M,€3K,2022 ~ 2025,['ST']
+C. O'Hare,24,Coventry City,€6M,€17K,2020 ~ 2024,"['CAM', 'RW', 'ST']"
+M. Richter,24,Hertha BSC,€7.5M,€24K,2021 ~ 2025,"['RM', 'CAM', 'LM']"
+A. Sigurðsson,23,Norrköping,€2.5M,€4K,2018 ~ 2023,"['CAM', 'LW', 'ST']"
+R. Vargas,23,FC Augsburg,€9M,€22K,2019 ~ 2025,"['LM', 'RM']"
+Óscar,24,Celta de Vigo,€11.5M,€22K,"Jun 30, 2023 On Loan","['CM', 'RM', 'LM']"
+S. Kalajdžić,24,Wolverhampton Wanderers,€19.5M,€72K,2022 ~ 2027,['ST']
+E. Shomurodov,27,Roma,€6.5M,€54K,2021 ~ 2026,"['ST', 'CF']"
+21 W. Rooney,34,Derby County,€3.5M,€29K,2020 ~ 2021,"['CM', 'CDM', 'CAM']"
+Pepe,39,Porto,€4.6M,€12K,2019 ~ 2023,['CB']
+G. Ochoa,36,Salernitana,€2.3M,€17K,2023 ~ 2023,['GK']
+E. Lamela,30,Sevilla,€17M,€34K,2021 ~ 2024,"['RW', 'CAM', 'ST']"
+J. Hernández,34,LA Galaxy,€8.5M,€13K,2020 ~ 2023,['ST']
+G. Wijnaldum,31,Roma,€17.5M,€83K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+A. Modeste,34,Borussia Dortmund,€5M,€45K,2022 ~ 2023,['ST']
+D. Godín,36,Vélez Sarsfield,€1.3M,€10K,2022 ~ 2023,['CB']
+Fernando,34,Sevilla,€12.5M,€39K,2019 ~ 2024,"['CDM', 'CB']"
+A. Ramsey,31,Nice,€6M,€38K,2022 ~ 2023,"['CM', 'CAM']"
+İ. Gündoğan,31,Manchester City,€44M,€185K,2016 ~ 2023,"['CM', 'CDM']"
+S. Rondón,32,Everton,€2.5M,€33K,2021 ~ 2023,['ST']
+F. Coquelin,31,Villarreal,€17.5M,€39K,2020 ~ 2024,"['CM', 'LM', 'CDM']"
+D. Blind,32,FC Bayern München,€12M,€56K,2023 ~ 2023,"['LB', 'CB']"
+M. Yoshida,33,Schalke 04,€1.1M,€16K,2022 ~ 2023,['CB']
+C. Immobile,32,Lazio,€55M,€100K,2016 ~ 2025,['ST']
+De Gea,31,Manchester United,€42M,€150K,2011 ~ 2023,['GK']
+Neto,32,AFC Bournemouth,€13M,€47K,2022 ~ 2023,['GK']
+Juanmi,29,Real Betis,€17M,€30K,2019 ~ 2024,"['LM', 'ST']"
+R. Funes Mori,31,,€0,€0,Free,['ST']
+Danilo,30,Juventus,€22M,€100K,2019 ~ 2024,"['RB', 'CB']"
+M. Gregoritsch,28,SC Freiburg,€11M,€32K,2022 ~ 2022,['ST']
+L. Digne,28,Aston Villa,€27.5M,€100K,2022 ~ 2026,['LB']
+K. Bellarabi,32,Bayer 04 Leverkusen,€11M,€50K,2011 ~ 2023,"['RM', 'RW']"
+T. Hazard,29,Borussia Dortmund,€14M,€46K,2019 ~ 2024,"['LM', 'CF']"
+Denis Suárez,28,Celta de Vigo,€17.5M,€30K,2019 ~ 2023,['CM']
+M. Arnold,28,VfL Wolfsburg,€25M,€55K,2011 ~ 2026,"['CDM', 'CM']"
+M. Weiser,28,Werder Bremen,€7M,€23K,2022 ~ 2023,"['RWB', 'RM']"
+S. March,27,Brighton & Hove Albion,€8M,€56K,2013 ~ 2024,"['RM', 'RWB']"
+William Carvalho,30,Real Betis,€21.5M,€30K,2018 ~ 2026,"['CDM', 'CM']"
+Paulo Otávio,27,VfL Wolfsburg,€7M,€37K,2019 ~ 2023,"['LB', 'LM']"
+A. Januzaj,27,Sevilla,€15M,€31K,2022 ~ 2026,"['RW', 'LW']"
+F. Mollet,30,Schalke 04,€5.5M,€23K,2022 ~ 2025,"['RM', 'CAM']"
+J. Hofmann,29,Borussia Mönchengladbach,€25.5M,€40K,2016 ~ 2025,"['CAM', 'RM', 'LM']"
+P. Zieliński,28,Napoli,€36.5M,€78K,2016 ~ 2024,"['CAM', 'CM']"
+Carles Gil,29,New England,€20.5M,€13K,2019 ~ 2024,"['CAM', 'RM']"
+D. Rugani,27,Juventus,€7.5M,€72K,2015 ~ 2024,['CB']
+O. Vlachodimos,28,Benfica,€22M,€15K,2018 ~ 2024,['GK']
+M. Meyer,26,Luzern,€2.2M,€11K,2022 ~ 2024,"['CAM', 'CM', 'LM']"
+Y. Gerhardt,28,VfL Wolfsburg,€10.5M,€45K,2016 ~ 2025,['CM']
+Y. Sor,21,Genk,€7M,€11K,2023 ~ 2027,"['ST', 'RM']"
+D. Kasius,19,Bologna,€900K,€3K,2022 ~ 2025,"['RWB', 'RM']"
+S. Castro,17,Vélez Sarsfield,€1.5M,€750,2021 ~ 2025,"['ST', 'RW']"
+N. Weiper,17,FSV Mainz 05,€775K,€900,2022 ~ 2025,['ST']
+J. Belocian,17,Rennes,€1.1M,€500,2021 ~ 2024,['CB']
+I. Price,18,Everton,€325K,€2K,2020 ~ 2023,['CM']
+I. Danlad,19,,€0,€0,Free,['GK']
+M. van Brederode,18,AZ,€2.4M,€2K,2019 ~ 2026,['LW']
+N. Sadiki,17,Anderlecht,€950K,€500,2022 ~ 2023,"['RB', 'RM', 'CB']"
+V. Temel,19,İstanbulspor,€350K,€1K,2022 ~ 2027,"['CDM', 'CM']"
+D. Gyabi,18,Leeds United,€700K,€2K,2022 ~ 2026,['CM']
+D. Pejčinović,17,VfL Wolfsburg,€1M,€2K,2022 ~ 2027,['ST']
+K. Muneer,24,,€0,€0,Free,['LW']
+Gabriel Silva,20,Santa Clara,€3.4M,€3K,2022 ~ 2023,"['RM', 'LM', 'ST']"
+Joan González,20,Lecce,€1.7M,€3K,2022 ~ 2027,['CM']
+Berna,18,Boavista,€675K,€850,2021 ~ 2024,['CM']
+Martim Tavares,18,Boavista,€1.2M,€1K,2021 ~ 2023,['ST']
+N. Paz,19,Unión Santa Fe,€675K,€1K,2022 ~ 2024,"['RB', 'LB']"
+V. Carboni,17,Inter,€775K,€1K,2022 ~ 2027,['CAM']
+C. Mawissa Elebi,17,Toulouse,€725K,€500,2022 ~ 2026,"['CB', 'LB', 'RB']"
+22 L. Fernández,22,Toluca,€12.5M,€18K,2022 ~ 2024,['CAM']
+J. Nardoni,19,Racing Club,€3M,€5K,2023 ~ 2027,"['CM', 'CDM']"
+C. Campbell,19,Wolverhampton Wanderers,€1M,€8K,2019 ~ 2026,"['LW', 'CF']"
+M. Beier,19,Hannover 96,€3.8M,€12K,"Jun 30, 2023 On Loan","['ST', 'RM']"
+L. Thomas,21,Leicester City,€6M,€38K,2017 ~ 2024,"['LB', 'LWB']"
+S. Turati,20,Frosinone,€2.5M,€6K,"Jun 30, 2023 On Loan",['GK']
+G. Mikautadze,21,Metz,€4.2M,€5K,2019 ~ 2025,"['ST', 'LM', 'CAM']"
+D. Dike,22,West Bromwich Albion,€4.2M,€21K,2022 ~ 2026,['ST']
+K. Paredes,19,VfL Wolfsburg,€2M,€7K,2022 ~ 2026,"['LM', 'LB']"
+L. Oyen,19,Genk,€3.1M,€4K,2019 ~ 2027,"['LM', 'CAM']"
+M. Fofana,17,Gent,€1.3M,€600,2020 ~ 2024,"['RM', 'LM', 'CF']"
+V. Pizarro,19,Colo-Colo,€2.7M,€2K,2020 ~ 2024,"['CDM', 'CM']"
+Y. Mosquera,21,Wolverhampton Wanderers,€1.4M,€10K,2021 ~ 2025,['CB']
+A. Truffert,20,Rennes,€15.5M,€27K,2019 ~ 2025,['LB']
+C. Bozdoğan,21,FC Utrecht,€2.7M,€7K,"Jun 30, 2023 On Loan","['CAM', 'CM']"
+A. Grønbæk,21,Bodø / Glimt,€2.7M,€2K,2022 ~ 2027,"['CM', 'LW']"
+S. Diomande,21,Olympique Lyonnais,€6M,€30K,2019 ~ 2025,['CB']
+M. Šviderský,19,Almería,€1.6M,€3K,2022 ~ 2027,"['CDM', 'CB']"
+W. Faghir,18,Nordsjælland,€1.7M,€3K,"Jun 30, 2023 On Loan",['ST']
+J. Adamu,21,Salzburg,€3.2M,€11K,2020 ~ 2025,['ST']
+O. Rekik,20,Sparta Rotterdam,€1.1M,€9K,"Jun 30, 2023 On Loan",['CB']
+Raúl Moro,19,Ternana,€2.2M,€8K,"Jun 30, 2023 On Loan",['LW']
+C. Matsima,20,Lorient,€3.2M,€13K,"Jun 30, 2023 On Loan",['CB']
+Toti Gomes,23,Wolverhampton Wanderers,€3.5M,€33K,2020 ~ 2027,['CB']
+A. Cambiaso,22,Bologna,€6.5M,€50K,"Jun 30, 2023 On Loan","['LWB', 'LM', 'RWB']"
+V. Korniienko,23,Shakhtar Donetsk,€5M,€600,2016 ~ 2025,['LB']
+E. Green,21,Saint-Étienne,€4.6M,€4K,2019 ~ 2025,['GK']
+K. Sène,21,Basel,€1.8M,€4K,2020 ~ 2023,['ST']
+F. Rieder,20,Young Boys,€3.8M,€9K,2020 ~ 2025,"['CAM', 'CM']"
+M. Ruggeri,19,Atalanta,€2.9M,€10K,2020 ~ 2026,"['LWB', 'LM']"
+J. Zemura,22,AFC Bournemouth,€3.1M,€19K,2019 ~ 2023,"['LB', 'LWB']"
+Y. Vertessen,21,PSV,€4.7M,€12K,2020 ~ 2025,"['RW', 'ST']"
+A. Duarte,22,Cerro Porteño,€4.9M,€600,2020 ~ 2026,['CB']
+M. Stroeykens,17,Anderlecht,€2.1M,€1K,2020 ~ 2024,"['CF', 'ST', 'CAM']"
+John Patrick,18,Getafe,€625K,€1K,2021 ~ 2023,"['CAM', 'ST', 'CM']"
+L. Assignon,22,Rennes,€3M,€15K,2021 ~ 2025,['RB']
+Dário Essugo,17,Sporting CP,€2.2M,€500,2021 ~ 2025,"['CDM', 'CM']"
+L. Mbete,18,Huddersfield Town,€1.1M,€5K,"Jun 30, 2023 On Loan",['CB']
+Chiquinho,22,Wolverhampton Wanderers,€3.1M,€30K,2022 ~ 2026,"['RW', 'LW']"
+Karrikaburu,19,Real Sociedad,€2.4M,€7K,2022 ~ 2026,['ST']
+Z. Amdouni,21,Basel,€3.2M,€8K,2021 ~ 2024,"['ST', 'CAM']"
+R. Onyedika,21,Club Brugge,€6.5M,€13K,2022 ~ 2027,"['CDM', 'CM']"
+A. Zorgane,22,Sporting Charleroi,€3.7M,€10K,2021 ~ 2027,"['CM', 'CDM']"
+E. Bitshiabu,17,Paris Saint Germain,€925K,€500,2021 ~ 2024,['CB']
+Copete,22,Mallorca,€4.9M,€14K,2022 ~ 2026,['CB']
+Paulo Bernardo,20,Benfica,€2.7M,€3K,2020 ~ 2027,['CM']
+T. Gardner-Hickman,20,West Bromwich Albion,€2.1M,€7K,2020 ~ 2026,"['CM', 'CDM', 'RWB']"
+T. Bischof,17,TSG Hoffenheim,€1.2M,€750,2021 ~ 2025,['CAM']
+O. Gene,19,Amiens SC,€1.1M,€700,2021 ~ 2024,['RWB']
+I. Koné,20,Watford,€2.4M,€10K,2023 ~ 2025,['CM']
+D. van der Kust,21,FC Utrecht,€3M,€5K,2021 ~ 2025,['LB']
+C. Bradley,18,Bolton Wanderers,€2.1M,€6K,"Jun 30, 2023 On Loan",['RWB']
+D. Samek,18,Lecce,€1.7M,€1K,2022 ~ 2027,"['CDM', 'CM']"
+Cristhian Mosquera,18,Valencia,€2M,€2K,2021 ~ 2025,['CB']
+M. Akliouche,20,Monaco,€2.1M,€9K,2020 ~ 2025,['CAM']
+C. Savage,19,Manchester United,€800K,€7K,2021 ~ 2025,"['CDM', 'CM']"
+Peter,19,Real Madrid,€1.7M,€18K,2020 ~ 2025,"['RW', 'LW', 'RB']"
+A. Ramsey,19,Aston Villa,€2.2M,€11K,2021 ~ 2027,"['CAM', 'CM']"
+Y. Sor,21,Genk,€7M,€11K,2023 ~ 2027,"['ST', 'RM']"
+D. Kasius,19,Bologna,€900K,€3K,2022 ~ 2025,"['RWB', 'RM']"
+H. Vetlesen,22,Bodø / Glimt,€3.2M,€3K,2020 ~ 2023,"['CAM', 'CM']"
+R. Vargas,23,FC Augsburg,€9M,€22K,2019 ~ 2025,"['LM', 'RM']"
+Wilson Manafá,27,Porto,€4.1M,€11K,2019 ~ 2023,"['RB', 'LB']"
+P. Pellegri,21,Torino,€2.5M,€13K,2022 ~ 2025,['ST']
+J. Clauss,29,Olympique Marseille,€18.5M,€45K,2022 ~ 2025,['RWB']
+K. Wagner,25,Philadelphia Union,€9.5M,€8K,2019 ~ 2022,"['LB', 'LWB']"
+M. Boadu,21,Monaco,€12.5M,€34K,2021 ~ 2026,['ST']
+Paulinho,21,Bayer 04 Leverkusen,€7M,€29K,2018 ~ 2023,"['LM', 'CAM']"
+J. Arp,22,Holstein Kiel,€2.3M,€7K,2022 ~ 2024,"['ST', 'RM', 'LM']"
+M. Nzola,25,Spezia,€5.5M,€17K,2021 ~ 2023,['ST']
+E. Vignato,21,Bologna,€5.5M,€16K,2020 ~ 2024,['CAM']
+M. Cooper,22,Plymouth Argyle,€3.1M,€5K,2018 ~ 2024,['GK']
+Junior Firpo,25,Leeds United,€7M,€31K,2021 ~ 2025,"['LB', 'LWB']"
+Álex Centelles,22,Almería,€6M,€16K,2020 ~ 2026,['LB']
+B. Johnson,22,West Ham United,€8M,€40K,2017 ~ 2024,"['RB', 'LB', 'CB']"
+M. Obafemi,21,Swansea City,€3.3M,€13K,2021 ~ 2024,['ST']
+L. Ferguson,22,Bologna,€3.6M,€15K,2022 ~ 2026,"['CM', 'CDM']"
+F. Ortega,23,Vélez Sarsfield,€8M,€11K,2017 ~ 2024,['LB']
+J. Kitolano,20,Sparta Rotterdam,€1.9M,€2K,2022 ~ 2026,['CM']
+J. Vagnoman,21,VfB Stuttgart,€4M,€10K,2022 ~ 2026,"['RB', 'RM', 'LB']"
+J. Beyer,22,Burnley,€6M,€19K,"Jun 30, 2023 On Loan","['CB', 'RB']"
+L. Balerdi,23,Olympique Marseille,€8M,€26K,2021 ~ 2026,['CB']
+Y. Sugawara,22,AZ,€6M,€8K,2020 ~ 2025,"['RB', 'RW']"
+D. Valencia,22,Salernitana,€3.6M,€14K,2022 ~ 2026,"['ST', 'RW']"
+R. Matondo,21,Rangers,€3.6M,€29K,2022 ~ 2026,"['LW', 'RW', 'ST']"
+M. Pedersen,22,Feyenoord,€6M,€8K,2021 ~ 2026,"['RB', 'LB']"
+A. Laurienté,23,Sassuolo,€8.5M,€25K,2022 ~ 2027,"['RM', 'RW', 'ST']"
+K. Lewis-Potter,21,Brentford,€5.5M,€26K,2022 ~ 2028,"['LW', 'LM', 'ST']"
+D. Undav,25,Brighton & Hove Albion,€10M,€58K,2022 ~ 2026,['ST']
+Jovane Cabral,24,Sporting CP,€9M,€12K,2015 ~ 2025,"['LW', 'RW']"
+S. van Hooijdonk,22,SC Heerenveen,€2.7M,€12K,"Jun 30, 2023 On Loan",['ST']
+A. Gallo,22,Lecce,€3M,€7K,2019 ~ 2026,['LB']
+C. Gomes,21,Palermo,€2.4M,€1K,2022 ~ 2024,"['CDM', 'CM']"
+L. Barreiro Martins,22,FSV Mainz 05,€4.9M,€19K,2018 ~ 2024,"['CM', 'CDM']"
+M. Kumbulla,22,Roma,€8M,€39K,2021 ~ 2025,['CB']
+H. Clarke,21,Stoke City,€1.5M,€11K,"Jun 30, 2023 On Loan","['CB', 'RB', 'RWB']"
+Iván Jaime,21,Famalicão,€5.5M,€6K,2020 ~ 2025,"['CAM', 'ST', 'LW']"
+M. Bidstrup,21,Nordsjælland,€3.4M,€16K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+A. Patterson,22,Sunderland,€2.6M,€5K,2018 ~ 2026,['GK']
+Y. Verschaeren,20,Anderlecht,€6.5M,€14K,2017 ~ 2024,"['CAM', 'RM', 'CM']"
+O. Sahraoui,21,Vålerenga,€2.7M,€2K,2019 ~ 2023,"['LW', 'CM']"
+K. Dembélé,19,Brest,€1.7M,€4K,2022 ~ 2026,['RW']
+L. Agoumé,20,Troyes,€3.9M,€22K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+K. Hoever,20,PSV,€2.3M,€15K,"Jun 30, 2023 On Loan",['RB']
+O. Holm,19,Vålerenga,€1M,€650,2019 ~ 2024,"['CM', 'CDM']"
+G. Gaetano,22,Napoli,€4.2M,€25K,2016 ~ 2023,"['CAM', 'CM']"
+N. Capaldo,23,Salzburg,€4.8M,€19K,2021 ~ 2026,['CM']
+L. Buchanan,21,Werder Bremen,€2.6M,€6K,2022 ~ 2022,"['LWB', 'CB']"
+G. Ávila,20,Antwerp,€3.3M,€8K,2022 ~ 2027,"['CB', 'LB']"
+Cho Gue Sung,24,Jeonbuk Motors,€3.8M,€8K,2020 ~ 2023,"['ST', 'LW']"
+J. Dina Ebimbe,21,Eintracht Frankfurt,€6.5M,€41K,"Jun 30, 2023 On Loan","['RM', 'CM', 'RWB']"
+I. Van der Brempt,20,Salzburg,€2.1M,€6K,2022 ~ 2026,"['RB', 'RW']"
+D. Churlinov,21,Burnley,€3.6M,€17K,2022 ~ 2026,"['RM', 'ST', 'RWB']"
+A. Sayyadmanesh,21,Hull City,€2.7M,€6K,2022 ~ 2026,"['ST', 'LW', 'RW']"
+K. Piątkowski,22,Salzburg,€3.9M,€13K,2021 ~ 2026,['CB']
+Daniel Bragança,23,Sporting CP,€11M,€11K,2018 ~ 2025,['CM']
+A. Musrati,26,Sporting Braga,€25M,€18K,2020 ~ 2026,"['CDM', 'CM']"
+D. Nemeth,21,St. Pauli,€2.3M,€5K,2022 ~ 2026,['CB']
+M. Kana,19,Anderlecht,€2.1M,€4K,2019 ~ 2025,"['CB', 'CDM', 'CM']"
+S. Alexandropoulos,20,Sporting CP,€4.8M,€6K,2022 ~ 2027,"['CDM', 'CM']"
+J. Andersen,26,Crystal Palace,€16.5M,€51K,2021 ~ 2026,['CB']
+M. Wolf,27,Borussia Dortmund,€11M,€42K,2018 ~ 2024,"['RM', 'RB']"
+A. Pellegrino,32,Bodø / Glimt,€2.4M,€6K,2021 ~ 2024,['LW']
+N. Amiri,25,Bayer 04 Leverkusen,€13M,€45K,2019 ~ 2024,"['CAM', 'CM']"
+A. Golovin,26,Monaco,€20.5M,€55K,2018 ~ 2024,"['LM', 'RM', 'CAM']"
+K. Grant,24,West Bromwich Albion,€4.2M,€27K,2020 ~ 2026,"['ST', 'LW', 'RW']"
+A. Diallo,26,RB Leipzig,€16.5M,€65K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+P. Kimpembe,26,Paris Saint Germain,€42M,€95K,2015 ~ 2024,['CB']
+M. Niakhaté,26,Nottingham Forest,€15.5M,€57K,2022 ~ 2025,['CB']
+M. Eggestein,25,SC Freiburg,€6M,€22K,2021 ~ 2025,"['CDM', 'CM']"
+G. Martínez,29,Al Nassr,€5.5M,€36K,2020 ~ 2024,"['RM', 'CAM', 'LM']"
+K. Dowell,24,Norwich City,€2.2M,€20K,2020 ~ 2023,"['RM', 'CAM', 'CM']"
+I. Hagi,23,Rangers,€4.8M,€38K,2020 ~ 2024,"['RW', 'CAM']"
+22 A. Zendejas,23,América,€2.5M,€20K,2022 ~ 2026,"['RM', 'CM', 'LM']"
+Álex Remiro,27,Real Sociedad,€28M,€34K,2019 ~ 2027,['GK']
+E. Konsa,24,Aston Villa,€22.5M,€65K,2019 ~ 2026,['CB']
+Pedraza,26,Villarreal,€16M,€31K,2014 ~ 2026,"['LB', 'LM']"
+K. Grabara,23,København,€5M,€13K,2021 ~ 2026,['GK']
+Aleix García,25,Girona,€10.5M,€24K,2021 ~ 2023,"['CM', 'CDM']"
+J. Rodon,24,Rennes,€6M,€49K,"Jun 30, 2023 On Loan",['CB']
+Palhinha,26,Fulham,€28.5M,€66K,2022 ~ 2027,"['CDM', 'CM']"
+J. Ryerson,24,FC Union Berlin,€5M,€20K,2018 ~ 2023,"['RWB', 'LWB']"
+Lucas Mantela,22,Palmeiras,€27M,€33K,2022 ~ 2025,['GK']
+Jason Bardeira,22,Corinthians,€17M,€31K,2022 ~ 2025,['ST']
+T. Awoniyi,24,Nottingham Forest,€14.5M,€56K,2022 ~ 2027,['ST']
+M. Šarkić,24,Wolverhampton Wanderers,€1.5M,€16K,2020 ~ 2025,['GK']
+J. Aribo,25,Southampton,€7.5M,€44K,2022 ~ 2026,"['CM', 'CAM']"
+E. Mor,24,Fenerbahçe,€4M,€39K,2022 ~ 2025,"['RM', 'LM']"
+G. Montiel,25,Sevilla,€21.5M,€28K,2021 ~ 2026,"['RB', 'RWB']"
+J. Justin,24,Leicester City,€9.5M,€52K,2019 ~ 2026,"['LB', 'RB']"
+I. Diop,25,Fulham,€14M,€48K,2022 ~ 2027,['CB']
+Ç. Söyüncü,26,Leicester City,€15.5M,€69K,2018 ~ 2023,['CB']
+S. Ascacíbar,25,Cremonese,€5.5M,€22K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+T. Fosu-Mensah,24,Bayer 04 Leverkusen,€3.1M,€25K,2021 ~ 2024,"['RB', 'CB']"
+J. Ito,29,Reims,€14M,€30K,2022 ~ 2026,"['RW', 'CF']"
+J. Sánchez,24,Ajax,€7M,€12K,2022 ~ 2026,['RB']
+C. Cuesta,23,Genk,€8M,€12K,2019 ~ 2024,['CB']
+E. Cömert,24,Valencia,€6M,€22K,2022 ~ 2026,['CB']
+J. Hove,21,Strømsgodset,€2.7M,€2K,2018 ~ 2023,"['CAM', 'CM']"
+Evander,24,Portland Timbers,€11.5M,€8K,2023 ~ 2026,"['CM', 'CAM']"
+Gedson Fernandes,23,Beşiktaş,€15M,€42K,2022 ~ 2026,['CM']
+L. Bénes,24,Hamburger SV,€4.3M,€11K,2022 ~ 2026,"['CM', 'CAM']"
+M. Lazzari,28,Lazio,€16M,€51K,2019 ~ 2027,['RB']
+D. Geiger,24,TSG Hoffenheim,€8.5M,€27K,2016 ~ 2023,"['CM', 'CDM']"
+R. Yates,24,Nottingham Forest,€4.4M,€35K,2016 ~ 2023,"['CDM', 'CM']"
+Lucas Veríssimo,26,Benfica,€16.5M,€14K,2021 ~ 2026,['CB']
+Brais Méndez,25,Real Sociedad,€21M,€35K,2022 ~ 2028,"['RM', 'CM']"
+Marc Roca,25,Leeds United,€13.5M,€35K,2022 ~ 2026,"['CDM', 'CM']"
+Aarón,25,FSV Mainz 05,€9M,€23K,2018 ~ 2023,"['LWB', 'LB']"
+A. Barkok,24,FSV Mainz 05,€3.7M,€17K,2022 ~ 2025,"['CAM', 'CF', 'CM']"
+A. Barák,27,Fiorentina,€28M,€41K,"Jun 30, 2023 On Loan","['CF', 'CM']"
+F. Medina,23,Lens,€9M,€24K,2020 ~ 2024,['CB']
+H. Wolf,23,Borussia Mönchengladbach,€3.7M,€17K,2021 ~ 2024,"['CAM', 'LM', 'LB']"
+S. Kalu,24,Watford,€3.2M,€26K,2022 ~ 2025,"['LM', 'RW']"
+S. Twine,22,Burnley,€3.8M,€25K,2022 ~ 2026,"['LW', 'LM', 'CM']"
+A. Maier,23,FC Augsburg,€9M,€22K,2022 ~ 2025,"['CM', 'CDM']"
+João Virgínia,22,SC Cambuur,€2M,€8K,"Jun 30, 2023 On Loan",['GK']
+B. Baningime,23,Hearts,€2.3M,€4K,2021 ~ 2024,"['CM', 'CDM']"
+M. Bułka,22,Nice,€5.5M,€19K,2022 ~ 2026,['GK']
+H. Vetlesen,22,Bodø / Glimt,€3.2M,€3K,2020 ~ 2023,"['CAM', 'CM']"
+S. El Shaarawy,29,Roma,€10.5M,€63K,2021 ~ 2023,"['LW', 'LM']"
+N. Araújo,30,,€0,€0,Free,['CB']
+R. Pereyra,31,Udinese,€14.5M,€22K,2020 ~ 2023,"['CM', 'RM']"
+J. Corona,29,Sevilla,€20.5M,€38K,2022 ~ 2025,"['RW', 'LW']"
+Koke,30,Atlético Madrid,€29M,€68K,2011 ~ 2024,"['CM', 'CDM']"
+J. Tavernier,30,Rangers,€12M,€51K,2015 ~ 2027,['RB']
+D. Burn,30,Newcastle United,€11.5M,€74K,2022 ~ 2024,"['CB', 'LB']"
+J. Guilavogui,31,VfL Wolfsburg,€3.9M,€35K,2016 ~ 2023,"['CDM', 'CB']"
+Marc Bartra,31,Trabzonspor,€17.5M,€44K,2022 ~ 2025,['CB']
+V. Aboubakar,30,Al Nassr,€5.5M,€38K,2021 ~ 2024,['ST']
+S. Ortega,29,Manchester City,€14.5M,€95K,2022 ~ 2025,['GK']
+S. Berghuis,30,Ajax,€29.5M,€25K,2021 ~ 2025,"['CAM', 'RW', 'CM']"
+N. Schulz,29,Borussia Dortmund,€2.7M,€30K,2019 ~ 2024,"['LB', 'LM']"
+W. Keane,29,Wigan Athletic,€1.6M,€8K,2020 ~ 2023,"['CAM', 'ST']"
+J. Stones,28,Manchester City,€34.5M,€150K,2016 ~ 2026,"['CB', 'RB']"
+Iñigo Martínez,31,Athletic Club,€21M,€35K,2018 ~ 2023,['CB']
+R. Jiménez,31,Wolverhampton Wanderers,€15M,€90K,2019 ~ 2024,['ST']
+B. Samba,28,Lens,€4.8M,€23K,2022 ~ 2027,['GK']
+22 B. Mendy,26,Manchester City,€19M,€105K,2017 ~ 2022,['LB']
+J. Boëtius,28,Hertha BSC,€5.5M,€29K,2022 ~ 2025,"['CAM', 'CM']"
+M. Livaja,28,Hajduk Split,€11M,€1K,2021 ~ 2027,"['CF', 'ST', 'LW']"
+E. Alioski,30,Fenerbahçe,€3.6M,€45K,2021 ~ 2023,"['LB', 'LM']"
+J. Murphy,27,Newcastle United,€4.5M,€62K,2017 ~ 2027,"['RM', 'LW']"
+I. Hayden,27,Norwich City,€6M,€61K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+M. Ginter,28,SC Freiburg,€34.5M,€43K,2022 ~ 2026,['CB']
+S. Kolašinac,29,Olympique Marseille,€4.9M,€32K,2022 ~ 2023,"['LB', 'CB']"
+A. Belotti,28,Roma,€21.5M,€78K,2022 ~ 2023,['ST']
+F. Schär,30,Newcastle United,€14.5M,€81K,2018 ~ 2024,['CB']
+Otávio,27,Porto,€32.5M,€21K,2014 ~ 2025,"['RM', 'LM']"
+C. Nørgaard,28,Brentford,€6.5M,€42K,2019 ~ 2025,"['CDM', 'CM']"
+J. Nilsson,28,,€0,€0,Free,['CB']
+C. Mbemba,27,Olympique Marseille,€22.5M,€43K,2022 ~ 2025,['CB']
+D. Berardi,27,Sassuolo,€45M,€57K,2012 ~ 2027,"['RM', 'RW']"
+M. Elneny,29,Arsenal,€6.5M,€63K,2016 ~ 2023,"['CDM', 'CM']"
+N. Süle,26,Borussia Dortmund,€59M,€72K,2022 ~ 2026,"['CB', 'RB']"
+L. Dendoncker,27,Aston Villa,€6.5M,€63K,2022 ~ 2025,['CM']
+M. Lemina,28,Nice,€7.5M,€40K,2021 ~ 2024,"['CM', 'CDM']"
+L. Cavallini,29,,€0,€0,Free,['ST']
+W. Troost-Ekong,28,Watford,€1.6M,€25K,2020 ~ 2025,['CB']
+Ricardo Horta,27,Sporting Braga,€27.5M,€21K,2017 ~ 2026,"['CAM', 'CF', 'ST']"
+J. Musso,28,Atalanta,€20.5M,€47K,2021 ~ 2025,['GK']
+S. Guirassy,26,VfB Stuttgart,€10M,€44K,"Jun 30, 2023 On Loan",['ST']
+B. Petković,27,Dinamo Zagreb,€6M,€1K,2018 ~ 2024,"['ST', 'CAM']"
+Kenedy,26,Real Valladolid,€9M,€23K,2022 ~ 2027,"['LM', 'RM']"
+D. Sinkgraven,26,Bayer 04 Leverkusen,€3.3M,€32K,2019 ~ 2023,"['LB', 'CM']"
+A. El Ghazi,27,PSV,€6M,€18K,2022 ~ 2025,"['LW', 'RW']"
+J. Giménez,27,Atlético Madrid,€38.5M,€68K,2013 ~ 2025,['CB']
+K. Moore,29,AFC Bournemouth,€3M,€40K,2022 ~ 2025,['ST']
+G. Maripán,28,Monaco,€14M,€48K,2019 ~ 2024,['CB']
+J. Ledesma,29,Cádiz,€17.5M,€30K,2020 ~ 2025,['GK']
+C. Tolisso,27,Olympique Lyonnais,€22.5M,€70K,2022 ~ 2027,"['CM', 'CDM']"
+O. McBurnie,26,Sheffield United,€2.1M,€17K,2019 ~ 2023,['ST']
+L. Waldschmidt,26,VfL Wolfsburg,€5.5M,€38K,2021 ~ 2025,"['CF', 'ST']"
+H. Wilson,25,Fulham,€10M,€49K,2021 ~ 2026,"['RM', 'RW', 'CAM']"
+Mariano,28,Real Madrid,€4.3M,€110K,2018 ~ 2023,['ST']
+O. Watkins,26,Aston Villa,€12.5M,€77K,2020 ~ 2025,"['ST', 'LW']"
+O. Tufan,27,Hull City,€3.5M,€15K,2022 ~ 2025,"['CM', 'CAM', 'CDM']"
+S. Becker,27,FC Union Berlin,€15M,€36K,2019 ~ 2025,"['ST', 'RM']"
+A. Marušić,29,Lazio,€15.5M,€51K,2017 ~ 2025,"['LB', 'RB']"
+J. Andersen,26,Crystal Palace,€16.5M,€51K,2021 ~ 2026,['CB']
+17 S. Gerrard,36,LA Galaxy,€1.4M,€10K,2015 ~ 2023,"['CM', 'CDM']"
+Rubén Castro,41,Málaga,€0,€5K,2022 ~ 2023,['ST']
+A. Gómez,34,Sevilla,€20M,€47K,2021 ~ 2024,"['CAM', 'LW', 'CM']"
+22 Dani Alves,38,FC Barcelona,€2.3M,€71K,2022 ~ 2022,"['RB', 'CM', 'RM']"
+Jesús Navas,36,Sevilla,€7M,€25K,2017 ~ 2024,"['RB', 'RM']"
+Piqué,35,FC Barcelona,€8M,€105K,2008 ~ 2024,['CB']
+Raúl Albiol,36,Villarreal,€5.5M,€30K,2019 ~ 2023,['CB']
+B. Gomis,36,Galatasaray,€1.9M,€44K,2022 ~ 2023,['ST']
+K. Schmeichel,35,Nice,€4M,€31K,2022 ~ 2023,['GK']
+C. Vela,33,Los Angeles FC,€16M,€14K,2018 ~ 2023,"['RW', 'LW', 'CAM']"
+J. Rodriguez,32,Burnley,€3.4M,€40K,2019 ~ 2024,"['ST', 'LM']"
+22 Gervinho,34,Trabzonspor,€2.6M,€27K,2021 ~ 2023,"['LW', 'RW']"
+R. Fährmann,33,Schalke 04,€525K,€10K,2011 ~ 2025,['GK']
+J. Henderson,32,Liverpool,€24M,€125K,2011 ~ 2025,"['CM', 'CDM']"
+M. Arnautović,33,Bologna,€19.5M,€51K,2021 ~ 2024,['ST']
+P. Gulácsi,32,RB Leipzig,€26.5M,€65K,2015 ~ 2025,['GK']
+Canales,31,Real Betis,€35M,€42K,2018 ~ 2026,"['RM', 'CAM', 'LM']"
+S. Johnson,33,,€0,€0,Free,['GK']
+S. El Shaarawy,29,Roma,€10.5M,€63K,2021 ~ 2023,"['LW', 'LM']"
+N. Araújo,30,,€0,€0,Free,['CB']
+D. Williams,18,Chelsea,€725K,€4K,2022 ~ 2025,"['LB', 'LWB']"
+E. Poku,18,AZ,€1.2M,€1K,2020 ~ 2026,['RW']
+Joseda,20,UD Ibiza,€675K,€950,2023 ~ 2024,"['RB', 'CB']"
+Pablo Felipe,18,Famalicão,€1.7M,€1K,2019 ~ 2027,['ST']
+F. Alidou,20,Eintracht Frankfurt,€2.6M,€8K,2022 ~ 2026,['LM']
+A. Ezzalzouli,20,Osasuna,€3.8M,€41K,"Jun 30, 2023 On Loan","['LM', 'RM', 'LW']"
+S. Curtis,16,St Patrick's,€625K,€500,2021 ~ 2023,"['RWB', 'CB', 'RB']"
+H. Birtwistle,18,Wolverhampton Wanderers,€275K,€4K,2021 ~ 2023,"['RW', 'RWB']"
+F. Lemaréchal,18,Monaco,€1.2M,€3K,2021 ~ 2024,['CM']
+F. Afena-Gyan,19,Cremonese,€3.5M,€5K,2022 ~ 2026,['ST']
+T. Morton,19,Blackburn Rovers,€1.3M,€9K,"Jun 30, 2023 On Loan",['CDM']
+K. Topp,18,Schalke 04,€525K,€2K,2021 ~ 2024,['ST']
+A. Ahmed Fatah,18,Troyes,€650K,€1K,2022 ~ 2027,['LM']
+M. Alfonso,22,River Plate,€2.1M,€500,2022 ~ 2022,"['CM', 'CDM']"
+M. Angulo,20,Cincinnati,€1.7M,€2K,2023 ~ 2025,"['CM', 'CDM']"
+N. Petrović,22,Granada,€3.4M,€5K,2022 ~ 2025,"['CDM', 'CM']"
+F. Gatti,24,Juventus,€8M,€59K,2022 ~ 2026,['CB']
+N. Tresoldi,17,Hannover 96,€625K,€950,2021 ~ 2026,"['ST', 'CF']"
+Kim Ji Soo,17,Seongnam,€775K,€500,2022 ~ 2027,['CB']
+G. Vidović,18,Vitesse,€1.8M,€4K,"Jun 30, 2023 On Loan","['CAM', 'LM']"
+M. Cissé,18,Pisa,€1.2M,€4K,"Jun 30, 2023 On Loan",['ST']
+A. Giay,18,San Lorenzo,€1.9M,€1K,2020 ~ 2025,"['RWB', 'RM', 'CM']"
+B. Amione,20,Sampdoria,€3.2M,€8K,"Jun 30, 2023 On Loan",['CB']
+A. Florenzi,20,Cosenza,€1.9M,€800,2021 ~ 2026,['CM']
+J. Dirksen,19,FC Emmen,€725K,€850,2022 ~ 2023,"['CB', 'LB']"
+S. Ba,18,RB Leipzig,€800K,€2K,2022 ~ 2025,"['LB', 'LM']"
+Y. Borges Sanches,18,Borussia Mönchengladbach,€1.2M,€2K,2022 ~ 2027,"['LM', 'ST', 'RM']"
+G. Rukavina,18,Dinamo Zagreb,€1.8M,€500,2021 ~ 2028,"['LW', 'LM', 'RW']"
+B. Bouanani,17,Nice,€1.6M,€1K,2022 ~ 2027,"['RM', 'CAM', 'CF']"
+F. Carboni,19,Cagliari,€1.3M,€6K,"Jun 30, 2023 On Loan",['LB']
+D. Costelloe,19,Burnley,€1M,€5K,2020 ~ 2024,"['RM', 'ST']"
+M. Usor,20,Slavia Praha,€6M,€800,2022 ~ 2025,"['RM', 'LM', 'ST']"
+J. Louis-Jean,18,Bordeaux,€975K,€500,2022 ~ 2025,"['RB', 'LB']"
+Danilo Veiga,19,Gil Vicente,€2.7M,€2K,2022 ~ 2024,"['RB', 'CM']"
+Lázaro,20,Almería,€9.5M,€16K,2022 ~ 2028,"['LM', 'ST']"
+L. Ambros,18,VfL Wolfsburg,€675K,€2K,2021 ~ 2023,['CAM']
+Fábio Jaló,16,Barnsley,€450K,€500,2022 ~ 2023,"['ST', 'RW', 'CAM']"
+G. Faticanti,17,Roma,€950K,€500,2021 ~ 2026,"['CDM', 'CM']"
+B. Tahirovic,19,Roma,€1.5M,€7K,2021 ~ 2026,['CM']
+Joel Roca,17,Girona,€900K,€550,2022 ~ 2026,"['LM', 'CAM', 'RM']"
+A. Beka Beka,21,Nice,€3.4M,€14K,2022 ~ 2027,"['CDM', 'CM']"
+M. Bard,21,Nice,€8M,€22K,2021 ~ 2026,['LB']
+D. Ayala,19,Portland Timbers,€2.1M,€1K,2022 ~ 2025,"['CDM', 'CM']"
+S. Ngapandouetnbu,19,Olympique Marseille,€1.9M,€4K,2019 ~ 2024,['GK']
+R. Hatate,24,Celtic,€6.5M,€37K,2022 ~ 2025,['CM']
+J. Antiste,19,Sassuolo,€2.6M,€5K,"Jun 30, 2023 On Loan",['ST']
+Pacheco,21,Real Sociedad,€3.7M,€11K,2021 ~ 2027,['CB']
+Francho Serrano,20,Real Zaragoza,€2.4M,€3K,2020 ~ 2025,"['CM', 'CDM', 'RM']"
+J. Daland,22,Cercle Brugge,€2.6M,€6K,2021 ~ 2025,['CB']
+B. Chrisene,18,Kilmarnock,€875K,€3K,"Jun 30, 2023 On Loan","['LB', 'LWB']"
+22 Luis Henrique,19,Olympique Marseille,€4.2M,€16K,2020 ~ 2025,['LM']
+T. Dolan,20,Blackburn Rovers,€3.5M,€19K,2020 ~ 2024,"['RW', 'ST']"
+Fabiano Souza,22,Sporting Braga,€6M,€10K,2019 ~ 2024,"['RB', 'RM']"
+A. Jashari,19,Luzern,€2.3M,€3K,2020 ~ 2025,"['CDM', 'CM']"
+D. Abiama,23,SpVgg Greuther Fürth,€2.1M,€4K,2020 ~ 2024,['ST']
+A. Theate,22,Rennes,€11M,€32K,2022 ~ 2026,['CB']
+M. Okoye,22,Watford,€4.6M,€18K,2022 ~ 2027,['GK']
+A. Virginius,19,Lille,€2.6M,€6K,2022 ~ 2027,['RM']
+W. Bondo,18,Monza,€1.2M,€3K,2022 ~ 2025,"['CM', 'RM']"
+M. Fornalczyk,19,Pogoń Szczecin,€1.4M,€1K,2020 ~ 2024,"['RM', 'LM']"
+M. Raab,23,Hamburger SV,€2.7M,€5K,2022 ~ 2026,['GK']
+J. Carrillo,20,Sporting Gijón,€1.4M,€2K,2020 ~ 2025,"['LM', 'RM']"
+R. Calafiori,20,Basel,€2.8M,€5K,2022 ~ 2025,"['LB', 'LM', 'LWB']"
+N. Fernández,22,Elche,€3.4M,€9K,2022 ~ 2027,"['LWB', 'LM', 'LB']"
+M. Manhoef,20,Vitesse,€3.1M,€6K,2020 ~ 2025,"['LM', 'CAM', 'LB']"
+K. Aktürkoğlu,23,Galatasaray,€6.5M,€43K,2020 ~ 2026,"['LM', 'LW']"
+Marvin,22,Las Palmas,€3M,€41K,"Jun 30, 2023 On Loan","['RW', 'RM', 'RB']"
+C. Archer,20,Middlesbrough,€3.5M,€30K,"Jun 30, 2023 On Loan",['ST']
+K. Çalhanoğlu,19,Sandhausen,€1.9M,€3K,"Jun 30, 2023 On Loan","['LB', 'LM']"
+Yan Couto,20,Girona,€5M,€49K,"Jun 30, 2023 On Loan","['RM', 'RB', 'RWB']"
+G. Lewis,22,Arsenal,€550K,€9K,2020 ~ 2023,"['LM', 'RM']"
+S. Oulad M'Hand,18,Hull City,€825K,€1K,2020 ~ 2025,"['CM', 'CAM']"
+J. Che,18,TSG Hoffenheim,€2.1M,€700,"Jun 30, 2023 On Loan","['RWB', 'CB', 'RB']"
+Víctor Chust,22,Cádiz,€12M,€21K,2022 ~ 2026,['CB']
+J. Ideho,18,Arsenal,€750K,€4K,2020 ~ 2025,"['LM', 'RM', 'CF']"
+F. Orozco,20,Lanús,€1.7M,€3K,2020 ~ 2024,"['LM', 'LW', 'RW']"
+M. Hoppe,21,Middlesbrough,€3.2M,€11K,2022 ~ 2026,['ST']
+K. Zenón,21,Unión Santa Fe,€3.6M,€6K,2020 ~ 2023,"['LM', 'RM', 'LW']"
+H. Sudakov,19,Shakhtar Donetsk,€2.9M,€500,2019 ~ 2026,['CAM']
+Y. Chacón,19,Deportivo Táchira,€2.4M,€500,2020 ~ 2024,"['RM', 'RW', 'LW']"
+A. Hackford,18,Sheffield United,€575K,€2K,2021 ~ 2023,['ST']
+Yang Hyeon Joon,20,Gangwon,€850K,€1K,2021 ~ 2022,"['RW', 'ST']"
+22 J. Fujita,19,Yokohama F. Marinos,€1.5M,€2K,2022 ~ 2023,['CDM']
+Loren Zúñiga,19,Málaga,€950K,€1K,2020 ~ 2024,['ST']
+M. Uzuni,27,Granada,€6M,€12K,2022 ~ 2025,"['LM', 'ST', 'RM']"
+M. Sahi,20,Annecy,€2.7M,€8K,"Jun 30, 2023 On Loan","['ST', 'CAM', 'LM']"
+Miguel Gutiérrez,20,Girona,€3.9M,€11K,2022 ~ 2027,"['LB', 'LWB']"
+Antonio Blanco,21,Cádiz,€4.2M,€51K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+R. Kluivert,21,FC Utrecht,€1.1M,€2K,2020 ~ 2024,['CB']
+D. Jebbison,18,Sheffield United,€1.7M,€3K,2021 ~ 2023,['ST']
+A. Bangura,22,SC Cambuur,€2.7M,€4K,2019 ~ 2024,['LB']
+Sergi Cardona,22,Las Palmas,€5M,€6K,2020 ~ 2024,"['LB', 'LM']"
+N. Weißhaupt,20,SC Freiburg,€1.9M,€6K,2021 ~ 2026,"['LM', 'CF']"
+B. Yılmaz,22,Galatasaray,€2.3M,€18K,2021 ~ 2026,"['LW', 'RM']"
+W. Swedberg,18,Celta de Vigo,€1.7M,€2K,2022 ~ 2027,"['LM', 'CM', 'CAM']"
+F. Ebosele,19,Udinese,€1.9M,€2K,2022 ~ 2027,"['RWB', 'RM']"
+S. Ben Seghir,19,Olympique Marseille,€2M,€7K,2021 ~ 2024,['RW']
+T. Bischof,17,TSG Hoffenheim,€1.2M,€750,2021 ~ 2025,['CAM']
+S. Mannsverk,20,Molde,€2.3M,€2K,2021 ~ 2025,['CDM']
+Roger Fernandes,16,Sporting Braga,€1.3M,€500,2021 ~ 2024,"['LM', 'RM']"
+A. Alese,21,Sunderland,€1.7M,€3K,2022 ~ 2025,"['CB', 'LB']"
+Gorosabel,25,Real Sociedad,€12M,€27K,2017 ~ 2024,['RB']
+Igor,24,Fiorentina,€10M,€36K,2021 ~ 2024,['CB']
+T. Belmonte,24,Lanús,€3.7M,€11K,2017 ~ 2025,"['CM', 'CDM']"
+A. Tagnaouti,26,,€0,€0,Free,['GK']
+M. Retegui,23,Tigre,€12.5M,€16K,"Dec 31, 2023 On Loan",['ST']
+P. Schuurs,22,Torino,€14M,€31K,2022 ~ 2026,['CB']
+S. Barreto,23,Independiente,€6M,€11K,2017 ~ 2023,['CB']
+D. Rossi,24,Fenerbahçe,€11M,€49K,2021 ~ 2025,"['LM', 'RM', 'ST']"
+R. Slater,22,Hull City,€2.7M,€7K,2022 ~ 2024,"['CM', 'CDM', 'LM']"
+O. Solbakken,23,Roma,€3.7M,€36K,2023 ~ 2027,"['RW', 'LW']"
+B. Hussein,22,AIK,€3.8M,€5K,2018 ~ 2023,['CM']
+M. Frendrup,21,Genoa,€5M,€3K,2022 ~ 2026,"['CDM', 'CM']"
+K. Thorstvedt,23,Sassuolo,€4.7M,€19K,2022 ~ 2027,"['CAM', 'CM']"
+N. Ferguson,21,Crystal Palace,€2M,€11K,2020 ~ 2023,"['LB', 'RB']"
+I. Louza,23,Watford,€6.5M,€32K,2021 ~ 2026,"['CM', 'CDM']"
+S. Asta,21,SpVgg Greuther Fürth,€2.6M,€3K,2020 ~ 2024,"['RB', 'RWB']"
+C. Morton,22,Fleetwood Town,€1.3M,€3K,2022 ~ 2025,"['ST', 'LW']"
+A. Cicâldău,24,,€0,€0,Free,"['CM', 'CAM']"
+Alberto Soro,23,Granada,€4.2M,€7K,2020 ~ 2025,"['RM', 'LM', 'ST']"
+D. Levitt,21,Dundee United,€3.1M,€3K,2022 ~ 2024,"['CM', 'CDM']"
+F. Agu,22,Werder Bremen,€3.4M,€11K,2020 ~ 2025,"['RWB', 'LWB']"
+N. Radonjić,26,Torino,€5M,€34K,"Jun 30, 2023 On Loan","['LW', 'RW', 'CF']"
+W. Alarcón,21,Unión La Calera,€1.1M,€800,2023 ~ 2024,"['CM', 'CDM']"
+Chiquinho,26,Benfica,€3.3M,€11K,2019 ~ 2024,"['CM', 'CAM']"
+D. Ballard,22,Sunderland,€3.9M,€10K,2022 ~ 2025,['CB']
+K. Schlotterbeck,25,VfL Bochum 1848,€2.8M,€17K,"Jun 30, 2023 On Loan",['CB']
+T. Chorý,27,Viktoria Plzeň,€3.3M,€1K,2018 ~ 2023,['ST']
+B. Yáñez,21,Unión Española,€3.6M,€3K,2018 ~ 2024,"['LM', 'LW', 'RW']"
+J. David,22,Hamburger SV,€1.5M,€4K,2018 ~ 2024,"['CB', 'CDM']"
+A. Ousou,22,Slavia Praha,€4.2M,€850,2021 ~ 2026,['CB']
+L. Suárez,24,Almería,€8.5M,€32K,"Jun 30, 2023 On Loan",['ST']
+C. Bassett,20,Colorado Rapids,€3.5M,€4K,2018 ~ 2024,"['CAM', 'CM']"
+M. Gueye,24,Real Zaragoza,€2.1M,€6K,"Jun 30, 2023 On Loan",['ST']
+H. Clarke,21,Stoke City,€1.5M,€11K,"Jun 30, 2023 On Loan","['CB', 'RB', 'RWB']"
+C. Mola,21,Blackburn Rovers,€1.5M,€4K,"Jun 30, 2023 On Loan","['LB', 'CB']"
+L. Beltrán,21,River Plate,€4.8M,€10K,2018 ~ 2025,"['ST', 'RW']"
+22 W. Isidor,20,Lokomotiv Moskva,€2.3M,€12K,2022 ~ 2026,"['ST', 'LM']"
+L. Unbehaun,21,Borussia Dortmund II,€1.5M,€700,2019 ~ 2023,['GK']
+Moncayola,24,Osasuna,€12M,€23K,2017 ~ 2031,"['CM', 'CDM', 'RM']"
+J. Araujo,20,LA Galaxy,€3.3M,€3K,2019 ~ 2025,"['RB', 'RWB', 'RM']"
+L. Johnsen,22,Randers,€3M,€7K,2021 ~ 2024,"['CDM', 'CM']"
+P. Ekwah,20,West Ham United,€525K,€6K,2021 ~ 2024,"['CDM', 'CM']"
+E. Mosquera,21,Atlanta United,€3.4M,€3K,2022 ~ 2026,['LM']
+F. Flick,22,Nürnberg,€2.1M,€9K,"Jun 30, 2023 On Loan","['CDM', 'CB', 'CM']"
+L. Mbe Soh,21,Nottingham Forest,€1.8M,€10K,2020 ~ 2024,['CB']
+K. Yeboah,22,Genoa,€3.3M,€3K,2022 ~ 2026,['ST']
+F. Daniliuc,21,Salernitana,€6M,€15K,2022 ~ 2026,"['CB', 'RB']"
+Marcos André,25,Valencia,€4.1M,€27K,2021 ~ 2026,"['ST', 'LW', 'LM']"
+Eduardo Quaresma,20,TSG Hoffenheim,€3.6M,€5K,"Jun 30, 2023 On Loan",['CB']
+A. Ueda,23,Cercle Brugge,€2.4M,€8K,2022 ~ 2026,"['ST', 'CAM']"
+H. Ekdal,23,Djurgården,€3.9M,€5K,2021 ~ 2024,['CB']
+Manu Sánchez,21,Osasuna,€9M,€25K,"Jun 30, 2023 On Loan","['LB', 'LWB', 'LM']"
+E. Demir,18,FC Barcelona,€1.7M,€9K,2022 ~ 2027,"['CAM', 'RW', 'LW']"
+S. Appelkamp,21,Fortuna Düsseldorf,€5.5M,€13K,2019 ~ 2026,"['CAM', 'LM', 'CM']"
+J. Hernández,23,Deportes Tolima,€6M,€3K,2019 ~ 2022,['LB']
+H. Boudaoui,22,Nice,€9M,€31K,2019 ~ 2023,"['RM', 'CM']"
+M. Azeez,19,Wigan Athletic,€1.2M,€1K,2019 ~ 2024,"['CM', 'CDM']"
+L. Cundle,20,Swansea City,€600K,€8K,"Jun 30, 2023 On Loan","['CM', 'CAM']"
+L. Campana,22,Inter Miami,€2.5M,€4K,2022 ~ 2023,['ST']
+Javi Galán,27,Celta de Vigo,€20.5M,€28K,2021 ~ 2026,['LB']
+K. Davis,24,Watford,€3.6M,€45K,"Jun 30, 2023 On Loan",['ST']
+F. Ricca,27,OH Leuven,€2.4M,€10K,2022 ~ 2025,"['CB', 'LB']"
+W. Endo,29,VfB Stuttgart,€17M,€32K,2020 ~ 2024,"['CM', 'CDM']"
+D. Doekhi,24,FC Union Berlin,€7.5M,€22K,2022 ~ 2022,['CB']
+J. Tymon,23,Stoke City,€3M,€13K,2017 ~ 2025,"['LWB', 'LB']"
+Aleñá,24,Getafe,€4.6M,€19K,2021 ~ 2026,"['CM', 'RM', 'LM']"
+C. Mepham,24,AFC Bournemouth,€2.3M,€22K,2019 ~ 2025,['CB']
+M. Turner,28,Arsenal,€9.5M,€56K,2022 ~ 2024,['GK']
+A. Georgiou,25,Leyton Orient,€300K,€3K,2022 ~ 2023,['RM']
+E. Reynoso,26,Minnesota United,€20.5M,€12K,2020 ~ 2025,"['CAM', 'LM']"
+J. Odgaard,23,AZ,€4.7M,€8K,2022 ~ 2027,"['ST', 'RW', 'CAM']"
+J. Mæhle,25,Atalanta,€7.5M,€38K,2021 ~ 2025,"['LM', 'RWB', 'RM']"
+D. Lamkel Zé,25,Kortrijk,€3.9M,€13K,2022 ~ 2025,"['ST', 'LM']"
+T. Hübers,25,FC Köln,€9M,€23K,2021 ~ 2023,['CB']
+V. Rosier,25,Beşiktaş,€13M,€42K,2021 ~ 2025,"['RB', 'RWB']"
+G. Hamer,25,Coventry City,€6M,€20K,2020 ~ 2024,"['CM', 'CDM']"
+Y. Wissa,25,Brentford,€6.5M,€44K,2021 ~ 2025,"['LW', 'ST']"
+M. Leitsch,24,FSV Mainz 05,€6M,€19K,2022 ~ 2026,['CB']
+G. Cox,24,Fortuna Sittard,€1.7M,€5K,2020 ~ 2023,"['LB', 'LWB']"
+O. Richards,24,Nottingham Forest,€3.3M,€30K,2022 ~ 2026,"['LB', 'LWB']"
+V. Janelt,24,Brentford,€6.5M,€34K,2020 ~ 2026,"['CM', 'CDM']"
+R. Nicolaisen,25,Toulouse,€4M,€14K,2021 ~ 2025,['CB']
+C. Früchtl,22,Austria Wien,€1.8M,€4K,2022 ~ 2025,['GK']
+M. Sarr,23,Monaco,€7M,€61K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+B. Özcan,24,İstanbul Başakşehir,€2.8M,€19K,2020 ~ 2024,"['CM', 'CAM', 'LM']"
+A. Trusty,23,Birmingham City,€2.7M,€33K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+J. Asoro,23,Djurgården,€3.2M,€5K,2021 ~ 2024,"['RW', 'ST']"
+B. Woodburn,22,Preston North End,€2.1M,€10K,2022 ~ 2023,"['LM', 'CM', 'ST']"
+T. O'Connor,23,Wrexham,€550K,€500,2022 ~ 2025,"['CDM', 'CM']"
+G. Maggiore,24,Salernitana,€15M,€25K,2022 ~ 2026,"['CM', 'CDM']"
+D. Giannoulis,26,Norwich City,€3.3M,€31K,2021 ~ 2024,"['LB', 'LWB']"
+S. Lammers,25,Sampdoria,€3.5M,€31K,"Jun 30, 2023 On Loan",['ST']
+B. Austin,23,Tottenham Hotspur,€1.1M,€10K,2016 ~ 2024,['GK']
+S. Shashoua,23,Tenerife,€3.1M,€5K,2019 ~ 2023,"['ST', 'CAM', 'RM']"
+A. Tanaka,23,Fortuna Düsseldorf,€3.2M,€14K,2022 ~ 2025,"['CDM', 'CM']"
+C. Ndiaye,26,Shanghai SIPG,€1.7M,€10K,2022 ~ 2024,"['ST', 'LW']"
+K. Bare,24,Espanyol,€10M,€15K,2020 ~ 2024,"['CDM', 'CM']"
+J. Davies,23,Wrexham,€725K,€500,2020 ~ 2025,['CM']
+E. Bardhi,26,Trabzonspor,€8M,€34K,2022 ~ 2025,"['LM', 'CM']"
+M. Robinson,25,Atlanta United,€5.5M,€7K,2017 ~ 2023,['CB']
+A. Connolly,22,Hull City,€2.3M,€25K,"Jun 30, 2023 On Loan",['ST']
+M. Djenepo,24,Southampton,€6M,€37K,2019 ~ 2025,['LM']
+A. Zerbin,23,Napoli,€5M,€31K,2017 ~ 2027,['LW']
+N. Domínguez,24,Bologna,€12M,€27K,2019 ~ 2024,"['CM', 'CDM']"
+M. Murillo,26,Anderlecht,€3.5M,€17K,2020 ~ 2025,"['RB', 'RWB', 'RM']"
+D. Sterling,22,Stoke City,€2.6M,€25K,"Jun 30, 2023 On Loan","['RWB', 'RB', 'LWB']"
+N. Milenković,24,Fiorentina,€29M,€48K,2017 ~ 2027,['CB']
+I. Niane,23,Metz,€4.7M,€8K,2017 ~ 2024,"['ST', 'LW']"
+B. Özer,22,Portimonense,€2.7M,€3K,2022 ~ 2026,['GK']
+B. Manu,25,Darmstadt 98,€2.5M,€13K,2019 ~ 2024,"['RM', 'LM', 'ST']"
+P. Płacheta,24,Norwich City,€2.2M,€17K,2020 ~ 2024,['LM']
+Galeno,24,Porto,€19M,€14K,2022 ~ 2026,['LM']
+F. Onyeka,24,Brentford,€4M,€28K,2021 ~ 2026,"['CDM', 'CM']"
+G. Giakoumakis,27,Celtic,€3.3M,€43K,2021 ~ 2026,['ST']
+Paulinho,21,Bayer 04 Leverkusen,€7M,€29K,2018 ~ 2023,"['LM', 'CAM']"
+A. Papadopoulos,22,Borussia Dortmund,€1.8M,€9K,2021 ~ 2024,"['CB', 'CDM']"
+S. Niakaté,22,Sporting Braga,€8M,€7K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+J. Champness,25,,€0,€0,Free,"['LW', 'LM']"
+Dai Weijun,22,Shenzhen,€1.9M,€3K,2020 ~ 2023,"['CM', 'RM']"
+Thiago Mendes,30,Olympique Lyonnais,€6.5M,€48K,2019 ~ 2023,"['CDM', 'CB']"
+S. Gallagher,26,Blackburn Rovers,€1.9M,€25K,2019 ~ 2024,"['ST', 'RW']"
+J. Lerma,27,AFC Bournemouth,€5.5M,€38K,2018 ~ 2023,"['CDM', 'CM']"
+F. Fabra,31,Boca Juniors,€7.5M,€17K,2016 ~ 2025,['LB']
+M. Uribe,31,Porto,€21M,€19K,2019 ~ 2023,"['CM', 'CDM']"
+A. Miranchuk,26,Torino,€12.5M,€49K,"Jun 30, 2023 On Loan","['CF', 'CAM']"
+M. Ingvartsen,26,FSV Mainz 05,€5M,€26K,2022 ~ 2025,"['ST', 'CF', 'CAM']"
+G. Carrillo,31,Estudiantes,€1.6M,€10K,2023 ~ 2024,['ST']
+B. Kapustka,25,Legia Warszawa,€1.8M,€5K,2020 ~ 2023,"['CAM', 'CF']"
+S. Widmer,29,FSV Mainz 05,€6.5M,€26K,2021 ~ 2024,"['RWB', 'RB', 'CB']"
+I. Bebou,28,TSG Hoffenheim,€11M,€39K,2019 ~ 2026,"['ST', 'RM', 'RW']"
+S. Fofana,27,Lens,€27.5M,€43K,2020 ~ 2024,['CM']
+A. Ademi,31,Dinamo Zagreb,€2.5M,€850,2010 ~ 2026,"['CM', 'CDM']"
+M. Politano,28,Napoli,€26M,€72K,2021 ~ 2024,"['RW', 'RM']"
+M. Simon,26,Nantes,€11.5M,€27K,2020 ~ 2024,"['LM', 'ST', 'LW']"
+M. Thiam,29,Kayserispor,€2.3M,€14K,2021 ~ 2024,"['LM', 'ST', 'LW']"
+A. Rebić,28,Milan,€21M,€78K,2020 ~ 2025,"['LW', 'LM', 'ST']"
+Aarón,26,FC Cartagena,€2M,€5K,2022 ~ 2024,['GK']
+J. Brownhill,26,Burnley,€6.5M,€40K,2020 ~ 2024,"['CM', 'CAM', 'RM']"
+J. Onguéné,24,Salzburg,€3.2M,€15K,"Jun 30, 2023 On Loan",['CB']
+H. Lewis,24,Bradford City,€925K,€3K,2022 ~ 2024,['GK']
+B. Manuel,25,Burnley,€5.5M,€35K,2022 ~ 2026,"['RM', 'RW', 'LW']"
+19 Malcom,21,FC Barcelona,€31M,€140K,2018 ~ 2023,['RW']
+Z. Kalmár,27,,€0,€0,Free,"['CAM', 'LM']"
+L. Paqarada,27,St. Pauli,€2.3M,€13K,2020 ~ 2023,"['LB', 'LWB']"
+S. Rochet,29,Nacional,€11.5M,€850,2019 ~ 2023,['GK']
+K. Phillips,26,Manchester City,€30.5M,€120K,2022 ~ 2028,"['CDM', 'CM']"
+Borja Iglesias,29,Real Betis,€30.5M,€39K,2019 ~ 2026,['ST']
+Gonçalo Guedes,25,Wolverhampton Wanderers,€33M,€100K,2022 ~ 2027,"['ST', 'LW']"
+F. Andone,29,Las Palmas,€1.2M,€5K,2022 ~ 2023,['ST']
+C. McGrandles,26,Charlton Athletic,€625K,€3K,2022 ~ 2025,"['CM', 'CDM']"
+H. Kurucay,24,HamKam,€850K,€950,2021 ~ 2022,['CB']
+A. Collins,25,Bristol Rovers,€1.5M,€5K,2021 ~ 2025,"['ST', 'LW']"
+J. Augustin,25,Basel,€1.1M,€5K,2022 ~ 2025,['ST']
+K. Iheanacho,25,Leicester City,€13M,€74K,2017 ~ 2024,['ST']
+S. McKenna,25,Nottingham Forest,€4M,€38K,2020 ~ 2024,['CB']
+Trezeguet,27,Trabzonspor,€8M,€34K,2022 ~ 2026,"['LM', 'LW']"
+C. Adams,25,Southampton,€9.5M,€51K,2019 ~ 2024,['ST']
+Aritz Elustondo,28,Real Sociedad,€24.5M,€40K,2014 ~ 2024,"['CB', 'RB']"
+U. Çakır,26,Trabzonspor,€20M,€33K,2014 ~ 2027,['GK']
+T. Minamino,27,Monaco,€6M,€42K,2022 ~ 2026,"['RM', 'LM', 'CF']"
+A. Fulgini,25,FSV Mainz 05,€10M,€26K,2022 ~ 2026,"['CM', 'CAM', 'CF']"
+J. Bruun Larsen,23,TSG Hoffenheim,€4.6M,€25K,2020 ~ 2024,"['LW', 'LM', 'ST']"
+E. Audero,25,Sampdoria,€14.5M,€16K,2019 ~ 2026,['GK']
+V. Sierro,26,Young Boys,€1.6M,€11K,2019 ~ 2023,['CM']
+G. Holtmann,27,VfL Bochum 1848,€2.5M,€18K,2020 ~ 2025,"['LM', 'LW', 'RW']"
+R. Nyambe,24,Wigan Athletic,€2.1M,€6K,2022 ~ 2023,"['RWB', 'RB']"
+V. Kovalenko,26,Spezia,€2.3M,€27K,"Jun 30, 2023 On Loan","['CM', 'CAM']"
+Dalbert,28,Inter,€1.7M,€31K,2017 ~ 2023,"['LWB', 'LM']"
+B. van den Boomen,26,Toulouse,€9M,€20K,2020 ~ 2023,"['CM', 'CDM']"
+T. Skarke,25,FC Union Berlin,€2.2M,€18K,2022 ~ 2022,"['RM', 'LM']"
+E. Adebayo,24,Luton Town,€3.6M,€23K,2021 ~ 2024,['ST']
+W. Anton,25,VfB Stuttgart,€6.5M,€20K,2020 ~ 2025,"['CB', 'CDM']"
+J. Ryerson,24,FC Union Berlin,€5M,€20K,2018 ~ 2023,"['RWB', 'LWB']"
+L. Blas,24,Nantes,€25M,€28K,2019 ~ 2024,"['CAM', 'RM', 'ST']"
+J. Lucumí,24,Bologna,€6.5M,€20K,2022 ~ 2025,['CB']
+N. Dorsch,24,FC Augsburg,€14.5M,€23K,2021 ~ 2026,"['CDM', 'CM']"
+D. Lukébakio,24,Hertha BSC,€13M,€27K,2019 ~ 2024,"['RM', 'ST']"
+Aitor,26,Panathinaikos,€6.5M,€1K,2020 ~ 2023,"['LW', 'RW']"
+B. Sambou,24,Crewe Alexandra,€350K,€2K,2022 ~ 2023,"['ST', 'LM']"
+S. Ulreich,33,FC Bayern München,€1.8M,€34K,2021 ~ 2024,['GK']
+T. Pukki,32,Norwich City,€4.6M,€43K,2018 ~ 2023,['ST']
+O. Elabdellaoui,30,Bodø / Glimt,€3.6M,€5K,2023 ~ 2024,['RB']
+M. Plattenhardt,30,Hertha BSC,€3.6M,€24K,2014 ~ 2023,['LB']
+B. Leno,30,Fulham,€14M,€50K,2022 ~ 2025,['GK']
+22 K. Manolas,30,Olympiakos Piraeus,€25M,€2K,2022 ~ 2025,['CB']
+H. Mkhitaryan,33,Inter,€16M,€74K,2022 ~ 2024,"['CAM', 'CM']"
+K. Casteels,30,VfL Wolfsburg,€31.5M,€55K,2015 ~ 2024,['GK']
+J. Cuadrado,34,Juventus,€11M,€110K,2017 ~ 2023,"['RB', 'RM', 'RW']"
+M. Rojas,30,,€0,€0,Free,"['LM', 'RM']"
+T. Delaney,30,Sevilla,€17.5M,€31K,2021 ~ 2025,"['CDM', 'CM']"
+Ignasi Miquel,29,Granada,€1.2M,€6K,2022 ~ 2025,['CB']
+J. Matip,30,Liverpool,€34.5M,€140K,2016 ~ 2024,['CB']
+M. Perin,29,Juventus,€13.5M,€78K,2018 ~ 2025,['GK']
+L. Bacuna,30,Watford,€1M,€15K,2022 ~ 2023,"['CDM', 'RW']"
+Jonathan Viera,32,Las Palmas,€16.5M,€14K,2021 ~ 2026,"['CAM', 'CM', 'LM']"
+Rodrigo,31,Leeds United,€12M,€46K,2020 ~ 2024,"['ST', 'CAM']"
+Luis Alberto,29,Lazio,€35.5M,€74K,2016 ~ 2025,['CM']
+T. Holý,30,Carlisle United,€275K,€2K,2022 ~ 2024,['GK']
+K. Volland,29,Monaco,€25.5M,€70K,2020 ~ 2024,"['ST', 'CAM', 'CF']"
+J. Iličić,34,Atalanta,€12.5M,€65K,2017 ~ 2023,"['CF', 'ST']"
+Juan Jesus,31,Napoli,€5M,€41K,2021 ~ 2023,['CB']
+Cédric,30,Arsenal,€4.8M,€58K,2020 ~ 2024,['RB']
+Gabriel Paulista,31,Valencia,€21M,€44K,2017 ~ 2024,['CB']
+M. Doherty,30,Tottenham Hotspur,€9M,€69K,2020 ~ 2024,"['RWB', 'RB']"
+Roberto Firmino,30,Liverpool,€35.5M,€150K,2015 ~ 2023,['CF']
+R. Freuler,30,Nottingham Forest,€20M,€72K,2022 ~ 2025,"['CM', 'CDM']"
+T. Meunier,30,Borussia Dortmund,€9M,€38K,2020 ~ 2024,"['RB', 'RM']"
+J. Vestergaard,29,Leicester City,€4.7M,€60K,2021 ~ 2024,['CB']
+L. Spinazzola,29,Roma,€27M,€77K,2019 ~ 2024,"['LWB', 'LM']"
+A. Florenzi,31,Milan,€12.5M,€60K,2022 ~ 2025,['RB']
+N. Pope,30,Newcastle United,€24M,€88K,2022 ~ 2026,['GK']
+M. Bettinelli,30,Chelsea,€1.2M,€33K,2021 ~ 2023,['GK']
+M. Batshuayi,28,Fenerbahçe,€11M,€68K,2022 ~ 2024,['ST']
+Mário Rui,31,Napoli,€12.5M,€51K,2018 ~ 2025,['LB']
+J. Pickford,28,Everton,€26M,€45K,2017 ~ 2024,['GK']
+Juan Bernat,29,Paris Saint Germain,€12.5M,€68K,2018 ~ 2025,['LB']
+C. Robinson,27,Cardiff City,€2M,€24K,2022 ~ 2025,"['ST', 'LW', 'RW']"
+P. Bamford,28,Leeds United,€14.5M,€48K,2018 ~ 2026,['ST']
+A. Webster,27,Brighton & Hove Albion,€8M,€51K,2019 ~ 2026,['CB']
+J. Veltman,30,Brighton & Hove Albion,€11.5M,€58K,2020 ~ 2023,"['CB', 'RB']"
+A. Doucouré,29,Everton,€13.5M,€45K,2020 ~ 2023,"['CM', 'CDM']"
+A. Mawson,28,Wycombe Wanderers,€1.8M,€7K,2022 ~ 2023,['CB']
+R. Gauld,26,Vancouver Whitecaps,€9M,€9K,2021 ~ 2024,"['CAM', 'LM', 'CF']"
+Fred,29,Manchester United,€20.5M,€120K,2018 ~ 2024,"['CM', 'CDM']"
+C. Günter,29,SC Freiburg,€18.5M,€34K,2012 ~ 2026,"['LB', 'LWB', 'LM']"
+Y. Bounou,31,Sevilla,€28.5M,€38K,2020 ~ 2025,['GK']
+Raúl de Tomás,27,Rayo Vallecano,€39.5M,€37K,2022 ~ 2027,['ST']
+R. Ghezzal,30,Beşiktaş,€17M,€61K,2021 ~ 2024,"['RW', 'RM', 'CAM']"
+A. Romagnoli,27,Lazio,€24M,€55K,2022 ~ 2027,['CB']
+M. Halstenberg,30,RB Leipzig,€8.5M,€43K,2015 ~ 2024,"['CB', 'LB']"
+D. Cataldi,27,Lazio,€7.5M,€38K,2011 ~ 2024,['CDM']
+J. Lowe,27,AFC Bournemouth,€2M,€30K,2021 ~ 2023,"['ST', 'LW', 'RW']"
+M. Elneny,29,Arsenal,€6.5M,€63K,2016 ~ 2023,"['CDM', 'CM']"
+A. Callens,30,New York City,€2.5M,€7K,2017 ~ 2022,['CB']
+M. Dembélé,25,Olympique Lyonnais,€23.5M,€69K,2018 ~ 2023,['ST']
+L. Marković,28,Gaziantep F.K.,€3.1M,€16K,2022 ~ 2024,"['RM', 'RW']"
+P. Frankowski,27,Lens,€8M,€28K,2021 ~ 2026,"['LWB', 'RWB']"
+D. Kohr,28,FSV Mainz 05,€10M,€27K,2022 ~ 2026,"['CDM', 'CM']"
+A. Djiku,27,Strasbourg,€8M,€23K,2019 ~ 2023,['CB']
+20 Casillas,38,Porto,€1.3M,€8K,2015 ~ 2020,['GK']
+14 D. Trezeguet,35,Newell's Old Boys,€1.1M,€45K,2013 ~ 2014,['ST']
+19 R. van Persie,34,Feyenoord,€5.5M,€20K,2018 ~ 2019,"['ST', 'CAM']"
+19 P. Čech,36,Arsenal,€2.4M,€60K,2015 ~ 2019,['GK']
+S. Georgiou,17,,€0,€0,Free,"['ST', 'CF']"
+L. Podolski,37,Górnik Zabrze,€800K,€6K,2021 ~ 2023,"['CF', 'ST', 'CAM']"
+G. Clichy,36,Servette,€925K,€11K,2020 ~ 2023,['LB']
+22 S. Agüero,33,FC Barcelona,€51M,€260K,2021 ~ 2023,['ST']
+F. Ribéry,39,Salernitana,€2.6M,€21K,2021 ~ 2023,"['CF', 'ST', 'CAM']"
+S. Carson,36,Manchester City,€80K,€11K,2021 ~ 2023,['GK']
+F. Quagliarella,39,Sampdoria,€2.6M,€16K,2016 ~ 2023,['ST']
+22 H. Ben Arfa,34,Lille,€2.7M,€34K,2022 ~ 2022,"['CF', 'ST', 'CAM']"
+S. Handanovič,37,Inter,€4M,€42K,2012 ~ 2023,['GK']
+Falcao,36,Rayo Vallecano,€2.6M,€17K,2021 ~ 2023,['ST']
+Raúl García,35,Athletic Club,€9M,€28K,2015 ~ 2023,['ST']
+A. Candreva,35,Salernitana,€8.5M,€20K,"Jun 30, 2023 On Loan","['RM', 'CM']"
+D. Ospina,33,Al Nassr,€7M,€36K,2022 ~ 2024,['GK']
+22 Nacho Monreal,35,Real Sociedad,€5.5M,€24K,2019 ~ 2022,['LB']
+Juan Mata,34,Galatasaray,€2.6M,€53K,2022 ~ 2023,['CAM']
+Alexandre Pato,32,Orlando City,€1.5M,€6K,2021 ~ 2022,"['ST', 'RM', 'LM']"
+S. Coleman,33,Everton,€2.9M,€33K,2009 ~ 2023,"['RB', 'RWB']"
+22 A. Vidal,34,Inter,€12M,€105K,2020 ~ 2023,['CM']
+J. Boateng,33,Olympique Lyonnais,€6.5M,€55K,2021 ~ 2023,['CB']
+M. Darmian,32,Inter,€14.5M,€63K,2021 ~ 2023,"['RWB', 'RM']"
+O. Ighalo,33,Al Hilal,€6.5M,€42K,2022 ~ 2023,['ST']
+Ø. Nyland,31,RB Leipzig,€750K,€15K,2022 ~ 2023,['GK']
+K. Andrade,17,Deportivo La Guaira,€1.5M,€500,2021 ~ 2024,"['CAM', 'RM', 'CM']"
+R. Shein,18,FC Utrecht,€1.4M,€1K,2022 ~ 2025,"['CM', 'CDM']"
+C. Egan-Riley,19,Burnley,€1.3M,€5K,2022 ~ 2025,"['CB', 'RB']"
+D. Pizarro,17,Colo-Colo,€575K,€500,2022 ~ 2024,['ST']
+M. Collocolo,22,Ascoli,€4M,€3K,2021 ~ 2025,"['CDM', 'CM']"
+K. Wiethaup,16,Osnabrück,€525K,€500,2022 ~ 2024,['CAM']
+M. Folorunsho,24,Bari 1908,€2.2M,€18K,"Jun 30, 2023 On Loan","['CM', 'CAM']"
+J. Bennette,18,Sunderland,€2.8M,€3K,2022 ~ 2026,['LM']
+A. Ali,25,,€0,€0,Free,['ST']
+B. Al Rawi,24,,€0,€0,Free,['CB']
+Y. Jabrane,31,,€0,€0,Free,['CDM']
+Tiago Gouveia,21,Estoril,€3.9M,€6K,"Jun 30, 2023 On Loan","['RW', 'LW']"
+Y. Abdurisag,22,,€0,€0,Free,"['RW', 'LW']"
+O. Óskarsson,17,København,€525K,€800,2022 ~ 2025,['ST']
+F. Stanković,20,FC Volendam,€1.9M,€8K,"Jun 30, 2023 On Loan",['GK']
+D. Heber,27,Rot-Weiss Essen,€625K,€1K,2018 ~ 2025,['CB']
+J. Soler,17,Lanús,€600K,€500,2022 ~ 2024,"['LB', 'CB']"
+Y. Lagha,18,Olympique Lyonnais,€1.5M,€5K,2022 ~ 2025,['ST']
+S. Ba,18,RB Leipzig,€800K,€2K,2022 ~ 2025,"['LB', 'LM']"
+Ewerton,25,Slavia Praha,€5M,€1K,2022 ~ 2025,"['LM', 'RM']"
+F. Israel,22,Sporting CP,€3M,€4K,2022 ~ 2027,['GK']
+N. Thomas,19,Paços de Ferreira,€1.8M,€2K,2022 ~ 2025,"['LW', 'RW']"
+Gabriel Sara,23,Norwich City,€5M,€26K,2022 ~ 2026,"['CAM', 'CM']"
+W. Odobert,17,Troyes,€1.8M,€1K,2022 ~ 2025,['LW']
+D. Kameri,18,Salzburg,€2.2M,€3K,2022 ~ 2026,['CAM']
+P. Nuamah,16,Brescia,€250K,€500,2022 ~ 2025,['CM']
+Álex Padilla,18,Athletic Club,€900K,€500,2022 ~ 2024,['GK']
+E. Ahui,18,Lincoln City,€140K,€500,2022 ~ 2023,"['CDM', 'RB']"
+M. Berisha,18,Lecce,€575K,€950,2022 ~ 2027,['CM']
+C. Da Graca,20,Juventus,€1.4M,€15K,2021 ~ 2024,['ST']
+Kike Salas,20,Sevilla,€1.6M,€4K,2021 ~ 2023,['CB']
+S. Armstrong,19,Queens Park Rangers,€650K,€4K,2020 ~ 2024,"['ST', 'LW']"
+D. Tomas,24,,€0,€0,Free,['CB']
+E. Ben Seghir,17,Monaco,€2.6M,€3K,2022 ~ 2025,['ST']
+M. Röhl,19,SC Freiburg,€1.7M,€4K,2022 ~ 2023,"['CM', 'CDM', 'RM']"
+A. Sima,21,Angers SCO,€6M,€30K,"Jun 30, 2023 On Loan","['RM', 'ST']"
+N. Ohio,19,Standard Liège,€1.1M,€2K,2022 ~ 2026,['ST']
+G. Abrego,22,Godoy Cruz,€3.2M,€6K,2021 ~ 2023,"['CM', 'CDM']"
+B. Elmaz,19,Olympique Marseille,€950K,€4K,2022 ~ 2026,"['CM', 'CDM']"
+I. Hien,23,Hellas Verona,€3.3M,€11K,2022 ~ 2026,['CB']
+M. Bulat,20,Dinamo Zagreb,€3.3M,€500,2021 ~ 2027,"['CM', 'CDM']"
+D. Redzic,19,Ferencváros,€1.4M,€500,2021 ~ 2024,"['ST', 'CAM']"
+N. Lonwijk,19,Plymouth Argyle,€1.7M,€9K,"Jun 30, 2023 On Loan",['CB']
+T. Conway,19,Bristol City,€1.5M,€5K,2020 ~ 2025,['ST']
+C. Webster,18,Chelsea,€650K,€5K,2021 ~ 2024,"['CM', 'CDM', 'CAM']"
+A. Nagalo,19,Nordsjælland,€2.7M,€3K,2021 ~ 2023,['CB']
+D. Reid,17,St. Mirren,€450K,€500,2021 ~ 2023,['CM']
+T. Bloxham,18,Shrewsbury Town,€825K,€900,2021 ~ 2025,['ST']
+A. Jasic,19,Wolfsberger AC,€2.3M,€3K,2021 ~ 2025,"['RB', 'RWB', 'LWB']"
+Álex Cardero,18,Real Oviedo,€1.1M,€800,2020 ~ 2023,"['CM', 'CAM']"
+Carlos Domínguez,21,Celta de Vigo,€3.3M,€8K,2020 ~ 2026,['CB']
+Y. Kallon,21,Hellas Verona,€3.6M,€3K,"Jun 30, 2023 On Loan","['CF', 'RM', 'RW']"
+J. Le Cardinal,24,Lens,€1.7M,€10K,2022 ~ 2025,"['RB', 'CB']"
+G. Sangaré,25,Quevilly Rouen,€1.4M,€2K,2018 ~ 2023,"['CDM', 'CM']"
+Miguel Crespo,25,Fenerbahçe,€7.5M,€51K,2021 ~ 2024,"['CM', 'CDM']"
+Daniel Figueira,23,Estoril,€5M,€5K,2019 ~ 2025,['GK']
+S. El Karouani,21,NEC,€2.6M,€3K,2019 ~ 2023,['LB']
+K. Karataş,19,Galatasaray,€1.5M,€7K,2022 ~ 2027,"['LB', 'LM']"
+Fabio Blanco,18,FC Barcelona,€1.1M,€8K,2022 ~ 2024,['RW']
+L. Münst,20,St. Gallen,€775K,€3K,"Jun 30, 2023 On Loan","['CM', 'CAM']"
+F. Stevanović,19,Santa Clara,€1.2M,€11K,"Jun 30, 2023 On Loan","['LM', 'LW', 'RM']"
+L. Coulibaly,19,Nordsjælland,€1.4M,€2K,2021 ~ 2023,"['RW', 'ST']"
+Gui Guedes,20,Almería,€1.7M,€5K,2022 ~ 2028,['CM']
+Miguel Maga,19,Vitória SC,€2.1M,€2K,2020 ~ 2025,"['RB', 'RWB']"
+Gilson Tavares,20,Estoril,€1.9M,€2K,2021 ~ 2024,"['CF', 'ST']"
+Diogo Monteiro,17,Servette,€325K,€500,2020 ~ 2023,['CB']
+Y. Konoplia,22,Shakhtar Donetsk,€2.6M,€500,2019 ~ 2026,"['RB', 'RWB']"
+B. Locko,20,Reims,€3.9M,€10K,2020 ~ 2023,"['LB', 'LWB', 'LM']"
+E. Cashin,20,Derby County,€2.5M,€2K,2018 ~ 2024,['CB']
+Alberto Moreno,20,Atlético Madrid,€1.3M,€7K,2021 ~ 2023,['CM']
+J. Rak-Sakyi,19,Charlton Athletic,€1.7M,€8K,"Jun 30, 2023 On Loan",['RW']
+Carmona,20,Sevilla,€2.3M,€6K,2020 ~ 2025,"['RB', 'CB']"
+Ureña,19,Girona,€2.2M,€5K,2021 ~ 2025,"['RM', 'LM']"
+Daniel Penha,23,Daegu,€3.2M,€5K,2022 ~ 2022,"['CAM', 'CM', 'LW']"
+J. McAtee,19,Sheffield United,€1.7M,€13K,"Jun 30, 2023 On Loan",['CAM']
+A. Bencze,20,Vitória SC,€925K,€950,2020 ~ 2025,['GK']
+K. Peprah,21,Orlando Pirates,€2.7M,€500,2021 ~ 2024,"['ST', 'LW']"
+M. Ellertsson,20,Spezia,€1.5M,€3K,2021 ~ 2026,"['RM', 'RW']"
+M. Çuni,20,Saarbrücken,€1.3M,€2K,2020 ~ 2024,['ST']
+B. Barcola,19,Olympique Lyonnais,€2M,€10K,2020 ~ 2026,"['LW', 'ST']"
+22 A. Zakharyan,18,,€0,€0,Free,"['LW', 'RW', 'CM']"
+Z. El Sheiwi,18,Austria Wien,€600K,€800,2021 ~ 2026,"['LWB', 'LB']"
+B. Ince,18,DSC Arminia Bielefeld,€1M,€1K,2022 ~ 2025,['CAM']
+A. Tibidi,18,Rheindorf Altach,€2.4M,€3K,"Jun 30, 2023 On Loan","['LM', 'CAM', 'CF']"
+Saúl Coco,23,Las Palmas,€2.9M,€4K,2020 ~ 2025,['CB']
+Tomás Araújo,20,Gil Vicente,€2.5M,€3K,"Jun 30, 2023 On Loan",['CB']
+E. İlkhan,18,Torino,€1.5M,€3K,2022 ~ 2026,"['CM', 'RW', 'CAM']"
+J. Rowe,19,Norwich City,€1.7M,€6K,2021 ~ 2025,"['LM', 'RM']"
+C. Wiley,17,Atlanta United,€675K,€500,2022 ~ 2025,"['LWB', 'LM']"
+D. Seck,21,Torino,€1.2M,€7K,2022 ~ 2026,"['RW', 'CF', 'LW']"
+A. Dony,18,Union Saint-Gilloise,€550K,€700,2022 ~ 2025,"['LWB', 'LB', 'LM']"
+N. Allen,18,Inter Miami,€350K,€500,2022 ~ 2022,"['LB', 'LWB']"
+K. Andrade,17,Deportivo La Guaira,€1.5M,€500,2021 ~ 2024,"['CAM', 'RM', 'CM']"
+R. Shein,18,FC Utrecht,€1.4M,€1K,2022 ~ 2025,"['CM', 'CDM']"
+J. Perea,22,VfB Stuttgart,€2.7M,€9K,2022 ~ 2026,"['ST', 'RW']"
+A. Tapsoba,20,Standard Liège,€2.3M,€5K,2020 ~ 2025,"['ST', 'CAM']"
+I. Franco,22,Houston Dynamo,€3.2M,€4K,2018 ~ 2023,"['CF', 'RM']"
+M. Viña,24,Roma,€6.5M,€39K,2021 ~ 2026,"['LWB', 'LM', 'CB']"
+T. Mengi,20,Manchester United,€2.1M,€19K,2019 ~ 2024,['CB']
+N. Tauer,21,Schalke 04,€2.5M,€7K,"Jun 30, 2024 On Loan","['CB', 'CDM']"
+J. Cain,20,Liverpool,€875K,€11K,2018 ~ 2023,"['CM', 'CDM']"
+L. Campana,22,Inter Miami,€2.5M,€4K,2022 ~ 2023,['ST']
+Apuia,21,Mumbai City,€850K,€500,2021 ~ 2026,"['CDM', 'CM']"
+T. Doyle,20,Sheffield United,€2.1M,€20K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+C. Drameh,20,Leeds United,€2.5M,€10K,2020 ~ 2024,"['RWB', 'RB']"
+B. Koumetio,19,Austria Wien,€1.1M,€8K,"Jun 30, 2023 On Loan",['CB']
+K. Baah,19,Fortuna Düsseldorf,€625K,€4K,"Jun 30, 2023 On Loan","['LM', 'RM']"
+N. Ünüvar,19,Trabzonspor,€2.6M,€4K,"May 31, 2023 On Loan","['LW', 'CAM']"
+R. Königsdörffer,20,Hamburger SV,€3.1M,€6K,2022 ~ 2026,"['RW', 'ST']"
+L. Badé,22,Sevilla,€6.5M,€26K,"Jun 30, 2023 On Loan",['CB']
+Pablo Gozálbez,21,Valencia,€1.9M,€7K,2019 ~ 2023,"['CAM', 'CM']"
+Joelson Fernandes,19,Basel,€2.9M,€3K,"Jun 30, 2023 On Loan","['RM', 'LM']"
+J. Sosa,20,Bologna,€2.5M,€8K,2022 ~ 2027,"['CB', 'LB']"
+E. Touré,20,Almería,€3.5M,€12K,2022 ~ 2028,"['ST', 'LW']"
+J. Shcherbakovski,21,Dynamo Dresden,€1.1M,€2K,2022 ~ 2025,"['CAM', 'RM', 'CM']"
+S. Kawasaki,21,Portimonense,€1.2M,€2K,2021 ~ 2026,"['LW', 'CF']"
+M. Nawrocki,21,Legia Warszawa,€2.1M,€2K,2022 ~ 2025,['CB']
+J. Onana,22,Lens,€6M,€21K,2022 ~ 2027,"['CM', 'CDM']"
+M. Ramírez,21,Independiente del Valle,€6M,€500,2018 ~ 2023,['GK']
+E. Longelo,21,Birmingham City,€1.3M,€9K,"Jun 30, 2023 On Loan","['LWB', 'LB']"
+Ö. Beyaz,18,VfB Stuttgart,€1.4M,€2K,2021 ~ 2025,"['CAM', 'CM']"
+P. Abraham,19,FC Groningen,€2M,€2K,2021 ~ 2026,"['LM', 'ST']"
+Francho Serrano,20,Real Zaragoza,€2.4M,€3K,2020 ~ 2025,"['CM', 'CDM', 'RM']"
+J. Rojas,20,Colo-Colo,€1.3M,€1K,2020 ~ 2022,"['RB', 'CB']"
+W. Omari,22,Rennes,€10.5M,€30K,2019 ~ 2026,['CB']
+A. Pantea,18,FCSB,€1.9M,€1K,2020 ~ 2023,"['RB', 'LB']"
+Erik,21,Al Ain,€3.4M,€500,2020 ~ 2025,"['LB', 'LM']"
+M. Balikwisha,21,Antwerp,€9.5M,€14K,2021 ~ 2026,"['LM', 'ST']"
+O. Vilhelmsson,18,Darmstadt 98,€1.1M,€2K,2022 ~ 2026,['ST']
+L. Pirola,20,Salernitana,€2.7M,€14K,"Jun 30, 2023 On Loan",['CB']
+R. Colwill,20,Cardiff City,€2.5M,€9K,2020 ~ 2023,"['CAM', 'RW', 'LW']"
+R. Calafiori,20,Basel,€2.8M,€5K,2022 ~ 2025,"['LB', 'LM', 'LWB']"
+G. Frabotta,23,Frosinone,€2.7M,€29K,"Jun 30, 2023 On Loan",['LB']
+D. Ndoye,21,Basel,€3.1M,€7K,2022 ~ 2026,"['RM', 'ST']"
+B. Arrey-Mbi,19,Hannover 96,€1.4M,€5K,"Jun 30, 2023 On Loan",['CB']
+F. Jörgensen,20,Villarreal,€2.1M,€5K,2020 ~ 2025,['GK']
+B. Verbruggen,19,Anderlecht,€1.9M,€2K,2020 ~ 2025,['GK']
+M. Braunöder,20,Austria Wien,€2.1M,€5K,2020 ~ 2025,"['CM', 'CDM']"
+A. Odubeko,19,Port Vale,€775K,€6K,"Jun 30, 2023 On Loan",['ST']
+J. Muleka,22,Beşiktaş,€4.8M,€31K,2022 ~ 2027,"['ST', 'RW', 'LW']"
+Gabri Veiga,20,Celta de Vigo,€2.5M,€6K,2019 ~ 2026,"['CAM', 'CM']"
+Zé Carlos,23,UD Ibiza,€3M,€7K,"Jun 30, 2023 On Loan",['RB']
+Luiz Júnior,21,Famalicão,€4.6M,€4K,2019 ~ 2027,['GK']
+I. Touré,19,Auxerre,€2.7M,€7K,"Jun 30, 2023 On Loan",['CB']
+S. Sow,19,Saint-Étienne,€3.2M,€3K,2020 ~ 2026,['CB']
+D. Lopy,20,Reims,€4.1M,€11K,2020 ~ 2023,"['CM', 'CDM']"
+M. Al-Tamari,25,OH Leuven,€2.1M,€8K,2020 ~ 2023,"['RM', 'RWB']"
+T. Suengchitthawon,22,Leicester City,€500K,€9K,2020 ~ 2023,['CAM']
+M. Portanova,22,Genoa,€3.6M,€3K,2021 ~ 2025,"['CM', 'CAM']"
+E. Gedikli,19,Trabzonspor,€775K,€4K,2022 ~ 2026,['ST']
+J. Ideho,18,Arsenal,€750K,€4K,2020 ~ 2025,"['LM', 'RM', 'CF']"
+Nico Serrano,19,Mirandés,€3.4M,€8K,"Jun 30, 2023 On Loan","['LM', 'CAM', 'RM']"
+Iván Azón,19,Real Zaragoza,€3.3M,€4K,2020 ~ 2025,['ST']
+N. Castro,21,Genk,€3.1M,€6K,2022 ~ 2027,"['CAM', 'CM']"
+S. Janneh,22,Cambridge United,€500K,€1K,2022 ~ 2024,['ST']
+K. Furuhashi,27,Celtic,€6M,€50K,2021 ~ 2025,['ST']
+B. Waine,21,Plymouth Argyle,€1.8M,€3K,2023 ~ 2025,['ST']
+M. Palacios,20,Al Ain,€2.5M,€500,2022 ~ 2026,"['CAM', 'CM']"
+K. Ramsay,21,Harrogate Town,€850K,€1K,2022 ~ 2024,"['RWB', 'RB']"
+D. Maeda,24,Celtic,€3.8M,€38K,2022 ~ 2026,"['LW', 'ST']"
+F. Hartmann,21,Sligo Rovers,€550K,€6K,"Jun 30, 2023 On Loan","['ST', 'LM']"
+R. Sottil,23,Fiorentina,€11.5M,€44K,2018 ~ 2026,"['LW', 'RW']"
+M. Daramy,20,København,€3.4M,€6K,"Jun 30, 2023 On Loan",['LW']
+A. Urzi,22,Banfield,€5.5M,€10K,2018 ~ 2024,"['LM', 'LW']"
+B. Diakité,21,Lille,€4M,€13K,2022 ~ 2026,"['RB', 'LB', 'CB']"
+S. Abdulhamid,22,Al Hilal,€4.6M,€23K,2022 ~ 2025,"['RB', 'CB', 'CDM']"
+Carlos Neva,26,Granada,€5M,€10K,2017 ~ 2025,"['LB', 'LM']"
+M. Sykes,24,Bristol City,€1.5M,€11K,2022 ~ 2025,"['RWB', 'RW', 'CM']"
+I. Coulibaly,21,Sheffield United,€2.7M,€9K,2020 ~ 2023,"['CM', 'CDM']"
+A. Schäfer,23,FC Union Berlin,€4.7M,€18K,2022 ~ 2025,"['CM', 'CDM']"
+D. Sikan,21,Shakhtar Donetsk,€1.8M,€500,2018 ~ 2023,['ST']
+J. Piroe,22,Swansea City,€6M,€22K,2021 ~ 2024,"['ST', 'RW']"
+C. Cowell,18,SJ Earthquakes,€2.4M,€1K,2019 ~ 2025,"['LM', 'ST', 'RM']"
+22 W. Isidor,20,Lokomotiv Moskva,€2.3M,€12K,2022 ~ 2026,"['ST', 'LM']"
+M. Freese,23,Philadelphia Union,€1.2M,€1K,2018 ~ 2022,['GK']
+B. Teixeira,21,Sturm Graz,€3.1M,€8K,2023 ~ 2026,"['LM', 'CAM']"
+M. Smith,21,Arsenal,€1.3M,€11K,2019 ~ 2023,"['CM', 'CDM']"
+D. Olaru,24,FCSB,€3.7M,€11K,2020 ~ 2024,"['CM', 'CAM', 'RW']"
+V. Mihăilă,22,Parma,€3.8M,€4K,2020 ~ 2025,"['LM', 'LW']"
+N. Boujellab,23,Schalke 04,€2M,€7K,2018 ~ 2023,"['CAM', 'CF', 'CM']"
+R. Piccoli,21,Hellas Verona,€3.2M,€16K,"Jun 30, 2023 On Loan",['ST']
+Gustavo Assunção,22,Famalicão,€3M,€5K,2019 ~ 2025,"['CDM', 'CM']"
+P. Gozzi,21,Cosenza,€1.1M,€750,"Jun 30, 2023 On Loan","['LB', 'CB']"
+D. Ramaj,20,Eintracht Frankfurt,€1.2M,€3K,2021 ~ 2027,['GK']
+J. Hill,20,Hearts,€1.3M,€7K,"Jun 30, 2023 On Loan",['CB']
+A. Zagré,20,FC Utrecht,€1.5M,€7K,"Jun 30, 2023 On Loan",['LB']
+J. Mellot,28,Tenerife,€1.4M,€6K,2021 ~ 2023,"['RB', 'LB']"
+Sergio Camello,21,Rayo Vallecano,€7M,€29K,"Jun 30, 2023 On Loan",['ST']
+B. Özdemir,24,Al Ittifaq,€3.3M,€18K,2022 ~ 2025,"['CM', 'CDM']"
+R. Longman,21,Hull City,€2.3M,€5K,2022 ~ 2025,"['LW', 'RW', 'ST']"
+F. Alves,22,Brøndby,€825K,€2K,2022 ~ 2026,['CB']
+T. Holeš,29,Slavia Praha,€12M,€1K,2019 ~ 2026,"['CDM', 'CB']"
+F. Kastenmeier,25,Fortuna Düsseldorf,€1.5M,€8K,2019 ~ 2024,['GK']
+M. Aké,21,Juventus,€3.2M,€36K,2021 ~ 2025,['LW']
+Nuno Santos,23,Charlotte,€8.5M,€7K,2022 ~ 2024,['CM']
+Z. Sanusi,25,Porto,€9M,€12K,2020 ~ 2027,['LB']
+Francisco Moura,22,Famalicão,€3.1M,€6K,"Jun 30, 2023 On Loan","['LM', 'LB']"
+Douglas Augusto,25,PAOK,€4M,€1K,2019 ~ 2026,"['CM', 'CAM', 'CDM']"
+O. Villadsen,20,Nordsjælland,€2.9M,€4K,2019 ~ 2024,"['RB', 'RWB']"
+A. Colpani,23,Monza,€6M,€31K,2022 ~ 2026,"['CM', 'CAM']"
+Luquinha,21,Portimonense,€3.6M,€4K,2019 ~ 2024,"['CAM', 'CM', 'RM']"
+K. Koindredi,20,Real Oviedo,€2.9M,€9K,"Jun 30, 2023 On Loan",['CM']
+A. Ueda,23,Cercle Brugge,€2.4M,€8K,2022 ~ 2026,"['ST', 'CAM']"
+M. Rosołek,20,Legia Warszawa,€1.6M,€2K,2019 ~ 2025,"['ST', 'CF', 'LM']"
+L. González,22,Independiente,€2.8M,€6K,2016 ~ 2023,"['CM', 'CDM']"
+Riquelme,22,Girona,€9.5M,€34K,"Jun 30, 2023 On Loan","['CAM', 'LM']"
+D. Bouah,20,Reggina,€130K,€500,2022 ~ 2025,['RB']
+Matchoi Djaló,19,Paços de Ferreira,€3.3M,€4K,2019 ~ 2024,"['RW', 'LW', 'CAM']"
+M. Whittaker,21,Plymouth Argyle,€1.6M,€6K,"Jun 30, 2023 On Loan","['RW', 'RM']"
+Nico Melamed,21,Espanyol,€7M,€11K,2019 ~ 2024,"['LM', 'CAM', 'RM']"
+Iker Losada,20,Celta de Vigo,€3.1M,€9K,2019 ~ 2023,"['ST', 'RM']"
+C. Ramsay,18,Liverpool,€1.4M,€5K,2022 ~ 2027,"['RB', 'RWB']"
+Borja Sainz,21,Giresunspor,€2.7M,€5K,2022 ~ 2025,"['LM', 'RM']"
+L. Ivanušec,23,Dinamo Zagreb,€8.5M,€800,2019 ~ 2026,"['CAM', 'CM', 'RM']"
+Brenner,22,Cincinnati,€3.6M,€5K,2021 ~ 2022,['ST']
+R. Porteous,23,Hibernian,€2.2M,€4K,2016 ~ 2023,['CB']
+C. Tilt,30,Wigan Athletic,€825K,€4K,2022 ~ 2023,['CB']
+Ander Guevara,24,Real Sociedad,€11.5M,€26K,2017 ~ 2024,['CM']
+L. Gibson,21,Bristol Rovers,€1.2M,€6K,"Jun 30, 2023 On Loan",['CB']
+Carles Pérez,24,Celta de Vigo,€8M,€47K,"Jun 30, 2023 On Loan","['ST', 'CF', 'RM']"
+M. Olivera,24,Napoli,€15M,€37K,2022 ~ 2027,"['LB', 'LWB']"
+T. Campbell,22,Stoke City,€2.2M,€13K,2017 ~ 2024,"['ST', 'RM', 'RW']"
+N. Phillips,25,Liverpool,€3.6M,€57K,2017 ~ 2025,['CB']
+M. Payero,23,Boca Juniors,€3.7M,€16K,"Jun 30, 2023 On Loan",['CM']
+J. Ardaiz,23,Luzern,€1.1M,€4K,2022 ~ 2025,"['ST', 'RW', 'LW']"
+M. Carabajal,25,Independiente del Valle,€3.1M,€750,2021 ~ 2025,"['CB', 'RB', 'CDM']"
+A. Obispo,23,PSV,€8M,€13K,2017 ~ 2025,['CB']
+L. Foster,21,Westerlo,€2.1M,€4K,2022 ~ 2026,"['ST', 'RW']"
+M. Bird,21,Derby County,€2.3M,€2K,2017 ~ 2024,"['CDM', 'CM']"
+P. Pfeiffer,22,Darmstadt 98,€4.2M,€13K,2019 ~ 2023,['CB']
+P. Gueye,23,Olympique Marseille,€7M,€26K,2020 ~ 2024,"['CDM', 'CM']"
+M. Bayo,24,Lille,€8.5M,€28K,2022 ~ 2027,['ST']
+S. Barreto,23,Independiente,€6M,€11K,2017 ~ 2023,['CB']
+C. Führich,24,VfB Stuttgart,€6M,€19K,2021 ~ 2025,"['CAM', 'RM', 'ST']"
+S. Nsoki,23,TSG Hoffenheim,€4.4M,€20K,2022 ~ 2027,"['CB', 'LWB']"
+M. McKenzie,23,Genk,€5.5M,€11K,2021 ~ 2025,['CB']
+E. Kayembe,24,Watford,€3.9M,€21K,2022 ~ 2026,"['CDM', 'CM']"
+I. Ivušić,27,,€0,€0,Free,['GK']
+A. Traoré,21,Frosinone,€375K,€500,2022 ~ 2023,['CM']
+S. Ambrosius,23,Karlsruher SC,€2M,€6K,"Jun 30, 2023 On Loan",['CB']
+J. Ponceau,21,Lorient,€2.7M,€6K,2018 ~ 2025,"['CM', 'CAM', 'CDM']"
+I. Louza,23,Watford,€6.5M,€32K,2021 ~ 2026,"['CM', 'CDM']"
+E. Alvarez,20,LA Galaxy,€1.6M,€2K,2018 ~ 2023,"['RM', 'CAM', 'RW']"
+K. Nakamura,21,LASK Linz,€3.2M,€11K,2021 ~ 2025,"['LM', 'LW']"
+T. Băluță,23,SSC Farul,€2.4M,€6K,2022 ~ 2024,"['CDM', 'CM']"
+W. Dennis,21,AFC Bournemouth,€400K,€3K,2018 ~ 2023,['GK']
+L. Pellegrini,23,Eintracht Frankfurt,€10M,€61K,"Jun 30, 2023 On Loan",['LWB']
+K. Agudelo,23,Spezia,€3.7M,€12K,2022 ~ 2026,"['CAM', 'CM']"
+M. Müldür,23,Sassuolo,€2.8M,€15K,2019 ~ 2024,['RB']
+De Frutos,25,Levante,€10M,€13K,2020 ~ 2025,"['RM', 'LM']"
+R. Giles,22,Middlesbrough,€3.6M,€33K,"Jun 30, 2023 On Loan","['LWB', 'LW', 'LB']"
+D. Burgzorg,23,FSV Mainz 05,€2.1M,€12K,2022 ~ 2025,"['ST', 'LW']"
+A. Bayındır,24,Fenerbahçe,€16M,€39K,2019 ~ 2023,['GK']
+D. Kyereh,26,SC Freiburg,€7.5M,€26K,2022 ~ 2023,"['CAM', 'ST']"
+U. Račić,24,Sporting Braga,€8M,€26K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+A. Idah,21,Norwich City,€2.1M,€12K,2018 ~ 2024,['ST']
+Gonzalo Villar,24,Sampdoria,€3.7M,€32K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+J. Bogle,21,Sheffield United,€6.5M,€15K,2020 ~ 2024,"['RWB', 'RB']"
+Vinícius,27,Fulham,€9M,€55K,2022 ~ 2025,['ST']
+P. Musa,24,Benfica,€8.5M,€12K,2022 ~ 2027,['ST']
+K. Sowah,22,Club Brugge,€6M,€19K,2021 ~ 2025,"['CF', 'CAM', 'ST']"
+F. Ranocchia,21,Monza,€3.4M,€27K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+M. Pellegrini,22,New York City,€3.1M,€4K,2022 ~ 2022,"['LM', 'RM']"
+B. Lederman,22,Raków Częstochowa,€2.3M,€4K,2020 ~ 2024,"['CM', 'CF']"
+Zhu Chenjie,21,Shanghai Shenhua,€1.7M,€2K,2018 ~ 2022,['CB']
+N. Wood,20,Swansea City,€1.4M,€4K,2022 ~ 2024,['CB']
+J. Žambůrek,21,Viborg,€725K,€2K,2022 ~ 2025,"['CM', 'RW']"
+G. Yalçın,23,Genoa,€3.2M,€3K,2022 ~ 2022,"['ST', 'RM', 'LM']"
+F. Colidio,22,Tigre,€5.5M,€32K,"Dec 31, 2022 On Loan","['CAM', 'ST', 'LM']"
+D. Ignatenko,25,Bordeaux,€2.3M,€5K,2022 ~ 2023,"['CM', 'CDM']"
+S. Janneh,22,Cambridge United,€500K,€1K,2022 ~ 2024,['ST']
+K. Furuhashi,27,Celtic,€6M,€50K,2021 ~ 2025,['ST']
+B. Waine,21,Plymouth Argyle,€1.8M,€3K,2023 ~ 2025,['ST']
+M. Palacios,20,Al Ain,€2.5M,€500,2022 ~ 2026,"['CAM', 'CM']"
+Ronaldo Vieira,23,Sampdoria,€2.6M,€10K,2018 ~ 2023,"['CDM', 'CM']"
+Y. Herrera,24,Girona,€10.5M,€80K,"Jun 30, 2023 On Loan","['CM', 'CDM', 'CAM']"
+Dany Mota,24,Monza,€6.5M,€37K,2020 ~ 2024,['ST']
+L. Lingman,24,,€0,€0,Free,"['CM', 'CAM']"
+M. Maolida,23,Hertha BSC,€2.8M,€16K,2021 ~ 2025,"['LM', 'ST']"
+Marcão,26,Sevilla,€21.5M,€29K,2022 ~ 2027,['CB']
+Diogo Leite,23,FC Union Berlin,€10.5M,€10K,"Jun 30, 2023 On Loan",['CB']
+B. Jatta,24,Hamburger SV,€2.4M,€10K,2016 ~ 2024,"['RW', 'RM', 'LW']"
+Toni Martínez,25,Porto,€8.5M,€14K,2020 ~ 2025,['ST']
+F. Jensen,24,FC Augsburg,€2.4M,€13K,2018 ~ 2023,"['CAM', 'RM', 'LM']"
+D. Liénard,34,Strasbourg,€1.5M,€20K,2013 ~ 2023,"['LWB', 'CM']"
+P. Rosario,25,Nice,€9.5M,€33K,2021 ~ 2025,"['CDM', 'CM', 'CB']"
+Rafa Mújica,23,Arouca,€2.1M,€3K,2022 ~ 2023,"['ST', 'RM', 'LM']"
+D. Bronn,27,Salernitana,€2.5M,€17K,2022 ~ 2025,"['CB', 'RB']"
+Y. Diouf,22,Reims,€3.1M,€10K,2019 ~ 2023,['GK']
+B. Thomas-Asante,23,West Bromwich Albion,€1.1M,€8K,2022 ~ 2025,"['RW', 'ST']"
+A. Pinamonti,23,Sassuolo,€8.5M,€28K,2022 ~ 2027,['ST']
+O. Ejaria,24,Reading,€2.2M,€10K,2020 ~ 2024,"['LM', 'CM', 'CAM']"
+Y. Valery,23,Angers SCO,€3.4M,€10K,2022 ~ 2026,"['RB', 'RWB']"
+A. Claude-Maurice,24,Lens,€4.1M,€27K,"Jun 30, 2023 On Loan","['CM', 'LM', 'LW']"
+Álvaro,24,Espanyol,€3.5M,€6K,"Jun 30, 2023 On Loan",['GK']
+S. Alzate,23,Standard Liège,€3.7M,€31K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+M. Hongla,24,Hellas Verona,€2.9M,€15K,2022 ~ 2026,"['CM', 'CDM']"
+A. Caci,25,FSV Mainz 05,€7.5M,€22K,2022 ~ 2026,"['LWB', 'LB', 'CB']"
+J. Brown,24,Stoke City,€2.4M,€15K,2020 ~ 2023,"['ST', 'RM', 'RWB']"
+L. Fomba,24,Nîmes,€4.4M,€5K,2019 ~ 2023,"['CDM', 'CM']"
+J. Torres,22,Chicago Fire,€1.9M,€2K,2022 ~ 2025,"['CM', 'RM', 'LM']"
+B. Vazquez,23,Cincinnati,€3.2M,€5K,2019 ~ 2022,['ST']
+A. Dreyer,24,Midtjylland,€6.5M,€23K,2022 ~ 2026,"['RW', 'ST']"
+M. Wilks,23,Sheffield Wednesday,€1.6M,€5K,2022 ~ 2025,"['ST', 'RM', 'LM']"
+J. Torunarigha,24,Gent,€4.2M,€14K,2022 ~ 2025,"['CB', 'LB']"
+S. Birindelli,22,Monza,€6.5M,€30K,2022 ~ 2026,"['RWB', 'RM', 'RB']"
+L. Blessing,25,New England,€1.9M,€5K,2023 ~ 2024,"['CM', 'RB']"
+R. Williams,23,Doncaster Rovers,€650K,€3K,2021 ~ 2023,['CB']
+Eric Curbelo,28,Las Palmas,€5.5M,€10K,2019 ~ 2024,"['CB', 'RB']"
+M. Camara,25,Roma,€11M,€50K,2018 ~ 2024,"['CM', 'CDM']"
+S. Bueno,23,Girona,€6.5M,€16K,2019 ~ 2024,['CB']
+W. Smallbone,22,Stoke City,€2.3M,€14K,"Jun 30, 2023 On Loan","['CM', 'CAM', 'RM']"
+Mama Baldé,26,Troyes,€6.5M,€20K,2021 ~ 2025,"['ST', 'RM', 'LM']"
+M. Roerslev,23,Brentford,€2.1M,€16K,2019 ~ 2024,"['RWB', 'RB', 'CB']"
+J. Marković,21,Universitatea Craiova,€2.7M,€6K,2017 ~ 2023,['ST']
+F. Coman,24,FCSB,€1.8M,€7K,2017 ~ 2023,"['LW', 'ST']"
+Rodrigo Becão,26,Udinese,€6.5M,€15K,2019 ~ 2024,['CB']
+E. Pinnock,29,Brentford,€6.5M,€42K,2019 ~ 2025,['CB']
+Conrado,25,Lechia Gdańsk,€1M,€3K,2020 ~ 2024,"['LB', 'LM']"
+E. Demirović,24,FC Augsburg,€6.5M,€23K,2022 ~ 2026,"['ST', 'LM']"
+R. Harper,22,Exeter City,€600K,€2K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+E. Dennis,24,Nottingham Forest,€11M,€52K,2022 ~ 2026,"['ST', 'LW', 'RW']"
+Abel Ruiz,22,Sporting Braga,€9.5M,€13K,2020 ~ 2025,['ST']
+A. Pululu,23,SpVgg Greuther Fürth,€2.4M,€4K,2022 ~ 2024,"['LM', 'ST']"
+A. Gravillon,24,Reims,€5.5M,€16K,2021 ~ 2025,"['CB', 'RB']"
+G. Nyamsi,25,Strasbourg,€7M,€21K,2021 ~ 2025,['CB']
+W. Kanga,24,Hertha BSC,€2.5M,€15K,2022 ~ 2026,['ST']
+M. Pessina,25,Monza,€18.5M,€46K,"Jun 30, 2023 On Loan","['CAM', 'CM', 'CF']"
+S. Żurkowski,24,Fiorentina,€11.5M,€40K,2019 ~ 2024,['CM']
+M. Antonucci,23,Cittadella,€2M,€1K,2021 ~ 2024,"['CAM', 'CF']"
+A. Madibo,25,,€0,€0,Free,"['CDM', 'CM']"
+B. Toma,23,Paços de Ferreira,€2.7M,€6K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+Brenner,22,Cincinnati,€3.6M,€5K,2021 ~ 2022,['ST']
+R. Porteous,23,Hibernian,€2.2M,€4K,2016 ~ 2023,['CB']
+J. Omlin,28,Montpellier,€15M,€23K,2020 ~ 2024,['GK']
+T. Baumgartl,26,FC Union Berlin,€8.5M,€16K,"Jun 30, 2023 On Loan",['CB']
+V. Rongier,27,Olympique Marseille,€15M,€40K,2019 ~ 2026,"['CM', 'CDM']"
+David Soria,29,Getafe,€21M,€32K,2018 ~ 2023,['GK']
+22 Manu García,23,Deportivo Alavés,€6M,€8K,"Jun 30, 2022 On Loan","['CAM', 'LM']"
+K. Toko Ekambi,29,Olympique Lyonnais,€10.5M,€63K,2020 ~ 2024,"['LW', 'LM']"
+J. Bowen,25,West Ham United,€25M,€73K,2020 ~ 2025,['RM']
+M. Wittek,26,Vitesse,€4.5M,€14K,2020 ~ 2024,"['LB', 'LM']"
+E. Boateng,26,Rio Ave,€5.5M,€10K,2022 ~ 2024,"['ST', 'LM']"
+J. Bamba,26,Lille,€9M,€30K,2018 ~ 2023,['LM']
+A. Masina,28,Udinese,€3.8M,€15K,2022 ~ 2025,"['LWB', 'LM', 'LB']"
+C. Hamilton,27,Blackpool,€1.1M,€5K,2020 ~ 2023,"['LM', 'RM', 'RW']"
+C. Willock,24,Queens Park Rangers,€6.5M,€29K,2020 ~ 2023,"['LW', 'ST', 'CAM']"
+M. Araujo,27,FC Emmen,€1.3M,€4K,2019 ~ 2024,['CB']
+E. Buendía,25,Aston Villa,€25M,€84K,2021 ~ 2026,"['RM', 'RW', 'CAM']"
+S. Hakšabanović,23,Celtic,€5M,€33K,2022 ~ 2027,['LW']
+Pablo Fornals,26,West Ham United,€20.5M,€72K,2019 ~ 2024,"['LM', 'CAM']"
+J. Jankto,26,Sparta Praha,€3.6M,€950,2021 ~ 2026,"['LM', 'CM', 'RM']"
+Daniel Podence,26,Wolverhampton Wanderers,€11.5M,€77K,2020 ~ 2024,"['LW', 'ST', 'CAM']"
+F. Sotoca,31,Lens,€6.5M,€33K,2019 ~ 2024,['ST']
+L. Tousart,25,Hertha BSC,€12.5M,€27K,2020 ~ 2025,"['CDM', 'CM']"
+F. Altamirano,26,Banfield,€3.3M,€10K,2017 ~ 2022,['GK']
+M. Romero,23,Racing Club,€2.5M,€9K,"Dec 31, 2023 On Loan","['ST', 'LW']"
+J. Cullen,26,Burnley,€6.5M,€36K,2022 ~ 2025,"['CDM', 'CM']"
+C. Carter-Vickers,24,Celtic,€7.5M,€36K,2022 ~ 2026,['CB']
+T. Deng,25,,€0,€0,Free,['CB']
+E. Audero,25,Sampdoria,€14.5M,€16K,2019 ~ 2026,['GK']
+G. Holtmann,27,VfL Bochum 1848,€2.5M,€18K,2020 ~ 2025,"['LM', 'LW', 'RW']"
+Ó. Estupiñán,25,Hull City,€4.1M,€16K,2022 ~ 2025,['ST']
+L. García,24,AEK Athens,€14.5M,€1K,2020 ~ 2025,"['RW', 'ST']"
+S. Gartenmann,25,Midtjylland,€1.7M,€11K,2022 ~ 2025,['CB']
+A. Ćorić,25,Roma,€1.8M,€23K,2018 ~ 2023,"['CAM', 'CM']"
+G. Pereiro,27,Cagliari,€2.7M,€4K,2020 ~ 2025,"['CAM', 'CF']"
+M. Pedersen,25,FC Augsburg,€2.2M,€16K,2019 ~ 2024,"['LM', 'LB']"
+A. Lunev,30,Bayer 04 Leverkusen,€3.7M,€31K,2021 ~ 2023,['GK']
+K. Knoyle,25,Doncaster Rovers,€575K,€4K,2021 ~ 2023,"['RB', 'CB']"
+S. Serdar,25,Hertha BSC,€14.5M,€30K,2021 ~ 2026,"['CM', 'CDM', 'CAM']"
+Melvin Parrela,22,Bragantino,€18.5M,€17K,2022 ~ 2025,['CDM']
+Hediselton,22,Bragantino,€15M,€16K,2022 ~ 2025,"['RB', 'RM', 'CM']"
+A. Diawara,24,Anderlecht,€3.8M,€14K,2022 ~ 2025,"['CDM', 'CM']"
+J. Worrall,25,Nottingham Forest,€5.5M,€42K,2015 ~ 2024,['CB']
+C. Bassogog,26,Shanghai Shenhua,€4.7M,€14K,2021 ~ 2023,"['ST', 'RM', 'RW']"
+J. Lewis,24,Newcastle United,€2.5M,€35K,2020 ~ 2025,"['LB', 'LWB']"
+A. Arslan,28,Dynamo Dresden,€1.2M,€9K,"Jun 30, 2023 On Loan","['CM', 'CDM', 'CAM']"
+L. Kleinheisler,28,,€0,€0,Free,"['CAM', 'CM']"
+R. Pierre-Gabriel,24,Strasbourg,€4.1M,€17K,"Jun 30, 2023 On Loan","['RB', 'RWB']"
+Y. Karamoh,23,Torino,€4.4M,€31K,2022 ~ 2023,"['LW', 'LM']"
+J. Horn,25,Nürnberg,€2.3M,€14K,"Jun 30, 2023 On Loan","['LB', 'CB']"
+M. Lis,25,Troyes,€2.7M,€24K,"Jun 30, 2023 On Loan",['GK']
+Joaquín,26,Real Valladolid,€7M,€20K,2018 ~ 2023,"['CB', 'CDM']"
+D. Sallói,25,Sporting KC,€3.6M,€8K,2016 ~ 2026,"['LW', 'ST']"
+M. Travers,23,AFC Bournemouth,€3.5M,€22K,2016 ~ 2027,['GK']
+Wesley,25,Levante,€4.1M,€56K,"Jun 30, 2023 On Loan",['ST']
+K. Misao,26,Santa Clara,€2.3M,€5K,2023 ~ 2024,['CDM']
+Kim Dae Won,25,Gangwon,€3.1M,€7K,2021 ~ 2022,"['LW', 'ST', 'RW']"
+T. Dele-Bashiru,22,Watford,€1.6M,€12K,2019 ~ 2024,"['RM', 'CM', 'LM']"
+L. Bolton,22,Salford City,€700K,€3K,2022 ~ 2024,"['RB', 'RWB', 'RM']"
+A. Hadžiahmetović,25,Konyaspor,€3.6M,€13K,2016 ~ 2024,"['CDM', 'CM', 'LM']"
+M. Zajc,28,Fenerbahçe,€5.5M,€56K,2019 ~ 2023,"['CM', 'CAM']"
+A. Ndiaye,25,Mallorca,€3.6M,€20K,2021 ~ 2025,"['LM', 'ST', 'RM']"
+E. Marcondes,27,AFC Bournemouth,€1.7M,€24K,2021 ~ 2024,"['CAM', 'CM']"
+I. Amadou,29,Angers SCO,€2M,€16K,2022 ~ 2023,"['CDM', 'CB', 'CM']"
+André Gomes,28,Lille,€5.5M,€37K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+K. Akpoguma,27,TSG Hoffenheim,€6M,€28K,2013 ~ 2024,"['CB', 'RWB']"
+M. Lowe,25,Sheffield United,€3.2M,€18K,2020 ~ 2024,"['LWB', 'LB']"
+M. Grimes,26,Swansea City,€3.6M,€23K,2015 ~ 2025,"['CM', 'CDM']"
+T. Strakosha,27,Brentford,€9.5M,€35K,2022 ~ 2026,['GK']
+N. Stanciu,29,Wuhan Three Towns,€17M,€26K,2022 ~ 2027,"['CM', 'CAM', 'RM']"
+S. Kerk,28,Hannover 96,€1.6M,€16K,2021 ~ 2023,"['CAM', 'CF', 'LM']"
+José Sá,29,Wolverhampton Wanderers,€20M,€74K,2021 ~ 2026,['GK']
+Diego Llorente,28,Leeds United,€4.8M,€34K,2020 ~ 2026,['CB']
+D. Kinsombi,26,Sandhausen,€2.2M,€6K,2022 ~ 2023,"['CM', 'RM', 'CDM']"
+Rony Lopes,26,Troyes,€6M,€26K,"Jun 30, 2023 On Loan","['RW', 'LW', 'RM']"
+João Mário,29,Benfica,€25.5M,€20K,2021 ~ 2026,"['LM', 'CM']"
+R. Healey,27,Toulouse,€3.3M,€17K,2020 ~ 2023,['ST']
+F. Acheampong,28,Shenzhen,€6M,€14K,2021 ~ 2024,"['ST', 'LW', 'LM']"
+C. Akpom,26,Middlesbrough,€2.8M,€23K,2020 ~ 2023,['ST']
+G. Kamara,26,Rangers,€4.9M,€43K,2019 ~ 2025,"['CM', 'CDM']"
+R. Christie,27,AFC Bournemouth,€4.5M,€42K,2021 ~ 2024,"['RW', 'RM']"
+J. Mojica,29,Villarreal,€9.5M,€30K,2022 ~ 2026,"['LB', 'LWB', 'LM']"
+B. Bourigeaud,28,Rennes,€26M,€66K,2017 ~ 2026,"['RW', 'RM', 'LM']"
+W. Benítez,29,PSV,€17.5M,€19K,2022 ~ 2025,['GK']
+R. Skov,26,TSG Hoffenheim,€6M,€28K,2019 ~ 2024,"['RWB', 'LWB', 'RM']"
+E. Fernandes,26,FSV Mainz 05,€3.3M,€20K,2019 ~ 2026,"['CB', 'CM', 'RWB']"
+M. Miazga,26,Cincinnati,€2.6M,€6K,2022 ~ 2023,['CB']
+M. Sportiello,30,Atalanta,€3.7M,€30K,2012 ~ 2023,['GK']
+S. Widmer,29,FSV Mainz 05,€6.5M,€26K,2021 ~ 2024,"['RWB', 'RB', 'CB']"
+P. Mwene,28,PSV,€3.8M,€15K,2021 ~ 2024,"['RB', 'LB']"
+J. Seri,30,Hull City,€4M,€17K,2022 ~ 2025,"['CM', 'CDM']"
+Akapo,29,SJ Earthquakes,€4.9M,€9K,2022 ~ 2023,"['RB', 'LB']"
+G. Zelalem,25,New York City,€675K,€2K,2021 ~ 2022,"['CM', 'CAM', 'CDM']"
+W. Hoedt,28,Anderlecht,€5.5M,€21K,2021 ~ 2025,['CB']
+G. Simeone,26,Napoli,€17M,€33K,"Jun 30, 2023 On Loan",['ST']
+S. Gigot,28,Olympique Marseille,€7M,€34K,2022 ~ 2025,['CB']
+A. Sanabria,26,Torino,€5.5M,€38K,2021 ~ 2025,['ST']
+M. Vecino,30,Lazio,€10M,€45K,2022 ~ 2025,"['CM', 'CDM']"
+H. Hateboer,28,Atalanta,€19M,€53K,2017 ~ 2024,"['RWB', 'RB', 'RM']"
+D. Brooks,24,AFC Bournemouth,€7.5M,€40K,2018 ~ 2026,"['RW', 'RM']"
+M. Dúbravka,33,Newcastle United,€5.5M,€66K,2018 ~ 2025,['GK']
+F. Mattiello,26,Go Ahead Eagles,€2.3M,€7K,2022 ~ 2023,"['RB', 'RM', 'LM']"
+M. Caldara,28,Spezia,€3.6M,€44K,"Jun 30, 2023 On Loan",['CB']
+R. Borré,26,Eintracht Frankfurt,€12.5M,€31K,2021 ~ 2025,['ST']
+N. Keïta,27,Liverpool,€24M,€110K,2018 ~ 2023,['CM']
+Pau López,27,Olympique Marseille,€20.5M,€35K,2022 ~ 2026,['GK']
+S. Driussi,26,Austin,€17.5M,€11K,2021 ~ 2024,"['CAM', 'ST']"
+A. Morelos,26,Rangers,€6.5M,€50K,2017 ~ 2023,['ST']
+L. Olaza,27,Real Valladolid,€5.5M,€20K,2021 ~ 2025,"['LB', 'LWB', 'CB']"
+P. Roberts,25,Sunderland,€2.1M,€10K,2022 ~ 2024,"['RM', 'RW', 'CAM']"
+J. Weigl,26,Borussia Mönchengladbach,€20.5M,€17K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+J. Onomah,25,Fulham,€1.9M,€23K,2019 ~ 2023,"['CM', 'CAM']"
+J. Bree,24,Luton Town,€2.5M,€17K,2020 ~ 2023,"['RWB', 'RB']"
+Y. Koné,26,Ajaccio,€1.5M,€22K,"Jun 30, 2023 On Loan","['LB', 'CB']"
+P. Berg,24,Bodø / Glimt,€4.3M,€5K,2022 ~ 2027,"['CM', 'CDM']"
+Ivi López,28,Raków Częstochowa,€6M,€15K,2020 ~ 2026,"['CF', 'CAM']"
+M. Thorsby,26,FC Union Berlin,€5M,€26K,2022 ~ 2025,"['CM', 'LM']"
+B. Schmitz,27,FC Köln,€4.1M,€22K,2018 ~ 2024,['RB']
+19 Malcom,21,FC Barcelona,€31M,€140K,2018 ~ 2023,['RW']
+F. Bonazzoli,25,Salernitana,€4.3M,€22K,2022 ~ 2026,"['ST', 'CF']"
+D. Wilson,25,Sutton United,€325K,€2K,2021 ~ 2023,['ST']
+F. Tănase,27,,€0,€0,Free,"['CF', 'ST', 'CM']"
+O. Baumann,32,TSG Hoffenheim,€15M,€37K,2014 ~ 2024,['GK']
+Villalibre,24,Athletic Club,€2.9M,€15K,2015 ~ 2023,['ST']
+A. Delort,30,Nice,€20.5M,€55K,2021 ~ 2024,['ST']
+A. Weimann,30,Bristol City,€3M,€30K,2018 ~ 2024,"['ST', 'CAM', 'CM']"
+S. Okazaki,36,Sint-Truiden,€400K,€5K,2022 ~ 2023,"['ST', 'CAM', 'LM']"
+A. Townsend,30,Everton,€7M,€37K,2021 ~ 2023,['RM']
+C. Austin,32,Swindon Town,€975K,€8K,2022 ~ 2023,['ST']
+21 J. Martínez,33,Portimonense,€1.5M,€8K,2019 ~ 2022,['ST']
+O. Özyakup,29,Fortuna Sittard,€1.8M,€11K,2022 ~ 2024,"['CM', 'CAM']"
+J. Ayew,30,Crystal Palace,€5.5M,€50K,2019 ~ 2023,"['RW', 'RM', 'ST']"
+19 P. Lasogga,26,Hamburger SV,€4.8M,€15K,2014 ~ 2019,['ST']
+K. Zohore,28,West Bromwich Albion,€1.2M,€15K,2019 ~ 2023,['ST']
+M. Ryan,30,AZ,€9.5M,€10K,2023 ~ 2024,['GK']
+João Pedro,30,Fenerbahçe,€17M,€77K,2022 ~ 2025,['ST']
+Diego Mariño,32,Sporting Gijón,€800K,€5K,2016 ~ 2023,['GK']
+Sergi Roberto,30,FC Barcelona,€18M,€125K,2013 ~ 2023,"['RB', 'CM']"
+D. Praet,28,Leicester City,€14M,€79K,2019 ~ 2024,"['CAM', 'CF', 'CM']"
+M. van Ginkel,29,PSV,€4.1M,€16K,2021 ~ 2023,"['CM', 'CDM']"
+L. Unnerstall,31,FC Twente,€9.5M,€13K,2021 ~ 2025,['GK']
+F. Acerbi,34,Inter,€10M,€59K,"Jun 30, 2023 On Loan",['CB']
+H. Vanaken,29,Club Brugge,€20.5M,€34K,2015 ~ 2027,"['CM', 'CAM']"
+N. Chadli,32,Westerlo,€4.5M,€33K,"May 31, 2023 On Loan","['LM', 'LW']"
+C. Jenkinson,30,Newcastle Jets,€875K,€1K,2022 ~ 2024,['RB']
+D. Sidibé,29,AEK Athens,€4.9M,€1K,2022 ~ 2024,"['RB', 'LB', 'CB']"
+J. Murillo,30,Sampdoria,€2.5M,€15K,2020 ~ 2023,['CB']
+22 F. Ghoulam,30,Napoli,€4.8M,€45K,2014 ~ 2022,['LB']
+M. Haïdara,29,Lens,€3.7M,€26K,2018 ~ 2023,"['LWB', 'CB']"
+B. Afobe,29,Millwall,€1.4M,€9K,2022 ~ 2023,['ST']
+S. Armstrong,30,Southampton,€7M,€49K,2018 ~ 2024,"['RM', 'CM']"
+Jesé,29,Ankaragücü,€2.3M,€12K,2022 ~ 2023,"['LM', 'ST', 'RM']"
+J. Roussillon,29,VfL Wolfsburg,€4.9M,€37K,2018 ~ 2023,"['LB', 'LM']"
+Y. Songo'o,30,Bradford City,€325K,€4K,2021 ~ 2023,"['CB', 'CDM']"
+P. Kadeřábek,30,TSG Hoffenheim,€9M,€31K,2015 ~ 2025,"['RWB', 'RB', 'RM']"
+J. Brooks,29,Benfica,€9.5M,€14K,2022 ~ 2023,['CB']
+K. Zouma,27,West Ham United,€22.5M,€70K,2021 ~ 2025,['CB']
+S. Savić,31,Atlético Madrid,€29M,€74K,2015 ~ 2024,['CB']
+R. Fredericks,29,AFC Bournemouth,€3.7M,€37K,2022 ~ 2024,"['RB', 'RWB']"
+Alberto Moreno,29,Villarreal,€9.5M,€30K,2019 ~ 2024,"['LB', 'LM']"
+L. Ocampos,27,Ajax,€22.5M,€36K,"Jun 30, 2023 On Loan","['RW', 'LW']"
+A. Cragno,28,Monza,€14M,€6K,"Jun 30, 2023 On Loan",['GK']
+T. Savanier,30,Montpellier,€25M,€33K,2019 ~ 2026,"['CAM', 'CM']"
+H. Reed,27,Fulham,€6M,€44K,2020 ~ 2024,"['CDM', 'CM']"
+M. De Sciglio,29,Juventus,€6.5M,€75K,2017 ~ 2025,"['RB', 'LB']"
+T. Stepanenko,32,Shakhtar Donetsk,€9.5M,€1K,2010 ~ 2024,['CDM']
+Y. Benzia,27,Dijon,€2M,€6K,2020 ~ 2023,"['CAM', 'CM']"
+A. Plea,29,Borussia Mönchengladbach,€17.5M,€38K,2018 ~ 2025,"['CF', 'LM']"
+L. Vietto,28,Al Hilal,€4.2M,€34K,2020 ~ 2023,"['CAM', 'LW', 'ST']"
+J. Lingard,29,Nottingham Forest,€10.5M,€61K,2022 ~ 2023,['CAM']
+M. Keane,29,Everton,€12M,€41K,2017 ~ 2025,['CB']
+M. Barrow,29,Jeonbuk Motors,€1.6M,€7K,2020 ~ 2022,"['LM', 'LW', 'RM']"
+J. Hector,32,FC Köln,€9.5M,€28K,2012 ~ 2023,"['LB', 'CDM']"
+L. Kübler,29,SC Freiburg,€4.9M,€24K,2015 ~ 2024,"['RB', 'RWB', 'RM']"
+Saúl,27,Atlético Madrid,€22.5M,€58K,2013 ~ 2026,"['CM', 'LM', 'LWB']"
+M. Dabbur,30,TSG Hoffenheim,€5.5M,€33K,2020 ~ 2024,['ST']
+Lucas Vázquez,31,Real Madrid,€18.5M,€140K,2015 ~ 2024,"['RB', 'RW']"
+22 Q. Promes,29,Spartak Moskva,€17M,€70K,2021 ~ 2024,"['LW', 'CAM', 'CF']"
+B. Rahman,27,Reading,€1.5M,€41K,"Jun 30, 2023 On Loan","['LWB', 'LB']"
+M. Duke,31,,€0,€0,Free,['ST']
+J. Busk,28,FC Union Berlin,€600K,€7K,2016 ~ 2023,['GK']
+Ricardo Pereira,28,Leicester City,€27.5M,€100K,2018 ~ 2026,"['RB', 'RWB']"
+W. Caballero,40,Southampton,€150K,€10K,2021 ~ 2023,['GK']
+Nani,35,Melbourne Victory,€4.3M,€9K,2022 ~ 2024,"['LM', 'RM']"
+Negredo,36,Cádiz,€3.6M,€25K,2020 ~ 2023,['ST']
+15 P. Guerrero,30,,€0,€0,Free,['ST']
+22 S. Agüero,33,FC Barcelona,€51M,€260K,2021 ~ 2023,['ST']
+A. Talavera,39,,€0,€0,Free,['GK']
+R. Pasveer,38,Ajax,€1.2M,€8K,2021 ~ 2023,['GK']
+João Moutinho,35,Wolverhampton Wanderers,€7M,€62K,2018 ~ 2023,['CM']
+20 B. Sagna,36,Montreal Impact,€425K,€4K,2019 ~ 2024,"['RB', 'RWB']"
+J. Evans,34,Leicester City,€5.5M,€76K,2018 ~ 2023,['CB']
+R. Bertrand,32,Leicester City,€2.1M,€49K,2021 ~ 2023,['LB']
+22 B. Matuidi,34,Inter Miami,€1.9M,€8K,2020 ~ 2021,"['CDM', 'CM']"
+22 D. Sturridge,31,Perth Glory,€2M,€6K,2021 ~ 2022,['ST']
+M. Hamšík,34,Trabzonspor,€8M,€42K,2021 ~ 2023,"['CM', 'CDM']"
+J. Vertonghen,35,Anderlecht,€7M,€21K,2022 ~ 2024,['CB']
+A. Witsel,33,Atlético Madrid,€8.5M,€51K,2022 ~ 2023,"['CDM', 'CM', 'CB']"
+Rui Patrício,34,Roma,€4.4M,€55K,2021 ~ 2024,['GK']
+R. Nainggolan,34,Antwerp,€1.9M,€19K,2022 ~ 2023,"['CM', 'CAM', 'CDM']"
+V. Mannone,34,Lorient,€240K,€7K,2022 ~ 2023,['GK']
+S. Kjær,33,Milan,€14.5M,€73K,2020 ~ 2024,['CB']
+F. Fazio,35,Salernitana,€1.1M,€15K,2022 ~ 2024,['CB']
+19 Hernanes,33,Hebei CFFC,€6M,€20K,2017 ~ 2019,"['CM', 'CDM', 'CAM']"
+H. Al Haydos,31,,€0,€0,Free,"['RW', 'CAM', 'LW']"
+A. Lallana,34,Brighton & Hove Albion,€2.6M,€53K,2020 ~ 2023,"['CM', 'CF', 'CDM']"
+21 C. Sánchez,34,Watford,€650K,€11K,2021 ~ 2021,"['CDM', 'CB']"
+N. Amrabat,35,AEK Athens,€2.3M,€950,2021 ~ 2023,"['RM', 'RW', 'LM']"
+M. Sissoko,32,Nantes,€5M,€23K,2022 ~ 2024,"['CDM', 'CM']"
+18 I. Vorsah,29,Ohod,€600K,€10K,2017 ~ 2020,['CB']
+S. Terodde,34,Schalke 04,€2.7M,€25K,2021 ~ 2023,['ST']
+K. Papadopoulos,30,U Craiova 1948,€1.1M,€6K,2022 ~ 2023,['CB']
+José Callejón,35,Granada,€2.3M,€9K,2022 ~ 2023,"['RM', 'ST', 'LM']"
+J. Russell,32,Sporting KC,€4.5M,€10K,2018 ~ 2023,"['RW', 'RM']"
+D. Odoi,34,Club Brugge,€1.1M,€18K,2022 ~ 2024,"['RB', 'CDM', 'CB']"
+J. King,30,Fenerbahçe,€5.5M,€58K,2022 ~ 2024,"['ST', 'CF', 'LW']"
+R. Cota,34,,€0,€0,Free,['GK']
+D. Welbeck,31,Brighton & Hove Albion,€4.8M,€58K,2020 ~ 2023,['ST']
+L. Ayling,30,Leeds United,€4.8M,€33K,2016 ~ 2023,"['RB', 'CB']"
+M. Suárez,34,River Plate,€5M,€20K,2019 ~ 2023,"['ST', 'LW']"
+22 Alex Teixeira,31,Beşiktaş,€6M,€40K,2021 ~ 2023,"['CAM', 'CF', 'LW']"
+L. Holtby,31,Holstein Kiel,€1.5M,€13K,2021 ~ 2024,"['CM', 'CDM']"
+K. Trapp,31,Eintracht Frankfurt,€36M,€43K,2019 ~ 2024,['GK']
+M. Lanzini,29,West Ham United,€14M,€68K,2016 ~ 2023,"['CAM', 'LM']"
+F. Caputo,34,Empoli,€3.6M,€22K,"Jun 30, 2023 On Loan",['ST']
+S. Rudy,32,TSG Hoffenheim,€3.3M,€28K,2021 ~ 2023,"['CM', 'CDM']"
+A. McCarthy,32,Southampton,€2.1M,€32K,2016 ~ 2023,['GK']
+C. Pinsoglio,32,Juventus,€1.5M,€47K,2014 ~ 2023,['GK']
+21 Hulk,33,Shanghai SIPG,€13M,€20K,2017 ~ 2023,"['RW', 'ST']"
+B. Mee,32,Brentford,€7M,€43K,2022 ~ 2024,['CB']
+T. Kolodziejczak,30,Schalke 04,€1.9M,€16K,2022 ~ 2023,"['CB', 'LB']"
+Illarramendi,32,Real Sociedad,€8.5M,€31K,2015 ~ 2023,"['CM', 'CDM']"
+M. Silvestri,31,Udinese,€9.5M,€16K,2021 ~ 2025,['GK']
+N. Otamendi,34,Benfica,€8.5M,€18K,2020 ~ 2023,['CB']
+S. Polter,31,Schalke 04,€2M,€19K,2022 ~ 2025,['ST']
+20 A. Schürrle,28,Spartak Moskva,€9M,€59K,2016 ~ 2021,"['LW', 'RW', 'LM']"
+M. Braithwaite,31,Espanyol,€8.5M,€22K,2022 ~ 2025,"['LW', 'LM', 'ST']"
+K. Darlow,31,Newcastle United,€2.2M,€46K,2014 ~ 2025,['GK']
+H. Seferović,30,Galatasaray,€5.5M,€14K,"May 31, 2023 On Loan",['ST']
+O. Baumann,32,TSG Hoffenheim,€15M,€37K,2014 ~ 2024,['GK']
+Villalibre,24,Athletic Club,€2.9M,€15K,2015 ~ 2023,['ST']
+A. Delort,30,Nice,€20.5M,€55K,2021 ~ 2024,['ST']
+21 A. Robben,36,FC Groningen,€5.5M,€11K,2020 ~ 2021,"['RM', 'CAM']"
+15 Xavi,34,FC Barcelona,€15.5M,€160K,1998 ~ 2020,['CM']
+14 Rogério Ceni,40,São Paulo,€0,€30K,1992 ~ 2014,['GK']
+Pepe Reina,39,Villarreal,€1.2M,€14K,2022 ~ 2023,['GK']
+Joaquín,40,Real Betis,€0,€20K,2015 ~ 2023,"['RM', 'LM', 'CAM']"
+22 J. Defoe,38,Sunderland,€350K,€4K,2022 ~ 2022,['ST']
+17 S. Squillaci,35,Bastia,€575K,€15K,2013 ~ 2018,['CB']
+17 A. Kerzhakov,33,Zenit,€2.3M,€60K,2010 ~ 2023,['ST']
+10 D. Cousin,32,,€0,€0,Free,['ST']
+17 P. Lahm,32,FC Bayern München,€29.5M,€200K,2002 ~ 2018,"['RB', 'CDM', 'CM']"
+22 Fernandinho,36,Manchester City,€5M,€86K,2013 ~ 2022,['CDM']
+A. Raimondo,18,Bologna,€1.2M,€3K,2021 ~ 2027,['ST']
+A. Buttaro,19,Palermo,€550K,€500,2021 ~ 2025,"['RB', 'CB']"
+X. Parke,18,Shrewsbury Town,€130K,€500,2022 ~ 2023,['GK']
+J. Mina,17,Deportivo Cali,€1.9M,€500,2022 ~ 2027,['RB']
+R. Vitek,18,Manchester United,€600K,€1K,2022 ~ 2025,['GK']
+E. Bajraktarevic,17,New England,€550K,€500,2022 ~ 2025,"['CAM', 'RM']"
+S. Ba,18,RB Leipzig,€800K,€2K,2022 ~ 2025,"['LB', 'LM']"
+M. Holíček,17,Crewe Alexandra,€250K,€500,2022 ~ 2023,"['LM', 'CAM']"
+C. Negele,17,Heidenheim,€550K,€500,2022 ~ 2025,['CAM']
+M. Wenig,18,Eintracht Frankfurt,€1M,€2K,2022 ~ 2025,"['CAM', 'CM']"
+P. Sequeira,23,Lugo,€675K,€1K,2022 ~ 2025,['GK']
+M. Brkljača,17,Dinamo Zagreb,€1M,€500,2022 ~ 2028,"['CAM', 'CM']"
+Mateo Joseph,18,Leeds United,€900K,€3K,2022 ~ 2025,['ST']
+E. Yeboah,19,CFR Cluj,€1.1M,€2K,2022 ~ 2024,"['RW', 'ST']"
+C. Horneman,18,OB,€425K,€1K,2022 ~ 2026,"['RW', 'LW']"
+W. Odobert,17,Troyes,€1.8M,€1K,2022 ~ 2025,['LW']
+A. Makoumbou,23,Cagliari,€1.7M,€2K,2022 ~ 2026,"['CDM', 'CM']"
+R. Flamingo,19,Vitesse,€2.1M,€5K,"Jun 30, 2023 On Loan","['CB', 'CDM']"
+N. Tucker,19,Burnley,€350K,€4K,2021 ~ 2023,['RM']
+J. Lewicki,16,Jagiellonia Białystok,€350K,€500,2022 ~ 2025,"['LWB', 'LM']"
+T. Geralnik,19,Villarreal II,€1M,€900,2020 ~ 2023,"['CAM', 'RM', 'LM']"
+Arthur Sales,19,Paços de Ferreira,€2.2M,€2K,2021 ~ 2026,['ST']
+A. Kjelsen,16,Vålerenga,€275K,€500,2021 ~ 2025,"['CB', 'CDM']"
+A. Mazilu,16,SSC Farul,€350K,€500,2022 ~ 2024,"['ST', 'RW']"
+S. Liu,18,Austria Klagenfurt,€400K,€500,2022 ~ 2025,['GK']
+A. Stejskal,20,Salzburg,€425K,€2K,2022 ~ 2024,['GK']
+J. Ekomié,18,Bordeaux,€1.6M,€600,2022 ~ 2025,"['LB', 'CB']"
+M. Leaburn,18,Charlton Athletic,€525K,€900,2022 ~ 2025,['ST']
+Q. Hartman,20,Feyenoord,€1.5M,€2K,2020 ~ 2025,['LB']
+O. Megeed,16,Hamburger SV,€550K,€500,2022 ~ 2025,"['LW', 'CAM']"
+S. Nongoh,18,Adana Demirspor,€575K,€1K,2022 ~ 2023,"['RM', 'LM']"
+E. Mayenda,17,Sochaux,€375K,€500,2022 ~ 2024,['ST']
+R. Eyongo,19,Excelsior,€500K,€850,2022 ~ 2023,"['ST', 'CAM']"
+M. De Lima,18,Bordeaux,€625K,€650,2022 ~ 2027,['LW']
+A. Tsarenko,18,Dynamo Kyiv,€1.2M,€500,2020 ~ 2024,['CAM']
+MT,21,Santa Clara,€1.2M,€1K,2021 ~ 2025,['CAM']
+Juan Larios,18,Southampton,€600K,€2K,2022 ~ 2027,['LB']
+R. Smajić,18,FC Köln,€775K,€1K,2022 ~ 2023,['CB']
+L. Sousa,17,Arsenal,€475K,€500,2022 ~ 2024,['LB']
+D. Degli Innocenti,19,Empoli,€875K,€950,2022 ~ 2023,"['CDM', 'CM']"
+Nacho Ferri,17,Eintracht Frankfurt,€825K,€950,2022 ~ 2025,['ST']
+Dani Pérez,16,Real Betis,€875K,€500,2022 ~ 2025,"['CM', 'CAM', 'LW']"
+C. Baleba,18,Lille,€1.2M,€2K,2022 ~ 2026,['CM']
+Marc Casadó,18,FC Barcelona,€1.3M,€6K,2022 ~ 2024,"['CDM', 'CM']"
+N. Norris,17,Dallas,€325K,€500,2022 ~ 2025,['LB']
+Bernardo Folha,20,Porto,€1.5M,€2K,2020 ~ 2024,['CM']
+T. Cannon,19,Preston North End,€550K,€4K,"Jun 30, 2023 On Loan",['ST']
+B. Cremaschi,17,Inter Miami,€180K,€500,2022 ~ 2025,['CM']
+F. Loyola,17,Orlando City,€325K,€500,2022 ~ 2025,"['CM', 'RM']"
+22 E. Lara,19,América,€500K,€3K,2021 ~ 2025,['CB']
+D. Lembikisa,18,Wolverhampton Wanderers,€500K,€3K,2021 ~ 2026,"['RB', 'LB']"
+J. James,17,Birmingham City,€900K,€800,2020 ~ 2023,"['CM', 'CAM']"
+G. Restes,17,Toulouse,€600K,€500,2021 ~ 2024,['GK']
+L. Querfeld,18,Rapid Vienna,€950K,€1K,2021 ~ 2023,['CB']
+K. Abrefa,18,Reading,€500K,€850,2021 ~ 2024,"['RWB', 'RB']"
+R. Kuijpers,22,RKC Waalwijk,€750K,€2K,2021 ~ 2025,"['ST', 'RW']"
+22 F. Missori,17,Roma,€750K,€500,2021 ~ 2024,['RB']
+Vinicius Mello,19,Charlotte,€600K,€900,2022 ~ 2025,"['ST', 'LW']"
+T. Rossmann,18,Karlsruher SC,€750K,€1K,2021 ~ 2024,['LW']
+Pubill,19,Levante,€2.1M,€2K,2021 ~ 2026,"['RB', 'RWB']"
+G. Hall,17,Birmingham City,€625K,€700,2021 ~ 2023,['CAM']
+O. Wallin,20,Degerfors,€250K,€500,2022 ~ 2024,['CB']
+J. Njinmah,21,Borussia Dortmund II,€1.6M,€5K,"Jun 30, 2023 On Loan","['ST', 'LM']"
+S. Selin,19,Hammarby,€375K,€500,2022 ~ 2025,['GK']
+G. Cittadini,20,Modena,€1.1M,€6K,"Jun 30, 2023 On Loan",['CB']
+T. Úlfarsson,21,Houston Dynamo,€900K,€1K,2022 ~ 2022,"['ST', 'LW', 'LM']"
+O. Uddenäs,19,Häcken,€2M,€2K,2022 ~ 2025,"['RW', 'LW']"
+22 D. Keramitsis,17,Roma,€925K,€500,2021 ~ 2024,['CB']
+Gonçalo Borges,21,Porto,€2.5M,€3K,2020 ~ 2027,"['RM', 'RW']"
+A. Cayetano,22,Liverpool,€2.3M,€500,2022 ~ 2022,"['LB', 'LWB']"
+A. Oroz,19,Colo-Colo,€1.4M,€1K,2017 ~ 2023,"['RW', 'LW']"
+A. Lowry,19,Rangers,€1M,€5K,2022 ~ 2025,"['CAM', 'LW']"
+G. Álvarez,22,Getafe,€3.3M,€11K,2021 ~ 2023,"['CB', 'LB']"
+D. Karlsbakk,19,Viking,€650K,€600,2022 ~ 2024,"['ST', 'RW']"
+T. Adaramola,18,Crystal Palace,€500K,€2K,2020 ~ 2023,['LB']
+M. Tănasă,16,FCSB,€500K,€600,2022 ~ 2024,"['LW', 'RW']"
+M. Galarza,20,Genk,€2.9M,€5K,2022 ~ 2026,['CM']
+T. Kristiansen,16,HamKam,€200K,€500,2021 ~ 2023,['CB']
+N. Allen,18,Inter Miami,€350K,€500,2022 ~ 2022,"['LB', 'LWB']"
+I. Maestro Puch,18,Atlético Tucumán,€2M,€2K,2022 ~ 2025,['ST']
+L. Noubi,17,Standard Liège,€525K,€500,2021 ~ 2025,"['CB', 'RB']"
+M. Dekker,18,AZ,€1.9M,€850,2020 ~ 2026,"['CB', 'LB']"
+E. Camargo,20,Deportivo Cali,€2.4M,€1K,2022 ~ 2023,['CM']
+Gabriel Pereira,20,New York City,€3.1M,€3K,2022 ~ 2026,"['RM', 'RW']"
+T. Gillier,18,Universidad Católica,€375K,€500,2022 ~ 2024,['GK']
+D. Gjengaar,18,Odd,€500K,€500,2022 ~ 2024,"['RB', 'RW']"
+J. Bångsbo,19,IFK Göteborg,€1.1M,€600,2022 ~ 2025,['CB']
+D. Boloca,23,Frosinone,€2.9M,€2K,2020 ~ 2025,"['CM', 'CDM']"
+A. Daghim,16,AGF,€400K,€500,2022 ~ 2024,"['CM', 'ST']"
+W. Cheddira,24,Bari 1908,€2.2M,€3K,2022 ~ 2025,"['ST', 'LW', 'CAM']"
+A. Diouf,19,Basel,€1.8M,€6K,"Jun 30, 2023 On Loan",['CM']
+M. Mahoney,20,Queens Park Rangers,€230K,€2K,2022 ~ 2023,['GK']
+J. Feeney,17,Aston Villa,€500K,€500,2021 ~ 2025,['CB']
+G. Rendón,20,Barcelona Guayaquil,€675K,€500,2022 ~ 2023,['LB']
+D. Portilla,18,Colo-Colo,€1.1M,€550,2019 ~ 2024,['CM']
+L. Soto,19,Colo-Colo,€475K,€700,2018 ~ 2024,['CM']
+L. Semić,18,Borussia Dortmund II,€875K,€500,2022 ~ 2024,"['RB', 'RM']"
+A. Al Ahrak,25,,€0,€0,Free,"['CAM', 'CM']"
+M. Waad,22,,€0,€0,Free,"['CDM', 'CB', 'LWB']"
+H. Ahmed,22,,€0,€0,Free,['LWB']
+M. Muntari,28,,€0,€0,Free,['ST']
+Pedro Miguel,31,,€0,€0,Free,"['RWB', 'CB']"
+M. Barsham,24,,€0,€0,Free,['GK']
+K. Olaigbe,19,Ross County,€300K,€4K,"Jun 30, 2023 On Loan",['LM']
+H. Larsson,18,Malmö FF,€1.2M,€650,2022 ~ 2026,"['CM', 'CDM']"
+J. Turner-Cooke,18,Newcastle United,€525K,€4K,2021 ~ 2023,"['CM', 'CAM', 'RM']"
+I. Cissoko,19,NEC,€1.1M,€2K,2021 ~ 2024,"['LW', 'RW']"
+A. Raimondo,18,Bologna,€1.2M,€3K,2021 ~ 2027,['ST']
+A. Buttaro,19,Palermo,€550K,€500,2021 ~ 2025,"['RB', 'CB']"
+R. Norheim,17,Tromsø,€450K,€500,2020 ~ 2024,"['CAM', 'CF']"
+J. Gorter,22,Ajax,€3.6M,€6K,2021 ~ 2025,['GK']
+M. Lotka,21,Borussia Dortmund,€1.4M,€5K,2022 ~ 2024,['GK']
+S. Beukema,23,AZ,€5.5M,€8K,2021 ~ 2026,['CB']
+Andrés Caro,18,Málaga,€1.3M,€600,2020 ~ 2025,['CB']
+Córdoba,27,Burgos,€1.6M,€4K,2019 ~ 2024,['CB']
+Rubén Sánchez,21,Espanyol,€3.4M,€7K,2021 ~ 2025,"['RB', 'RM']"
+Turrientes,20,Real Sociedad,€2.9M,€9K,2022 ~ 2027,"['CM', 'CDM']"
+K. Sentić,21,Hajduk Split,€2.2M,€500,2021 ~ 2026,['GK']
+J. Masharipov,28,Al Nassr,€1.9M,€24K,2021 ~ 2023,['LM']
+M. Hansen,19,Nordsjælland,€1.7M,€2K,2022 ~ 2026,"['RW', 'ST']"
+M. Ugalde,20,FC Twente,€1.9M,€3K,2020 ~ 2025,['ST']
+J. Tchatchoua,21,Sporting Charleroi,€2.2M,€3K,2021 ~ 2026,"['RWB', 'RM', 'LM']"
+S. Andreou,19,Sporting Charleroi,€1.7M,€2K,2021 ~ 2026,['CB']
+G. Gürpüz,19,Borussia Dortmund,€850K,€4K,2021 ~ 2026,"['CAM', 'LM']"
+Imanol,21,SD Eibar,€3M,€8K,"Jun 30, 2023 On Loan",['LB']
+S. Akaydin,28,Adana Demirspor,€1.4M,€10K,2023 ~ 2026,['CB']
+B. Okoh,19,Salzburg,€1.9M,€4K,2019 ~ 2025,['CB']
+V. Kovacević,24,Raków Częstochowa,€3.1M,€5K,2021 ~ 2026,['GK']
+A. Prass,21,Sturm Graz,€3.2M,€9K,2021 ~ 2025,"['CM', 'LM']"
+I. Gharbi,18,Paris Saint Germain,€1.4M,€6K,2021 ~ 2025,"['LW', 'CAM']"
+B. Adeeko,19,Wigan Athletic,€200K,€1K,2021 ~ 2023,['CM']
+A. Emakhu,18,Millwall,€325K,€1K,2023 ~ 2026,['ST']
+P. Schulze,19,VfL Wolfsburg,€525K,€2K,2021 ~ 2023,['GK']
+M. Mbacke,20,Villarreal II,€2.9M,€3K,"Jun 30, 2023 On Loan","['CB', 'RB']"
+L. Walta,19,Nordsjælland,€625K,€1K,2021 ~ 2023,"['CM', 'CAM']"
+C. Doyle,18,Coventry City,€1.6M,€6K,"Jun 30, 2023 On Loan","['CB', 'LB']"
+Bastida,18,Cádiz,€1.6M,€2K,2020 ~ 2026,"['CDM', 'CM']"
+Roberto,20,FC Barcelona,€2.3M,€3K,"Jun 30, 2023 On Loan","['ST', 'CAM']"
+V. Taborda,21,Platense,€2.7M,€5K,"Dec 31, 2023 On Loan","['LM', 'CAM', 'LW']"
+J. Mendes,19,AIK,€1.2M,€900,2022 ~ 2025,['RB']
+M. Sjøeng,20,Vålerenga,€1M,€600,2021 ~ 2026,['GK']
+Agirrezabala,21,Athletic Club,€3M,€6K,2018 ~ 2025,['GK']
+Javi Serrano,19,Mirandés,€1.4M,€1K,2020 ~ 2026,"['CDM', 'CM']"
+S. Fofana,19,Nürnberg,€1.2M,€5K,"Jun 30, 2024 On Loan","['CDM', 'CB']"
+O. Hammond,19,Nottingham Forest,€275K,€5K,2021 ~ 2023,['CM']
+W. Kechrida,26,Salernitana,€850K,€6K,2021 ~ 2023,"['RB', 'RWB', 'RWB', 'RM', 'RM', 'RB', 'RWB', 'RM', 'RB']"
+S. Saatçı,19,Sporting Braga,€1.3M,€2K,2022 ~ 2027,['CB']
+D. Vraciu,20,Almería,€600K,€3K,2021 ~ 2024,"['CAM', 'CM']"
+Carlos Beitia,22,Celta de Vigo,€725K,€3K,2021 ~ 2026,"['CM', 'RM', 'LM']"
+A. Akurugu,20,Getafe,€925K,€3K,2020 ~ 2023,['LB']
+Javi Llabrés,20,Mallorca,€1.7M,€5K,2020 ~ 2023,"['LM', 'RM']"
+Iturbe,18,Atlético Madrid,€1.4M,€950,2021 ~ 2027,['GK']
+Yayo,17,Real Oviedo,€900K,€500,2021 ~ 2023,['CM']
+C. Humphreys,18,Ipswich Town,€475K,€850,2021 ~ 2025,"['CM', 'CAM']"
+S. Westerveld,19,AZ,€1.2M,€800,2021 ~ 2026,['GK']
+B. Kanuric,19,DSC Arminia Bielefeld,€525K,€2K,2022 ~ 2025,"['CM', 'CAM']"
+F. Peña,21,River Plate,€1.8M,€3K,2019 ~ 2024,"['CB', 'CDM']"
+C. Zafeiris,19,Haugesund,€950K,€550,2021 ~ 2025,['CM']
+D. Elerewe,18,Charlton Athletic,€300K,€550,2021 ~ 2024,['CB']
+M. Benita,18,Feyenoord,€800K,€500,2020 ~ 2025,"['RB', 'RW']"
+T. Small,17,Port Vale,€475K,€500,"Jun 30, 2023 On Loan",['LWB']
+N. Palacio,21,Atlético Nacional,€3M,€2K,2021 ~ 2022,['CM']
+A. Boakye,21,Wolfsberger AC,€900K,€2K,2021 ~ 2025,"['CAM', 'ST', 'RW']"
+J. Flores,18,The Strongest,€425K,€500,2020 ~ 2022,"['RW', 'RM']"
+A. Kaplan,19,Ajax,€2.3M,€3K,2022 ~ 2027,['CB']
+H. Leonard,18,Blackburn Rovers,€575K,€3K,2021 ~ 2025,['ST']
+Z. El Sheiwi,18,Austria Wien,€600K,€800,2021 ~ 2026,"['LWB', 'LB']"
+L. Tchaouna,18,Dijon,€2.1M,€6K,"Jun 30, 2023 On Loan","['RW', 'LW', 'ST']"
+E. Jelert,19,København,€2.1M,€4K,2021 ~ 2026,"['RB', 'LB']"
+Aimar Oroz,20,Osasuna,€3.4M,€10K,2019 ~ 2026,"['ST', 'CAM', 'CM']"
+T. Jenks,20,Crawley Town,€500K,€2K,2019 ~ 2023,"['CM', 'CAM']"
+Arnau Tenas,21,FC Barcelona,€2.2M,€16K,2020 ~ 2023,['GK']
+A. Hajdari,19,Lugano,€550K,€950,2020 ~ 2023,['CB']
+J. Siebert,20,Viktoria Köln,€1.8M,€5K,"Jun 30, 2023 On Loan",['CB']
+T. Nakai,18,Real Madrid,€825K,€7K,2020 ~ 2025,['CAM']
+22 R. van den Berg,16,PEC Zwolle,€725K,€500,2020 ~ 2024,['CB']
+Aitor Paredes,22,Athletic Club,€1.2M,€5K,2019 ~ 2025,['CB']
+K. Cabrera,18,Melgar,€1.4M,€500,2019 ~ 2022,"['CM', 'LM', 'LW']"
+S. Rodríguez,22,Godoy Cruz,€3.6M,€6K,2022 ~ 2026,['ST']
+Y. Barası,19,AZ,€1.1M,€2K,2020 ~ 2025,"['ST', 'LW']"
+I. Matanović,19,St. Pauli,€2M,€5K,"Jun 30, 2023 On Loan",['ST']
+L. Schuler,23,Magdeburg,€1.4M,€4K,2021 ~ 2024,['ST']
+L. Esquivel,20,Unión Santa Fe,€2.5M,€4K,2020 ~ 2023,"['LB', 'LWB']"
+J. Portillo,22,Unión Santa Fe,€3.6M,€7K,2020 ~ 2025,"['CDM', 'CB', 'CM']"
+F. Da Silva,19,FC Volendam,€1.4M,€7K,"Jun 30, 2023 On Loan",['CM']
+E. Shuranov,20,Nürnberg,€1.9M,€3K,2020 ~ 2024,['ST']
+E. Kurtulus,22,Hammarby,€2.3M,€2K,2022 ~ 2024,"['CB', 'RB']"
+N. Eile,19,Malmö FF,€875K,€800,2020 ~ 2025,['CB']
+D. Pérez,20,Club Brugge,€1.3M,€5K,2021 ~ 2026,['ST']
+S. Sambo,20,Sparta Rotterdam,€1.6M,€3K,"Jun 30, 2023 On Loan",['RB']
+F. Oppegård,19,PSV,€1.6M,€2K,2020 ~ 2025,['LB']
+André Amaro,19,Vitória SC,€2.4M,€2K,2020 ~ 2025,['CB']
+L. Kerber,20,Saarbrücken,€2.2M,€2K,2021 ~ 2024,"['CM', 'CDM']"
+B. Oddei,19,Sassuolo,€1.4M,€4K,2019 ~ 2024,['RM']
+J. Castilla,17,Houston Dynamo,€210K,€500,2021 ~ 2022,"['CM', 'RM']"
+S. Ibrahim,19,Montreal Impact,€725K,€1K,2021 ~ 2023,"['ST', 'CF']"
+J. McGlynn,18,Philadelphia Union,€1.1M,€650,2020 ~ 2026,['CM']
+Ł. Łakomy,21,Zagłębie Lubin,€1.7M,€2K,2021 ~ 2024,"['CDM', 'CM']"
+R. Khadra,20,Birmingham City,€3.1M,€22K,"Jun 30, 2023 On Loan","['LW', 'ST']"
+C. Wooh,20,Rennes,€3.3M,€15K,2022 ~ 2026,['CB']
+J. Porozo,21,Troyes,€2.9M,€6K,2022 ~ 2027,['CB']
+E. Baggott,19,Gillingham,€500K,€1K,"Jun 30, 2023 On Loan",['CB']
+A. Kazeem,20,Colchester United,€450K,€2K,2020 ~ 2023,['LB']
+S. Radebe,22,Kaizer Chiefs,€325K,€500,2021 ~ 2023,"['CM', 'CAM']"
+M. Matysik,18,Jagiellonia Białystok,€1.3M,€650,2021 ~ 2024,"['CB', 'CM']"
+I. Schor,21,Platense,€4.2M,€7K,2020 ~ 2023,"['RM', 'RW', 'LM']"
+J. Hodge,19,Wolverhampton Wanderers,€525K,€6K,2021 ~ 2024,"['CM', 'CDM']"
+I. Sissokho,20,Bordeaux,€2.9M,€3K,2020 ~ 2024,"['CDM', 'CM']"
+K. Hansen,20,Häcken,€2.1M,€2K,2021 ~ 2024,['LB']
+K. Kesler Hayden,19,Huddersfield Town,€1.8M,€8K,"Jun 30, 2023 On Loan","['RWB', 'RB', 'LWB']"
+L. Bate,19,Oxford United,€1.7M,€6K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+K. Pinargote,19,Independiente del Valle,€750K,€500,2021 ~ 2023,['GK']
+S. Rosane,22,San Lorenzo,€1.8M,€3K,2021 ~ 2023,"['CDM', 'CM']"
+T. Douvikas,22,FC Utrecht,€3.3M,€9K,2021 ~ 2025,['ST']
+T. Kristensen,20,AGF,€1.6M,€3K,2021 ~ 2026,['CB']
+C. Ofori,16,New York RB,€275K,€500,2023 ~ 2025,"['LB', 'LM']"
+J. Baptiste,18,West Ham United,€400K,€2K,2020 ~ 2023,['CB']
+B. Traoré,18,Caen,€950K,€500,2021 ~ 2026,"['CB', 'CDM']"
+T. Arconte,18,Brest,€1.4M,€2K,2022 ~ 2026,"['RM', 'ST']"
+M. Campagna,18,Vancouver Whitecaps,€180K,€500,2021 ~ 2023,"['CB', 'CDM']"
+N. Mehssatou,19,Kortrijk,€1M,€2K,2022 ~ 2025,"['RB', 'LB']"
+M. Estève,20,Montpellier,€4.8M,€11K,2021 ~ 2025,['CB']
+A. Martegani,22,San Lorenzo,€3.1M,€6K,2018 ~ 2024,"['CAM', 'CM', 'LM']"
+E. Darboe,21,Roma,€2.6M,€14K,2020 ~ 2026,['CDM']
+H. Keïta,20,Kortrijk,€2.6M,€15K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+R. Norheim,17,Tromsø,€450K,€500,2020 ~ 2024,"['CAM', 'CF']"
+J. Gorter,22,Ajax,€3.6M,€6K,2021 ~ 2025,['GK']
+M. Lotka,21,Borussia Dortmund,€1.4M,€5K,2022 ~ 2024,['GK']
+S. Beukema,23,AZ,€5.5M,€8K,2021 ~ 2026,['CB']
+I. Achara,24,Houston Dynamo,€325K,€1K,2023 ~ 2023,"['LM', 'ST', 'RM']"
+C. Lungoyi,21,Ascoli,€1.3M,€1K,2021 ~ 2025,"['ST', 'RW']"
+Y. Keitel,22,SC Freiburg,€2.4M,€12K,2020 ~ 2024,"['CDM', 'CM']"
+W. Bøving,19,Sturm Graz,€1.8M,€4K,2022 ~ 2026,"['LM', 'ST', 'CAM']"
+H. Martínez,22,Libertad,€2.2M,€500,2018 ~ 2023,"['CDM', 'CM']"
+I. Amundsen,22,Bodø / Glimt,€1.2M,€1K,2020 ~ 2025,['CB']
+L. King,18,Rangers,€650K,€2K,2020 ~ 2026,['CB']
+J. Cruz,19,Colo-Colo,€1.7M,€1K,2020 ~ 2024,['CAM']
+J. Rojas,20,Colo-Colo,€1.3M,€1K,2020 ~ 2022,"['RB', 'CB']"
+M. Cox,19,Brentford,€575K,€2K,2021 ~ 2028,['GK']
+E. Roldán,21,Unión Santa Fe,€2.7M,€4K,2022 ~ 2025,"['CM', 'RM', 'CDM']"
+A. Aravena,19,Ñublense,€2M,€2K,2020 ~ 2023,"['ST', 'RW']"
+G. Tapia,20,Universidad Católica,€2.1M,€3K,2020 ~ 2022,"['RW', 'LW', 'ST']"
+J. Ngankam,21,Hertha BSC,€3.2M,€11K,2019 ~ 2025,"['ST', 'RM']"
+J. Krasso,24,Saint-Étienne,€1.6M,€3K,2020 ~ 2023,['ST']
+S. Nanasi,20,Malmö FF,€1.7M,€2K,2018 ~ 2025,"['LW', 'CAM']"
+R. Tihi,20,AIK,€1.2M,€1K,2020 ~ 2024,['CB']
+L. Delaurier-Chaubet,20,Bordeaux,€2.2M,€2K,2022 ~ 2023,"['LW', 'RW']"
+22 Tiago Almeida,19,Tondela,€1.9M,€1K,2019 ~ 2023,"['RB', 'RM']"
+Mortimer,21,Viborg,€1.4M,€2K,2022 ~ 2025,"['LW', 'RW']"
+J. Villagra,21,Unión Española,€2.5M,€2K,2020 ~ 2024,['CB']
+D. Borkowski,20,Dynamo Dresden,€1.6M,€9K,"Jun 30, 2023 On Loan","['ST', 'LM']"
+K. de la Fuente,20,Olympique Marseille,€4.3M,€24K,2021 ~ 2025,"['LW', 'LM']"
+P. Nebel,19,Karlsruher SC,€2.4M,€5K,"Jun 30, 2023 On Loan","['CAM', 'LW', 'RW']"
+M. Mustapha,21,FSV Mainz 05,€1.3M,€5K,2020 ~ 2024,['ST']
+I. Doukouré,18,Strasbourg,€1.9M,€2K,2022 ~ 2026,['CB']
+H. Neville,20,Inter Miami,€300K,€850,2022 ~ 2024,['RB']
+M. Balikwisha,21,Antwerp,€9.5M,€14K,2021 ~ 2026,"['LM', 'ST']"
+A. Becker,25,Viktoria Köln,€775K,€2K,2022 ~ 2024,['ST']
+J. Brooking,19,Chelsea,€600K,€6K,2020 ~ 2023,"['CB', 'RWB']"
+Martín,22,Granada,€900K,€2K,2021 ~ 2023,"['CM', 'CAM']"
+N. Bätzner,22,KV Oostende,€3.1M,€6K,2020 ~ 2024,"['CM', 'CAM']"
+F. Flores,20,San Lorenzo,€1.3M,€2K,2020 ~ 2023,"['CB', 'RB']"
+Pablo Moreno,20,Marítimo,€2.7M,€4K,2022 ~ 2025,"['ST', 'LM']"
+G. Frabotta,23,Frosinone,€2.7M,€29K,"Jun 30, 2023 On Loan",['LB']
+L. Neilson,19,Hearts,€1.4M,€950,2022 ~ 2025,"['CB', 'RB']"
+W. Kamanzi,21,Toulouse,€1.3M,€3K,2023 ~ 2023,"['LWB', 'RWB']"
+K. Meriluoto,19,HJK,€575K,€500,2022 ~ 2023,['ST']
+G. Infantino,19,Rosario Central,€2M,€3K,2020 ~ 2024,"['RM', 'LM']"
+S. Meza,22,Sarmiento,€2.3M,€4K,"Jun 30, 2023 On Loan",['GK']
+C. Montes,21,Universidad Católica,€2.5M,€3K,2020 ~ 2022,['LW']
+J. Hadjam,19,Paris,€1.3M,€1K,2020 ~ 2023,"['LB', 'LM']"
+J. Sforza,20,Newell's Old Boys,€2.4M,€4K,2020 ~ 2024,"['CM', 'CDM']"
+O. Tymchyk,25,Dynamo Kyiv,€3M,€650,2015 ~ 2025,['RB']
+C. Özkacar,21,Valencia,€3.3M,€19K,"Jun 30, 2023 On Loan",['CB']
+E. Emegha,19,Sturm Graz,€1.6M,€4K,2022 ~ 2026,['ST']
+E. Guessand,21,Nantes,€4.2M,€20K,"Jun 30, 2023 On Loan","['ST', 'LW']"
+E. Cornelisse,20,Vitesse,€1.6M,€3K,2020 ~ 2024,['CB']
+J. MacKenzie,21,Aberdeen,€1M,€1K,2018 ~ 2025,"['LB', 'LWB', 'CB']"
+A. Barry,22,Amiens SC,€1.2M,€1K,2022 ~ 2025,"['CB', 'CDM', 'RB']"
+D. Sinani,25,Norwich City,€2.1M,€22K,2020 ~ 2023,"['RM', 'CAM']"
+Carlos Augusto,23,Monza,€3.5M,€27K,2020 ~ 2024,"['LM', 'CB', 'LWB']"
+Afonso Sousa,22,Lech Poznań,€3.6M,€6K,2022 ~ 2026,"['CM', 'CAM']"
+B. Balogh,20,Parma,€900K,€700,2020 ~ 2025,['CB']
+M. Ilić,24,Kortrijk,€2.7M,€5K,2020 ~ 2024,['GK']
+Miguel Rodríguez,19,Celta de Vigo,€1.2M,€3K,2020 ~ 2023,"['RM', 'LM']"
+S. Tovide,18,Colchester United,€475K,€1K,2020 ~ 2024,"['ST', 'RM']"
+Meseguer,23,Granada,€3.3M,€5K,2022 ~ 2027,"['CDM', 'CM']"
+H. Ashby,20,West Ham United,€925K,€7K,2020 ~ 2023,"['RB', 'RWB']"
+G. Koutsias,18,PAOK,€1.5M,€500,2020 ~ 2023,"['ST', 'RW', 'LW']"
+A. Terzić,22,Fiorentina,€2.6M,€14K,2019 ~ 2024,['LB']
+Fer Niño,21,Villarreal II,€4.2M,€5K,2020 ~ 2024,['ST']
+V. Covil,18,Hull City,€525K,€1K,2022 ~ 2023,"['CAM', 'RW', 'LW']"
+B. Traoré,20,Wolverhampton Wanderers,€2.1M,€2K,"Jun 30, 2023 On Loan","['CM', 'CDM']"
+D. Bernard,21,Manchester United,€2.9M,€26K,2019 ~ 2025,"['CB', 'RB']"
+Ł. Bejger,20,Śląsk Wrocław,€1.1M,€1K,2021 ~ 2025,"['CB', 'RWB']"
+R. Devine,20,Swindon Town,€525K,€2K,2022 ~ 2024,"['LB', 'LWB']"
+Robert Navarro,20,Real Sociedad,€3.5M,€13K,2019 ~ 2025,"['LW', 'CAM', 'CM']"
+S. Pierotti,21,Colón,€3.2M,€6K,2019 ~ 2022,"['RM', 'CM']"
+H. Nicolussi Caviglia,22,Salernitana,€1.6M,€17K,"Jun 30, 2023 On Loan","['CM', 'CAM']"
+A. Tosin,24,Zürich,€2.8M,€9K,2019 ~ 2024,['ST']
+G. Kyriakopoulos,26,Sassuolo,€3.5M,€23K,2020 ~ 2025,"['LB', 'LM', 'LW']"
+N. Markelo,23,Excelsior,€600K,€1K,2022 ~ 2025,['RB']
+22 G. Sepúlveda,22,Guadalajara,€2.3M,€19K,2018 ~ 2022,['CB']
+22 F. Viñas,23,América,€4.7M,€29K,2019 ~ 2024,['ST']
+G. Simeone,19,Real Zaragoza,€2.9M,€11K,"Jun 30, 2023 On Loan","['ST', 'CAM', 'LM']"
+22 Vitao,21,Shakhtar Donetsk,€2.1M,€500,2019 ~ 2024,['CB']
+Raúl García,21,Mirandés,€3.2M,€9K,"Jun 30, 2023 On Loan",['ST']
+V. Jaroš,20,Stockport County,€900K,€8K,"Jun 30, 2023 On Loan",['GK']
+D. Yongwa,21,Lorient,€2.2M,€4K,2022 ~ 2026,"['LB', 'LWB']"
+J. Singh,21,Kerala Blasters,€525K,€500,2018 ~ 2025,"['CDM', 'CM']"
+L. Provod,25,Slavia Praha,€7.5M,€1K,2019 ~ 2026,"['CM', 'LM']"
+A. Okoflex,20,Swansea City,€950K,€8K,"Jun 30, 2023 On Loan","['LM', 'ST']"
+C. Barron,19,Aberdeen,€1.7M,€1K,2019 ~ 2024,"['CM', 'CDM']"
+E. Kornvig,22,Cosenza,€1.1M,€3K,"Jun 30, 2023 On Loan",['CM']
+E. Just,22,Horsens,€900K,€2K,2022 ~ 2026,"['ST', 'RW']"
+P. Wålemark,20,Feyenoord,€5M,€7K,2022 ~ 2026,"['RW', 'LW']"
+A. Alvarado,23,LDU Quito,€6M,€800,2021 ~ 2027,"['LM', 'LW', 'CF']"
+L. Iberico,24,Melgar,€3M,€650,2021 ~ 2022,"['LW', 'LM', 'ST']"
+M. Mohamed,24,Nantes,€6.5M,€47K,"Jun 30, 2023 On Loan",['ST']
+B. Białek,20,Vitesse,€2.7M,€13K,"Jun 30, 2023 On Loan",['ST']
+D. Cleonise,20,FC Twente,€1.6M,€3K,2021 ~ 2023,"['RW', 'LW']"
+P. Gueye,22,Kortrijk,€2.3M,€5K,2020 ~ 2024,['ST']
+M. Juwara,20,Bologna,€2.3M,€9K,2019 ~ 2024,"['ST', 'LW']"
+M. Esquivel,23,Lanús,€2.7M,€6K,2019 ~ 2023,"['CM', 'CAM']"
+Pedro Mendes,22,Ascoli,€3.8M,€4K,2022 ~ 2025,['ST']
+B. Franjić,22,VfL Wolfsburg,€3.6M,€20K,2022 ~ 2027,"['CDM', 'CB', 'LB']"
+L. Ríos,21,Banfield,€1.6M,€3K,2019 ~ 2022,"['CM', 'CDM']"
+22 I. Shkurin,21,Raków Częstochowa,€1.4M,€2K,2020 ~ 2024,['ST']
+R. Orihuela,21,Palermo,€1.7M,€950,2020 ~ 2023,"['CB', 'RB']"
+22 V. Guzmán,19,Tijuana,€1.6M,€3K,2020 ~ 2022,['CB']
+Óscar Clemente,23,Las Palmas,€2.3M,€3K,2020 ~ 2023,"['LM', 'RM', 'CM']"
+J. Nelson,19,Toronto,€1.1M,€1K,2020 ~ 2022,"['LM', 'RM', 'CM']"
+Vitor Carvalho,25,Gil Vicente,€2.5M,€7K,2020 ~ 2024,"['CDM', 'CM']"
+Camilo,23,Olympique Lyonnais,€875K,€8K,2020 ~ 2024,"['RM', 'CDM']"
+I. Nuhu,20,AS Eupen,€1.6M,€3K,2020 ~ 2025,"['ST', 'LW']"
+Samú Costa,21,Almería,€6.5M,€13K,2021 ~ 2026,"['CDM', 'CM']"
+D. Maldini,20,Spezia,€1.7M,€10K,"Jun 30, 2023 On Loan",['CAM']
+Leonai,27,Barcelona Guayaquil,€1.4M,€500,2020 ~ 2023,"['CDM', 'CM']"
+D. Zima,21,Torino,€8M,€23K,2021 ~ 2025,['CB']
+T. Borbas,20,River Plate,€5M,€500,2020 ~ 2023,"['ST', 'RW']"
+S. Rodríguez,22,New York City,€4.2M,€5K,2021 ~ 2023,"['CAM', 'LM', 'RM']"
+G. Martirena,22,Liverpool,€2.2M,€500,2019 ~ 2023,"['RB', 'RWB']"
+B. Šutalo,22,Dinamo Zagreb,€4.4M,€600,2022 ~ 2027,['CB']
+Goh Young Jun,20,Pohang Steelers,€1.4M,€1K,2020 ~ 2024,"['CAM', 'LM']"
+T. Castro Ponce,21,Godoy Cruz,€1.1M,€3K,"Dec 31, 2022 On Loan","['CAM', 'CM', 'RM']"
+B. Garrity,25,Port Vale,€850K,€2K,2021 ~ 2023,"['CM', 'CAM']"
+I. Achara,24,Houston Dynamo,€325K,€1K,2023 ~ 2023,"['LM', 'ST', 'RM']"
+C. Lungoyi,21,Ascoli,€1.3M,€1K,2021 ~ 2025,"['ST', 'RW']"
+Y. Keitel,22,SC Freiburg,€2.4M,€12K,2020 ~ 2024,"['CDM', 'CM']"
+Unai Vencedor,21,Athletic Club,€8.5M,€18K,2018 ~ 2027,"['CM', 'CDM']"
+A. Mikkelsen,21,Tromsø,€2.3M,€2K,2019 ~ 2025,['CF']
+D. Saba,29,Sivasspor,€4.1M,€17K,2022 ~ 2023,"['CAM', 'ST']"
+A. Pelmard,22,Basel,€3.9M,€10K,2022 ~ 2025,"['CB', 'LB']"
+D. Ochoa,21,DC United,€2M,€1K,2022 ~ 2023,['GK']
+F. Mambimbi,21,SC Cambuur,€2.7M,€8K,"Jun 30, 2023 On Loan","['LW', 'ST', 'RW']"
+R. Al Hajj,20,SC Heerenveen,€1.7M,€2K,2018 ~ 2023,"['CAM', 'CM']"
+A. Glennon,22,Grimsby Town,€800K,€2K,2022 ~ 2024,"['LB', 'LWB']"
+A. Rowe,21,Huddersfield Town,€850K,€2K,2019 ~ 2024,"['RWB', 'LWB', 'RB']"
+Y. Dukuly,19,Reims,€300K,€2K,2022 ~ 2025,"['LM', 'RM']"
+C. Petrila,21,CFR Cluj,€3.1M,€7K,2018 ~ 2023,"['LW', 'RW']"
+Ș. Târnovanu,22,FCSB,€2.3M,€4K,2020 ~ 2024,['GK']
+N. Boujellab,23,Schalke 04,€2M,€7K,2018 ~ 2023,"['CAM', 'CF', 'CM']"
+T. Ballo,20,Wolfsberger AC,€1.9M,€4K,2022 ~ 2024,"['CAM', 'CM', 'RM']"
+M. Taferner,21,Wolfsberger AC,€2.7M,€5K,2020 ~ 2023,['CM']
+Vivian,22,Athletic Club,€15.5M,€21K,2019 ~ 2026,['CB']
+J. Furlong,20,Brighton & Hove Albion,€425K,€6K,2019 ~ 2023,['LB']
+L. Munteanu,20,SSC Farul,€1.4M,€9K,"Jun 30, 2023 On Loan",['ST']
+K. Hein,20,Arsenal,€1.1M,€7K,2019 ~ 2026,['GK']
+C. Conteh,22,Dynamo Dresden,€1.6M,€2K,"Jun 30, 2023 On Loan","['LM', 'RM', 'ST']"
+L. Moro,21,Frosinone,€600K,€4K,"Jun 30, 2023 On Loan",['ST']
+M. Wieffer,22,Feyenoord,€1.6M,€2K,2022 ~ 2026,"['CM', 'CDM']"
+D. Leyva,19,Seattle Sounders,€1.4M,€1K,2019 ~ 2023,"['CM', 'CDM']"
+N. Guinness-Walker,22,Reading,€1.1M,€4K,2022 ~ 2023,"['LWB', 'LB']"
+M. Diarra,21,Toulouse,€2.1M,€4K,2019 ~ 2023,"['CB', 'LB', 'CM']"
+K. Imeri,22,Young Boys,€2.7M,€8K,2022 ~ 2026,"['CM', 'LW', 'CAM']"
+D. Bakwa,19,Bordeaux,€3.3M,€3K,2019 ~ 2025,"['RW', 'LM', 'RM']"
+H. Dervişoğlu,22,Burnley,€2.5M,€23K,"Jun 30, 2023 On Loan","['ST', 'CF', 'CAM']"
+A. Mehmeti,21,Wycombe Wanderers,€2.3M,€3K,2020 ~ 2024,['LW']
+P. Ciss,28,Rayo Vallecano,€2.7M,€16K,2021 ~ 2025,['CDM']
+Z. Jeacock,21,Birmingham City,€400K,€3K,2019 ~ 2024,['GK']
+J. Barnett,21,Melbourne Victory,€350K,€1K,2019 ~ 2023,"['CDM', 'LB', 'RB']"
+M. Hoffmeier,22,Paderborn,€2.1M,€6K,2022 ~ 2025,"['CB', 'CDM']"
+A. Stiller,21,TSG Hoffenheim,€4.9M,€19K,2021 ~ 2025,"['CM', 'CDM']"
+A. Cordea,23,FCSB,€3.5M,€9K,2021 ~ 2023,['RW']
+22 N. Kupusović,19,Türkgücü-Ataspor,€500K,€750,2021 ~ 2022,['ST']
+N. Jaby,21,Clermont,€300K,€2K,2019 ~ 2024,['CDM']
+P. Koronkiewicz,31,Viktoria Köln,€625K,€2K,2014 ~ 2023,"['RB', 'RM']"
+M. Abubakari,22,Malmö FF,€1.6M,€2K,2021 ~ 2025,['ST']
+A. Konaté,21,Nottingham Forest,€725K,€7K,2020 ~ 2023,"['CAM', 'LW']"
+A. Assal,20,AFC Wimbledon,€1.4M,€3K,2019 ~ 2024,"['CF', 'CAM']"
+N. Dyhr,21,Midtjylland,€2.1M,€8K,2019 ~ 2024,['LB']
+M. Skóraś,22,Lech Poznań,€3.1M,€5K,2017 ~ 2026,"['LM', 'RM']"
+Ș. Baiaram,19,Universitatea Craiova,€2.9M,€4K,2019 ~ 2026,"['LM', 'ST', 'LW']"
+D. Bradarić,22,Salernitana,€3.5M,€15K,2022 ~ 2026,"['LWB', 'LM', 'LB']"
+T. Dallinga,21,Toulouse,€3.2M,€8K,2022 ~ 2026,['ST']
+F. Heister,25,Viktoria Köln,€575K,€1K,2021 ~ 2024,"['RB', 'LB']"
+S. Abdul Samed,22,Lens,€3.1M,€17K,2022 ~ 2027,"['CDM', 'CM']"
+A. Rogel,24,Hertha BSC,€3.4M,€16K,2022 ~ 2026,['CB']
+Riccieli,23,Famalicão,€3.9M,€5K,2019 ~ 2025,['CB']
+L. Clarkson,20,Aberdeen,€1.7M,€15K,"Jun 30, 2023 On Loan","['CM', 'CAM', 'CDM']"
+Filipe Soares,23,PAOK,€3.2M,€700,2022 ~ 2026,['CM']
+A. Méndez,21,Vizela,€2.7M,€2K,2021 ~ 2024,"['CM', 'RW', 'CDM']"
+Y. Larouci,21,Troyes,€2.6M,€5K,2021 ~ 2026,"['LWB', 'LB']"
+A. Loubongo-M'Boungou,21,Rot-Weiss Essen,€600K,€800,2022 ~ 2024,"['LM', 'RM']"
+W. Bapaga,19,Coventry City,€850K,€3K,2019 ~ 2023,"['LW', 'RW', 'CAM']"
+R. Zerrouki,24,FC Twente,€6.5M,€11K,2019 ~ 2024,"['CM', 'CDM']"
+N. Zortea,23,Atalanta,€1.6M,€13K,2019 ~ 2025,"['RWB', 'RM', 'RB']"
+E. Delprato,22,Parma,€2.6M,€2K,2022 ~ 2025,"['RB', 'CB', 'RM']"
+22 H. Ortega,21,Toluca,€3.3M,€8K,2021 ~ 2022,['CB']
+R. Burton,22,Sligo Rovers,€475K,€500,"Nov 30, 2022 On Loan",['CDM']
+Jorge Félix,30,Piast Gliwice,€850K,€4K,2022 ~ 2023,"['CF', 'LM']"
+L. Pfeiffer,25,VfB Stuttgart,€2.4M,€16K,2022 ~ 2026,['ST']
+A. Marin,21,Dinamo Zagreb,€2.3M,€500,2017 ~ 2024,"['CAM', 'LW']"
+A. Fein,23,Excelsior,€2.3M,€3K,2022 ~ 2024,['CDM']
+R. Stewart,25,Sunderland,€2.5M,€13K,2021 ~ 2023,['ST']
+V. Buyalskyi,29,Dynamo Kyiv,€7.5M,€1K,2010 ~ 2023,"['CM', 'CAM']"
+V. Coufal,29,West Ham United,€15.5M,€69K,2020 ~ 2023,['RB']
+I. Sadiq,22,Häcken,€2.3M,€3K,2022 ~ 2025,"['RW', 'ST', 'LW']"
+E. Erhahon,21,St. Mirren,€2.3M,€2K,2017 ~ 2023,"['CM', 'CDM']"
+Puado,24,Espanyol,€11.5M,€17K,2017 ~ 2025,"['RM', 'LM', 'ST']"
+20 A. Ivan,24,New York RB,€625K,€2K,2018 ~ 2019,"['RM', 'LM']"
+K. Velasco,25,Deportivo Cali,€7.5M,€5K,2018 ~ 2022,['LM']
+J. Segre,25,Palermo,€1.8M,€2K,2022 ~ 2025,['CM']
+L. Czyborra,23,Genoa,€2.7M,€2K,2021 ~ 2024,"['LB', 'LM']"
+J. Key,22,Exeter City,€1.3M,€2K,2018 ~ 2023,"['RWB', 'CB']"
+A. Yusuf,21,Antwerp,€4.5M,€10K,2021 ~ 2025,"['CDM', 'CM']"
+Martín,22,UD Ibiza,€1.8M,€5K,"Jun 30, 2023 On Loan","['CB', 'CDM']"
+M. Capasso,26,Atlético Tucumán,€2.4M,€8K,2022 ~ 2025,['CB']
+Bruno Costa,25,Porto,€5.5M,€12K,2021 ~ 2024,['CM']
+J. Hungbo,22,Watford,€1.3M,€8K,2019 ~ 2024,"['RM', 'LM']"
+M. Loum,25,Reading,€2.6M,€9K,"Jun 30, 2023 On Loan","['CDM', 'CM']"
+J. López,22,Defensa y Justicia,€1.9M,€5K,"Dec 31, 2023 On Loan","['CM', 'CDM', 'CAM']"
+R. Uldriķis,24,SC Cambuur,€1.1M,€3K,2021 ~ 2023,['ST']
+V. Supriaha,22,Dynamo Kyiv,€3.8M,€650,2018 ~ 2025,['ST']
+M. Talbi,24,Lorient,€2.2M,€9K,2022 ~ 2025,['CB']
+C. Okoroji,25,Sandhausen,€1.9M,€5K,2021 ~ 2024,['LB']
+B. Waine,21,Plymouth Argyle,€1.8M,€3K,2023 ~ 2025,['ST']
+Guerrero,24,Zürich,€3M,€11K,2021 ~ 2024,"['LM', 'LWB', 'LB']"
+Víctor Gómez,22,Sporting Braga,€3.4M,€8K,"Jun 30, 2023 On Loan",['RB']
+C. Sánchez,22,Celta de Vigo,€1.4M,€2K,"Jun 30, 2023 On Loan",['GK']
+Miguel Morro,21,Rayo Vallecano,€1.5M,€2K,2016 ~ 2025,['GK']
+A. Mocsi,22,,€0,€0,Free,['CB']
+H. Weydandt,26,Hannover 96,€1.1M,€10K,2018 ~ 2023,['ST']
+M. Ross,21,Galatasaray,€2.1M,€12K,2022 ~ 2026,['CB']
+J. Bowden,20,Tottenham Hotspur,€1.2M,€11K,2018 ~ 2023,"['CM', 'CDM']"
+M. López,22,Feyenoord,€2.1M,€4K,2022 ~ 2026,['LB']
+Vítor Tormena,26,Sporting Braga,€8.5M,€14K,2019 ~ 2024,['CB']
+A. Jukic,21,Austria Wien,€1.7M,€5K,2018 ~ 2024,"['LM', 'RM', 'CAM']"
+S. McCallum,21,Norwich City,€3.4M,€15K,2020 ~ 2024,"['LB', 'LWB']"
+E. Pletinckx,21,OH Leuven,€2.1M,€3K,2022 ~ 2026,['CB']
+M. Hermansen,21,Brøndby,€3.6M,€5K,2018 ~ 2025,['GK']
+M. Weigandt,22,Boca Juniors,€4M,€9K,2018 ~ 2022,['RB']
+F. Navarro,22,Chicago Fire,€3.2M,€3K,2021 ~ 2025,"['CDM', 'CM']"
+L. Orellano,22,Vélez Sarsfield,€6M,€12K,2018 ~ 2023,['RW']
+F. Girotti,23,Talleres Córdoba,€3.2M,€9K,2022 ~ 2025,['ST']
+E. Holm,22,Spezia,€2.7M,€6K,2021 ~ 2026,"['RM', 'RB', 'RWB']"
+N. Katterbach,21,Basel,€3M,€8K,"Jun 30, 2023 On Loan",['LB']
+M. Pollock,20,Watford,€1.5M,€7K,2021 ~ 2026,['CB']
+S. Väänänen,20,Rosenborg,€1.3M,€1K,2023 ~ 2026,"['CDM', 'CM']"
+Álex Pachón,21,Las Palmas,€900K,€2K,2021 ~ 2023,['ST']
+T. Watanabe,25,Kortrijk,€1.8M,€7K,2022 ~ 2025,"['CB', 'CDM']"
+Gerson Rodrigues,27,Al Wahda,€2M,€650,"Jun 30, 2023 On Loan","['LM', 'ST']"
+P. Akouokou,24,Real Betis,€3.5M,€11K,2018 ~ 2024,"['CDM', 'CM']"
+B. Kouyaté,25,Metz,€2.3M,€5K,2020 ~ 2024,['CB']
+T. Gulliksen,18,Strømsgodset,€925K,€500,2019 ~ 2024,"['LW', 'CM']"
+Ruan,27,DC United,€1.1M,€3K,2023 ~ 2023,['RB']
+A. Espino,30,Cádiz,€12M,€30K,2019 ~ 2023,['LB']
+J. Benson,22,Barnsley,€925K,€3K,2021 ~ 2025,"['CM', 'CDM']"
+A. Palaversa,22,Troyes,€3.6M,€9K,2022 ~ 2025,"['CM', 'CDM']"
