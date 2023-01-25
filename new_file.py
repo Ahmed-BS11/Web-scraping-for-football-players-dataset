@@ -15,11 +15,11 @@ def controle(x):
     return x
 
 
-    
+
 df=pd.DataFrame()
 
 
-for i in range(1,5):
+for i in range(5):
     html_text=extract_source(f"https://sofifa.com/players?r=220069&offset={i*60}")
     soup = BeautifulSoup(html_text, 'html.parser')
     player_list=[]
