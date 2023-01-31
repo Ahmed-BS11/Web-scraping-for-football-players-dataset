@@ -23,7 +23,7 @@ Years = Years=[2023, 2022, 2021, 2020, 2019, 2018]
 df = pd.DataFrame()
 for year in range(len(Years)):
 
-    for pagenum in range(0, 2):
+    for pagenum in range(1, 2):
 
         html_text = extract_source(
             f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id={Years[year]}&transferfenster=alle&land_id=&ausrichtung=&spielerposition_id=&altersklasse=&leihe=&page="+str(pagenum))
