@@ -18,13 +18,13 @@ def controle(x):
     return x
 
 
-# ,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023]
-Years = Years=[2023, 2022, 2021, 2020, 2019, 2018]
+Years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014,
+         2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005]
 df = pd.DataFrame()
 for year in range(len(Years)):
 
-    for pagenum in range(1, 2):
-
+    for pagenum in range(1, 81):
+            
         html_text = extract_source(
             f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id={Years[year]}&transferfenster=alle&land_id=&ausrichtung=&spielerposition_id=&altersklasse=&leihe=&page="+str(pagenum))
         soup = BeautifulSoup(html_text, 'html.parser')
@@ -96,10 +96,9 @@ for year in range(len(Years)):
                 "Posts": player_position,
             }
             players_data.append(player_data)
-        print(Years[year],pagenum)
-        print(players_data)
-        
+        #print(Years[year], pagenum)
+        #print(players_data)
 
     df = pd.concat([df, pd.DataFrame(players_data)])
 
-df.to_csv('testing.csv', index=False)
+df.to_csv('Final_DataSet.csv', index=False)
