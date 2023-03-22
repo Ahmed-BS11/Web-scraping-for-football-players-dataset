@@ -94,6 +94,34 @@ for num_page in range(1, 2):
             else:
                 Agent = "NONE"
 
+            total = soupp.find_all('td', class_="zentriert")
+            InTheSquad=total[0]
+            InTheSquad=InTheSquad.text.replace('\n',"")
+            #print(InTheSquad)
+            Appearances=total[1]
+            Appearances=Appearances.text.replace('\n',"")
+            PointsPerGames=total[2]
+            PointsPerGames=PointsPerGames.text.replace('\n',"")
+            TotalGoals=total[3]
+            TotalGoals=TotalGoals.text.replace('\n',"").replace('-','0')
+            TotalAssists=total[4]
+            TotalAssists=TotalAssists.text.replace('\n',"").replace('-','0')
+            OwnGoals=total[5]
+            OwnGoals=OwnGoals.text.replace('\n',"").replace('-','0')
+            YellowCards=total[8]
+            YellowCards=YellowCards.text.replace('\n',"").replace('-','0')
+            RedCards=total[10]
+            RedCards=RedCards.text.replace('\n',"").replace('-','0')
+            Penalty_goals=total[11]
+            Penalty_goals=Penalty_goals.text.replace('\n',"").replace('-','0')
+
+            totals = soupp.find_all('td', class_="rechts")
+            MinutesPerGoal=totals[1]
+            MinutesPerGoal=MinutesPerGoal.text.replace('\n',"").replace('-','0')
+            MinutesTotal=totals[2]
+            MinutesTotal=MinutesTotal.text.replace('\n',"").replace('-','0')
+            print(MinutesPerGoal,MinutesTotal)
+
             player_data = {
             "name": name,
             "age": age,
@@ -110,6 +138,18 @@ for num_page in range(1, 2):
             "CountryOfNewTeam": CountryOfNewTeam,
             "Height": Height,
             "Agent":Agent,
+            "InTheSquad":InTheSquad,
+            "Appearances":Appearances,
+            "PointsPerGames":PointsPerGames,
+            "TotalGoals":TotalGoals,
+            "TotalAssists":TotalAssists,
+            "OwnGoals":OwnGoals,
+            "YellowCards":YellowCards,
+            "RedCards":RedCards,
+            "Penalty_goals":Penalty_goals,
+            "MinutesPerGoal":MinutesPerGoal,
+            "MinutesTotal":MinutesTotal,
+            
             }
             #dataset = [name, age, position, Country, MarketValue,PreviousTeam, LeagueOfPreviousTeam,CountryOfPreviousTeam, Fee, YearOfTransfert,  NewTeam, LeagueOfNewTeam, CountryOfNewTeam,Height,Agent]
             #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
