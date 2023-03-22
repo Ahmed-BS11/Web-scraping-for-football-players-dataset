@@ -108,13 +108,12 @@ for num_page in range(1, 2):
             "NewTeam": NewTeam,
             "LeagueOfNewTeam":LeagueOfNewTeam,
             "CountryOfNewTeam": CountryOfNewTeam,
-
             "Height": Height,
             "Agent":Agent,
             }
             #dataset = [name, age, position, Country, MarketValue,PreviousTeam, LeagueOfPreviousTeam,CountryOfPreviousTeam, Fee, YearOfTransfert,  NewTeam, LeagueOfNewTeam, CountryOfNewTeam,Height,Agent]
             #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
-            df = pd.concat([df, pd.DataFrame(player_data)])
+            df = pd.concat([df, pd.DataFrame(player_data, index=[0])])
 
 df.to_csv('2022season.csv', index=False)
 
