@@ -11,7 +11,7 @@ import pandas as pd
 #thewriter.writerow(header) #first row contains the header values
 df = pd.DataFrame()
 
-for num_page in range(1, 2):
+for num_page in [x for x in range(1,81) if x != 9]:
         URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2022&page="+ str(num_page)
         HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}  # solution to 403 forbidden
 
@@ -124,7 +124,7 @@ for num_page in range(1, 2):
 
             ContractExpires=soupp.find_all("span",class_="data-header__content")[2]
             ContractExpires=ContractExpires.text.replace('\n',"").replace('-','0')
-            print(ContractExpires)
+            #print(ContractExpires)
 
             JoinedIn=soupp.find_all("span",class_="data-header__content")[1]
             JoinedIn=JoinedIn.text.replace('\n',"").replace('-','0')
