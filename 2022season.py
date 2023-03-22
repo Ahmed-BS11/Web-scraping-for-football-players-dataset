@@ -120,7 +120,14 @@ for num_page in range(1, 2):
             MinutesPerGoal=MinutesPerGoal.text.replace('\n',"").replace('-','0')
             MinutesTotal=totals[2]
             MinutesTotal=MinutesTotal.text.replace('\n',"").replace('-','0')
-            print(MinutesPerGoal,MinutesTotal)
+            #print(MinutesPerGoal,MinutesTotal)
+
+            ContractExpires=soupp.find_all("span",class_="data-header__content")[2]
+            ContractExpires=ContractExpires.text.replace('\n',"").replace('-','0')
+            print(ContractExpires)
+
+            JoinedIn=soupp.find_all("span",class_="data-header__content")[1]
+            JoinedIn=JoinedIn.text.replace('\n',"").replace('-','0')
 
             player_data = {
             "name": name,
@@ -149,7 +156,8 @@ for num_page in range(1, 2):
             "Penalty_goals":Penalty_goals,
             "MinutesPerGoal":MinutesPerGoal,
             "MinutesTotal":MinutesTotal,
-            
+            "JoinedIn":JoinedIn,
+            "ContractExpires":ContractExpires,
             }
             #dataset = [name, age, position, Country, MarketValue,PreviousTeam, LeagueOfPreviousTeam,CountryOfPreviousTeam, Fee, YearOfTransfert,  NewTeam, LeagueOfNewTeam, CountryOfNewTeam,Height,Agent]
             #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
