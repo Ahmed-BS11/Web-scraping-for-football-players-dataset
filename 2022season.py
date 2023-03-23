@@ -11,7 +11,7 @@ import pandas as pd
 #thewriter.writerow(header) #first row contains the header values
 df = pd.DataFrame()
 
-for num_page in [x for x in range(1,81) if x != 9]:
+for num_page in range(1,81):
         URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2022&page="+ str(num_page)
         HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}  # solution to 403 forbidden
 
@@ -20,8 +20,13 @@ for num_page in [x for x in range(1,81) if x != 9]:
 
         soup = BeautifulSoup(response.content, 'html.parser')  #the whole page content
         # print(soup.prettify()) #Ou bien tt simplement print(response.text)
-
-
+        """if (num_page==9):
+            Z=[x for x in range(0,24) if x!=1]
+        elif(num_page==11):
+            Z=[x for x in range(0,24) if x!=1]
+        else :
+            Z=[x for x in range(0,24)]"""
+        Z=[x for x in range(0,24)]
 
 
         #Debut jiben URLS
@@ -40,10 +45,10 @@ for num_page in [x for x in range(1,81) if x != 9]:
                 "ò": "o", "¿": "", "ó": "o", "á": "a", "à": "a", "õ": "o", "¡": "", "Ó": "O", "ù": "u", "Ú": "U",
                 "´": "", "Ñ": "N", "Ò": "O", "ï": "i", "Ï": "I", "Ç": "C", "À": "A", "É": "E", "ë": "e", "Á": "A",
                 "ã": "a", "Ö": "O", "ú": "u", "ñ": "n", "é": "e", "ê": "e", "·": "-", "ª": "a", "°": "", "ü": "u",
-                "ô": "o"}
+                "ô": "o","ć":"c"}
         listURL = []
         for name, key in zip(range(len(names)), range(len(keys))):
-            url = "https://www.transfermarkt.com/" + str(names[name]) + "/leistungsdatendetails/spieler/" + str(
+            url = "https://www.transfermarkt.com/" + str(names[name]).replace(".","-") + "/leistungsdatendetails/spieler/" + str(
                 keys[key]) + "/saison/2021/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
             for ghalet, shyh in D.items():
                 url = url.replace(ghalet, shyh)
@@ -65,8 +70,8 @@ for num_page in [x for x in range(1,81) if x != 9]:
         img = [row.find_all('img') for row in rows if row != '\n']
             #print(img[1][-3])
             #names1 = [row.find('img').get('title') for row in rows if row.find('a')!= -1]
-
-        for i, j, k in zip(range(len(td)), range(len(a)), range(len(img))):
+        
+        for i, j, k in zip(Z,Z,Z):
             name = td[i][3].text.replace('\n', "")
             age = td[i][5].text.replace('\n', "")
             position = td[i][4].text.replace('\n', "")
