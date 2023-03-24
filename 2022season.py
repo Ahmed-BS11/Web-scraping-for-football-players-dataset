@@ -11,7 +11,7 @@ import pandas as pd
 #thewriter.writerow(header) #first row contains the header values
 df = pd.DataFrame()
 
-for num_page in range(1,81):
+for num_page in range(1,10):
         URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2022&page="+ str(num_page)
         HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}  # solution to 403 forbidden
 
@@ -167,6 +167,6 @@ for num_page in range(1,81):
             #dataset = [name, age, position, Country, MarketValue,PreviousTeam, LeagueOfPreviousTeam,CountryOfPreviousTeam, Fee, YearOfTransfert,  NewTeam, LeagueOfNewTeam, CountryOfNewTeam,Height,Agent]
             #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
             df = pd.concat([df, pd.DataFrame(player_data, index=[0])])
-
+            print(df['name'].tail(1))
 df.to_csv('2022season.csv', index=False)
 
