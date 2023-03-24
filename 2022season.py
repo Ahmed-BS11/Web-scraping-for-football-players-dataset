@@ -11,7 +11,7 @@ import pandas as pd
 #thewriter.writerow(header) #first row contains the header values
 df = pd.DataFrame()
 
-for num_page in range(1,40):
+for num_page in range(5,40):
         URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2022&page="+ str(num_page)
         HEADERS = {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'}  # solution to 403 forbidden
 
@@ -48,7 +48,7 @@ for num_page in range(1,40):
                 "ô": "o","ć":"c"}
         listURL = []
         for name, key in zip(range(len(names)), range(len(keys))):
-            url = "https://www.transfermarkt.com/" + str(names[name]).replace(".","-") + "/leistungsdatendetails/spieler/" + str(
+            url = "https://www.transfermarkt.com/" + str(names[name]).replace(".","-").replace("'","") + "/leistungsdatendetails/spieler/" + str(
                 keys[key]) + "/saison/2021/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
             for ghalet, shyh in D.items():
                 url = url.replace(ghalet, shyh)
@@ -168,5 +168,5 @@ for num_page in range(1,40):
             #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
             df = pd.concat([df, pd.DataFrame(player_data, index=[0])])
             print(df['name'].tail(1))
-df.to_csv('2022season.csv', index=False)
+df.to_csv('2022season.csv', mode='a',index=False)
 
