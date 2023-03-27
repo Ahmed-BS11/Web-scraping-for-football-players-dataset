@@ -168,5 +168,5 @@ for num_page in range(1,40):
         #thewriter.writerow(dataset)  #ajouter chaque ligne au fichier csv
         df = pd.concat([df, pd.DataFrame(player_data, index=[0])])
         print(df['name'].tail(1))
-    df.to_csv('2022season.csv', mode='a',index=False)
+df.to_csv('2022season.csv', mode='w',index=False)
 
