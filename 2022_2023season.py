@@ -9,7 +9,7 @@ with open('DebutFin2019_2020.csv', 'a', newline='', encoding='utf8') as file:
                   'Height', 'Agent', 'JoinedCurrentTeam', 'ContratExpires', 'Squad', 'Appearances', 'PPG', 'Goals', 'Assists', 'OwnGoals', 'SubsON', 'SubsOFF', 'YellowCards', 'SecondYellowCards', 'RedCards', 'PenaltyGoals', 'MinutesPerGoal', 'MinutesPlayed', 'PlaceOfBirth', 'DateOfBirth']  # les noms des colonnes du fichier
         thewriter.writerow(header)  # first row contains the header values
 
-        for num_page in range(45, 81):
+        for num_page in range(58, 81):
                 URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2019&page=" + \
                     str(num_page)
                 # solution to 403 forbidden
@@ -151,14 +151,15 @@ with open('DebutFin2019_2020.csv', 'a', newline='', encoding='utf8') as file:
 
 
                         TDD =soupp.find_all('td',class_="rechts")
-                        if TDD != []:
+                        try:
                                 MinutesPerGoal = TDD[1].text.replace("-","0").replace('\n', "")
                                 MinutesPlayed = TDD[2].text.replace("-","0").replace('\n', "")
 
-                        else:
+                        except IndexError:
                                 MinutesPerGoal = "NONE"
                                 MinutesPlayed = "NONE"
-
+                        if(Goals==0):
+                               MinutesPerGoal="-"
                         dataset = [name, age, position, Country, MarketValue,PreviousTeam, LeagueOfPreviousTeam,CountryOfPreviousTeam, Fee, YearOfTransfert, NewTeam, LeagueOfNewTeam, CountryOfNewTeam,
                                    Height,Agent,JoinedCurrentTeam,ContratExpires,Squad,Appearances,PPG,Goals,Assists,OwnGoals,SubsON,SubsOFF,YellowCards,SecondYellowCards,RedCards,PenaltyGoals,MinutesPerGoal,MinutesPlayed,PlaceOfBirth,DateOfBirth]
                         thewriter.writerow(dataset) #ajouter chaque ligne au fichier csv
