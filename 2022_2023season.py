@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 
-with open('DebutFin2017_2018.csv', 'a', newline='', encoding='utf8') as file:
+with open('DebutFin2013_2014.csv', 'a', newline='', encoding='utf8') as file:
         thewriter = writer(file)
         header = ['name', 'age', 'position', 'Country', 'MarketValue', 'PreviousTeam', 'LeagueOfPreviousTeam', 'CountryOfPreviousTeam', 'Fee', 'YearOfTranfert', 'NewTeam', 'LeagueOfNewTeam', 'CountryOfNewTeam',
                   'Height', 'Agent', 'JoinedCurrentTeam', 'ContratExpires', 'Squad', 'Appearances', 'PPG', 'Goals', 'Assists', 'OwnGoals', 'SubsON', 'SubsOFF', 'YellowCards', 'SecondYellowCards', 'RedCards', 'PenaltyGoals', 'MinutesPerGoal', 'MinutesPlayed', 'PlaceOfBirth', 'DateOfBirth']  # les noms des colonnes du fichier
-        #thewriter.writerow(header)  # first row contains the header values
+        thewriter.writerow(header)  # first row contains the header values
 
-        for num_page in range(79, 81):
-                URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2017&page=" + \
+        for num_page in range(1, 81):
+                URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2013&page=" + \
                     str(num_page)
                 # solution to 403 forbidden
                 HEADERS = {
@@ -43,7 +43,7 @@ with open('DebutFin2017_2018.csv', 'a', newline='', encoding='utf8') as file:
                 listURL = []
                 for name, key in zip(range(len(names)), range(len(keys))):
                     url = "https://www.transfermarkt.com/" + str(names[name]).replace('.', '-') + "/leistungsdatendetails/spieler/" + str(
-                        keys[key]) + "/saison/2017/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
+                        keys[key]) + "/saison/2013/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
                     for ghalet, shyh in D.items():
                         url = url.replace(ghalet, shyh)
                     listURL.append(url)
@@ -81,7 +81,7 @@ with open('DebutFin2017_2018.csv', 'a', newline='', encoding='utf8') as file:
                             'alt').replace('\n', "")
                         CountryOfNewTeam = img[k][-1].get(
                             'alt').replace('\n', "")
-                        YearOfTransfert = "2017"
+                        YearOfTransfert = "2013"
                         autreURL = listURL[i]
                         print(autreURL)
                         response = requests.get(autreURL, headers=HEADERS)
