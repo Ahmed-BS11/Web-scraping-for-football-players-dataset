@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 
-with open('2007_2008.csv', 'a', newline='', encoding='utf8') as file:
+with open('2009_2010.csv', 'a', newline='', encoding='utf8') as file:
         thewriter = writer(file)
         header = ['name', 'age', 'position', 'Country', 'MarketValue', 'PreviousTeam', 'LeagueOfPreviousTeam', 'CountryOfPreviousTeam', 'Fee', 'YearOfTranfert', 'NewTeam', 'LeagueOfNewTeam', 'CountryOfNewTeam',
                   'Height', 'Agent', 'JoinedCurrentTeam', 'ContratExpires', 'Squad', 'Appearances', 'PPG', 'Goals', 'Assists', 'OwnGoals', 'SubsON', 'SubsOFF', 'YellowCards', 'SecondYellowCards', 'RedCards', 'PenaltyGoals', 'MinutesPerGoal', 'MinutesPlayed', 'PlaceOfBirth', 'DateOfBirth']  # les noms des colonnes du fichier
         #thewriter.writerow(header)  # first row contains the header values
 
         for num_page in range(71,81):
-                URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2007&page=" + \
+                URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2009&page=" + \
                     str(num_page)
                 # solution to 403 forbidden
                 HEADERS = {
@@ -43,7 +43,7 @@ with open('2007_2008.csv', 'a', newline='', encoding='utf8') as file:
                 listURL = []
                 for name, key in zip(range(len(names)), range(len(keys))):
                     url = "https://www.transfermarkt.com/" + str(names[name]).replace('.', '-') + "/leistungsdatendetails/spieler/" + str(
-                        keys[key]) + "/saison/2006/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
+                        keys[key]) + "/saison/2008/verein/0/liga/0/wettbewerb//pos/0/trainer_id/0/plus/1"
                     for ghalet, shyh in D.items():
                         url = url.replace(ghalet, shyh)
                     listURL.append(url)
@@ -81,7 +81,7 @@ with open('2007_2008.csv', 'a', newline='', encoding='utf8') as file:
                             'alt').replace('\n', "")
                         CountryOfNewTeam = img[k][-1].get(
                             'alt').replace('\n', "")
-                        YearOfTransfert = "2007"
+                        YearOfTransfert = "2009"
                         autreURL = listURL[i]
                         print(autreURL)
                         response = requests.get(autreURL, headers=HEADERS)
