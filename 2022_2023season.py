@@ -3,13 +3,13 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 
-with open('2015_2016.csv', 'w', newline='', encoding='utf8') as file:
+with open('2015_2016.csv', 'a', newline='', encoding='utf8') as file:
         thewriter = writer(file)
         header = ['name', 'age', 'position', 'Country', 'MarketValue', 'PreviousTeam', 'LeagueOfPreviousTeam', 'CountryOfPreviousTeam', 'Fee', 'YearOfTranfert', 'NewTeam', 'LeagueOfNewTeam', 'CountryOfNewTeam',
                   'Height', 'Agent', 'JoinedCurrentTeam', 'ContratExpires', 'Squad', 'Appearances', 'PPG', 'Goals', 'Assists', 'OwnGoals', 'SubsON', 'SubsOFF', 'YellowCards', 'SecondYellowCards', 'RedCards', 'PenaltyGoals', 'MinutesPerGoal', 'MinutesPlayed', 'PlaceOfBirth', 'DateOfBirth']  # les noms des colonnes du fichier
         #thewriter.writerow(header)  # first row contains the header values
 
-        for num_page in range(1,81):
+        for num_page in range(61,81):
                 URL = f"https://www.transfermarkt.com/transfers/saisontransfers/statistik/top/plus/1/galerie/0?saison_id=2015&page=" + \
                     str(num_page)
                 # solution to 403 forbidden
